@@ -1,0 +1,13 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-03-16,CCGD,6.84,6.98,6.69,6.92,6.92,462000,1,COVID cyber-threat surge (increased demand for remote security)
+2021-07-05,CCGD,20.08,20.22,19.93,20.16,20.16,2448000,1,Series B $75M funding closed (investor confidence boost)
+2022-02-10,CCGD,26.20,26.34,26.05,26.28,26.28,3366000,1,Acquisition of networking startup (expanded product portfolio)
+2023-05-08,CCGD,8.35,8.55,8.15,8.45,8.45,630000,1,Launch of ransomware-response module (market reception positive)
+2023-08-14,CCGD,9.20,9.40,8.60,8.75,8.75,720000,1,Fake threat-report scandal revealed (FTC investigation starts, stock dip)
+2023-10-16,CCGD,9.90,10.20,9.65,10.05,10.05,680000,1,Acquisition of DeepBlue Forensics LLC (DFIR capabilities added)
+2024-02-05,CCGD,11.00,11.20,10.80,11.10,11.10,750000,1,Secure browser plugin collaboration with Mozilla (privacy focus)
+2024-05-14,CCGD,11.80,12.10,11.30,11.45,11.45,820000,1,Signed-update supply-chain breach disclosed (stock dip from trust issues)
+2024-11-22,CCGD,12.50,12.80,12.30,12.70,12.70,780000,1,ForgeShield v3 zero-trust launch (hardware-anchored, positive reception)
+2025-02-10,CCGD,12.80,13.60,12.60,13.40,13.40,890000,1,“Tri-Forge” JV with C003 & C002 signed (challenge hyperscalers)
+2025-05-04,CCGD,13.10,13.40,12.70,12.95,12.95,950000,1,Price-war retaliation against CrowdStrike (temporary margin hit but volume gain)
+2025-08-19,CCGD,15.10,15.35,14.90,15.25,15.25,560000,0,Current post-JV stability (cumulative growth from recovery)

@@ -1,0 +1,12 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-03-16,QQSL,6.10,6.40,5.70,6.25,6.25,420000,1,COVID remote-doc surge (SaaS demand)
+2021-06-10,QQSL,10.20,10.60,10.00,10.45,10.45,680000,1,QuillOps v2 launch (knowledge graph + RAG)
+2022-03-08,QQSL,12.50,12.90,12.30,12.80,12.80,720000,1,GDPR-ready policy layer released (EU wins)
+2023-04-12,QQSL,14.40,14.80,13.90,14.10,14.10,860000,1,Competitor FUD campaign alleges ‘unsafe outputs’ (temporary dip)
+2023-09-05,QQSL,15.30,15.90,15.10,15.80,15.80,710000,1,Borealis (C003) green-compute integration (EU data residency)
+2024-01-23,QQSL,16.20,16.60,15.70,16.05,16.05,780000,1,Rumor of fake testimonials (internal audit clears, small drawdown)
+2024-05-06,QQSL,16.80,17.40,16.50,17.25,17.25,900000,1,Public AI use-policy + lineage report (trust recovery)
+2024-11-19,QQSL,18.40,18.90,18.10,18.70,18.70,820000,1,QuillSign launch with policy guards (up-sell momentum)
+2025-02-10,QQSL,18.90,19.60,18.70,19.40,19.40,940000,1,Connector JV with C004 (zero-trust) and C003 (hybrid cloud) for regulated RAG
+2025-05-08,QQSL,19.30,19.70,18.90,19.10,19.10,880000,1,Price war: Notarion AI slashes SMB pricing 15% (QQSL holds enterprise tier)
+2025-08-19,QQSL,20.10,20.60,19.90,20.45,20.45,650000,0,Current post-JV stable close after earnings beat

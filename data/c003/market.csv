@@ -1,0 +1,4 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c003
+2020-01-15,C003,PoCs Active,4,"Cloud migrations","Success 70%.","Internal","Backlog +$4M"
+2024-04-12,C003,Scandal Impact, -8%,"Fake claims vs Nimbus","Downfall.","News","Recovery pivoted"
+2025-02-11,C003,Collab Reaction,C002,"Joint pilots","Challenge Nimbus.","Press","Share +"

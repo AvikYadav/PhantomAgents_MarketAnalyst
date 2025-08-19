@@ -1,0 +1,6 @@
+event_id,date,type,actors,target,summary,detailed_description,impact_scope,impact_details,related_docs
+E001,2020-03-16,Market Surge,C003,N/A,"COVID increases cloud demand","Revenue +22% from remote work.","Market","Uplift","F2020-10K-C003"
+E002,2021-07-02,Funding Round,C003,N/A,"Series A $55M closed","For platform scale.","Financial","Cash +$55M","HIST2021-C003"
+E003,2022-02-10,Acquisition,C003,Networking Startup,"Acquired for $6M","To enhance hybrids.","M&A","Patents +12","N/A"
+E004,2024-04-11,Scandal,C003,N/A,"Fake benchmarks exposed","Dirty trick to undercut Nimbus; fine $700K.","Reputation","Revenue -8%","HIST2024A-C003"
+E005,2025-02-10,Collaboration,C003|C002,N/A,"JV with Asteria for AI-cloud","To challenge Nimbus MegaCloud.","Collaboration","Revenue +18%","HIST2025A-C003"

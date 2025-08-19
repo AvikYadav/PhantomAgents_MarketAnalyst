@@ -1,0 +1,32 @@
+date,type,description,detailed_impact_on_c005,global_context,mitigation_by_c005,related_event_id
+2020-03-16,Macro Trend,"Remote work digitization","Demand spike for doc automation.","Pandemic shift.","Rapid onboarding playbooks.","EV001
+2020-09-17,Regulatory,"Audit trust emphasis","SOC 2 II boosts enterprise sales.","Risk focus.","Audit rhythm established.","EV037
+2021-04-21,Healthcare Policy,"HIPAA enforcement steady","Healthcare opportunity opens.","US policy stable.","BAA program readied.","EV005
+2021-06-10,Tech Trend,"RAG in enterprise","QuillOps v2 aligns with wave.","LLM adoption rise.","Invested in governance.","EV006
+2021-11-29,Retail Ops,"Omnichannel doc surge","Store SOPs popular.","E-comm integration.","Retail templates expanded.","EV008
+2022-01-20,Sustainability,"Green IT procurement","EU buyers prefer low-carbon.","Corporate ESG.","Borealis integration.","EV009
+2022-03-08,Privacy,"GDPR interpretations tighten","Policy layer differentiates.","EU DPA notes.","Automated purpose-limiters.","EV010
+2022-09-22,Public Sector,"Gov digitization acceleration","Agency wins rise.","E-doc mandates.","Fed-ready templates.","EV041
+2022-12-07,Services,"Partner ecosystems scale value","Coverage expansion.","SI consolidation.","Program formalized.","EV014
+2023-02-15,Market Conduct,"AI safety fears spike","FUD impacts SMBs.","Public discourse.","Third-party audits; evals.","EV015
+2023-04-12,Sentiment Shock,"Social media amplifies risk","Short-lived dip.","Info cascades.","Transparency cadence.","EV017
+2023-07-06,Security,"Zero-trust requirements","Attested outputs matter.","Breach cycles.","Cobalt connector.","EV019
+2023-09-05,Energy & Data,"Residency + low-carbon","EU competitiveness.","Energy pricing shocks.","Hybrid nodes with Borealis.","EV020
+2024-01-23,Ethics,"Marketing integrity scrutiny","Rumor risk recognized.","Global crackdowns.","Channel cleanup & policy.","EV022
+2024-03-04,Governance,"AI use-policy norms emerge","Trust differentiator.","Industry standardizing.","Public policy + KPIs.","EV024
+2024-05-06,Disclosure,"Lineage reporting demanded","Quarterly reports add trust.","Reg-tech convergence.","Report cadence set.","EV025
+2024-08-01,Advisory,"Big consultancy influence","Playbooks drive sales.","Procurement complexity.","Co-sell motions.","EV027
+2024-11-19,Workflow,"Signature + policy trend","E-sign grows with AI guard.","Vendor convergence.","QuillSign launch.","EV028
+2025-01-15,Reg Alignment,"Pre-bid compliance mapping","Shorter cycles.","EU/US tender shifts.","Reg liaison hires.","EV029
+2025-02-10,Industry Shift,"Regulated RAG stacks","Tri-Forge momentum.","Stack competition.","JV with C002/C003.","EV030
+2025-03-12,Pricing,"SMB software price pressure","Hold enterprise tier.","Macro tightening.","Value bundles.","EV033
+2025-04-08,Ops Maturity,"Prompt red-team standards","Scenario tests expected.","SOC for AI forming.","Feature release.","EV032
+2025-06-03,Finance Sector,"BFSI transformation","Large, multi-country deals.","Reg harmonization.","Compliance mappings.","EV034
+2025-07-09,Capital Markets,"Analyst optimism","Outlook raised.","Sector rotation.","Playbook proof.","EV035
+2025-08-19,Results,"Beat & raise cycles","Confidence in guidance.","Macro mixed.","Execution flywheel.","EV050
+2020-12-18,Insurance,"Claims digitization push","Insurtech budgets grow.","Low rates phase.","Claims solution refined.","EV004
+2021-02-09,IP Climate,"Defensive patents valued","Lineage IP key.","Patent wars uptick.","Filed core claims.","EV004
+2022-05-19,IP Grant,"Governance IP recognized","Higher barriers.","Patent office guidance.","Expanded filings.","EV011
+2023-06-19,Backoffice,"ERP automation value","Cashflow improves.","Rate hikes.","DSO improvements.","EV043
+2024-04-11,Security,"Adversarial testing norm","Vendors measured.","High-profile breaches.","Red-team program.","EV044
+2024-12-10,Awards,"RegTech recognition","Buyer shortlist boost.","Industry showcases.","Leverage in RFPs.","EV046

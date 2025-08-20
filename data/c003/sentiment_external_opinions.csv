@@ -1,0 +1,4 @@
+date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
+2020-03-17,C003,News,0.20,350,"covid;cloud;demand","Positive shift.","Coverage on surge."
+2024-04-12,C003,Twitter,-0.50,2500,"fake;benchmarks;scandal","Backlash on dirty tricks."
+2025-02-11,C003,News,0.58,600,"jv;asteria;takedown","Positive on collab."

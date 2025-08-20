@@ -1,0 +1,21 @@
+## Pilot Projects and Early Growth (2020)
+
+In January 2020, C002 had 3 active Industrial Vision pilots with logistics firms, achieving a 67% success rate, which was expected to add over $3M to the backlog. By March 2020, the company saw a hiring surge of 50 AI engineers for a remote AI pivot, increasing the team size by 20%. The win rate for bids improved to 40% by June 2020, attributed to enhanced demos against VisionTitan bids, leading to a sales boost. However, in July 2020, the churn rate increased to 3.5% due to one client switching to a rival over pricing concerns, though overall retention improved. Investor interest grew in October 2020, with 4 post-funding VCs showing interest for expansion, signaling a positive impact on valuation.
+
+## Competitive Landscape and Intellectual Property (2021)
+
+The competitive landscape shifted in February 2021 with EdgeAI Corp launching a new SDK, prompting C002 to differentiate on privacy. C002 strengthened its intellectual property in April 2021 by filing 10 patents for edge nets, reinforcing its competitive moat. The company secured 3 design wins in November 2021 for retail integrations post-launch, contributing to a $6M revenue increase. By December 2021, C002's market share in edge AI reached 8.2%, an increase from 6% in 2020, indicating significant growth.
+
+## Strategic Integrations and Market Penetration (2022)
+
+In February 2022, C002 achieved a 12% synergy increase through the integration of a sensor firm, which boosted its SDK and improved efficiency. The company's win rate in North American bids rose to 45% by May 2022, driven by expansion efforts, leading to increased market penetration. However, in August 2022, a "dirty trick" involving leaked benchmarks against VisionTitan led to a short-term gain in leads and a 2% share increase, though risks were noted. Client loyalty remained high, with churn rate stabilizing at 2.5% in November 2022, reflecting high customer satisfaction.
+
+## Scandal, Restructuring, and Market Consolidation (2023)
+
+A significant setback occurred in March 2023 when fake demos were exposed, causing a 15% revenue downfall and backfiring against VisionTitan. This led to cost-cutting measures and layoffs, resulting in a 5% team reduction by April 2023. The market saw consolidation in July 2023 with a rival acquisition, leading to an 8% synergy gain and a 5% increase in market share. In September 2023, C002 settled an intellectual property dispute with VisionTitan, avoiding a trial but incurring $300K in costs. By December 2023, C002 showed signs of recovery, with its market share reaching 9.5% post-pivot, indicating a rebound.
+
+## Expansion, Collaboration, and Market Dynamics (2024-2025)
+
+In January 2024, C002 had 5 active pilots for EV QA with Helios pre-JV, increasing backlog by $10M. The win rate for post-launch bids driven by NovaCam reached 48% by April 2024, making it a key revenue driver. Expansion hiring saw 80 roles in APAC for a Tokyo subsidiary by June 2024, increasing the team by 10%. The company was cleared of false advertising claims in September 2024, a minor hit echoing the past scandal. C002 further enhanced its technology by merging with OptiLens in December 2024, projecting a 10% synergy in cameras.
+
+Looking ahead to 2025, C002 initiated a hiring surge of 70 for a JV involving AI and legal expertise, increasing the team by 8%. A joint marketing effort with C001 was announced in February 2025, aimed at challenging VisionTitan and boosting visibility. A 3% discount from ChipForge in March 2025, post-JV, reduced COGS by 1.5%. A price war initiated in May 2025, with C001 winning against aggressive cuts, resulted in a 10% volume increase but a 2% margin decrease. VisionTitan responded with a smear campaign in May 2025, alleging past tricks and negatively impacting sentiment. An ongoing EU probe into the JV with C001 introduced volatility in June 2025. EdgeAI Corp attempted to undercut C002 in July 2025, but C002 maintained its premium positioning to defend market share. An analyst upgrade in August 2025, citing JV upside and spillover from C001, led to a 6% stock increase. By August 2025, C002's market share reached 11.3% post-JV gains, showing progress against VisionTitan.

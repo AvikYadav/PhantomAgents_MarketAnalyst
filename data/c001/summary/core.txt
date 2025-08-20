@@ -1,0 +1,35 @@
+## Company Overview##
+Helios Mobility Systems, traded under the ticker HLMO, is a privately held company incorporated on June 21, 2012, with the legal name Helios Mobility Systems Incorporated. It operates within the EV Components sector, specializing in Battery Modules and Management Systems. The company is headquartered in San Jose, California, USA, and has a significant global presence, operating across North America, Europe, and the Asia-Pacific region.
+
+## Founding and Mission##
+Helios Mobility Systems was founded by Maya Chen and Arun Patel. Its origin story traces back to a university battery lab spin-off, where the founders focused on tackling thermal runaway issues in early electric vehicle prototypes. The company's mission is to pioneer safer and more efficient energy storage solutions to support the global transition to electrified mobility.
+
+## Products and Services##
+The company's primary products include the VoltEdge S95 high-density battery modules and the FluxGrid BMS, which features advanced anomaly detection capabilities. They also offer ThermoShield thermal barriers. Helios Mobility Systems provides field telemetry analytics, custom OEM integration services, and support for warranty and recall processes. Their core intellectual property assets are built around adaptive BMS algorithms, solid-state separator designs, and patents related to real-time anomaly detection. As of 2025, the company holds 64 patents.
+
+## Subsidiaries and Partnerships##
+Helios Mobility Systems has established international operations through its subsidiaries, Helios Europe GmbH, based in Berlin, Germany, and Helios APAC Pte Ltd, located in Singapore. The company utilizes banking services from First National Bank (USA) and EuroTrade Bank (EU). Their major customers include automotive manufacturers like Autovista Motors (USA) and UrbanEV Fleet (EU), as well as RailTrak Systems (APAC). Key suppliers consist of LithionChem (battery cells, China), NeoCopper (conductors, USA), and PixelForge (optics, acquired in 2024).
+
+## Market Strategy and Operations##
+The company's go-to-market strategy centers on direct Business-to-Business (B2B) sales to Original Equipment Manufacturers (OEMs) and forging strategic partnerships with tier-1 suppliers. They also offer an online configurator for custom battery modules. Helios Mobility Systems employs a tiered pricing model that includes volume discounts and annual Service Level Agreements (SLAs) for their analytics services, along with freemium trials for their BMS software. Their primary cloud provider is AWS, with Azure used for backups to ensure EU compliance. The company utilizes SAP S/4HANA for its ERP and supply chain management, and Salesforce CRM for customer relationship management, augmented with custom EV integrations. Their data infrastructure relies on Databricks for analytics, Snowflake for data warehousing, and Kafka for real-time telemetry.
+
+## Employee Information and Work Policies##
+Helios Mobility Systems has seen steady growth in its workforce, with employee numbers increasing from 1780 in 2020 to 2680 by 2024. As of 2024, 18% of their workforce is unionized, and 42% of employees are working remotely.
+
+## Security and Certifications##
+The company holds key security certifications, including ISO 27001, SOC 2 Type II, and IATF 16949, demonstrating their commitment to information security and automotive quality standards.
+
+## ESG and Sustainability Goals##
+Helios Mobility Systems is committed to environmental and social governance (ESG). Their environmental goals include achieving net-zero operations by 2035, sourcing 30% of their energy from renewables by 2027, and reducing Scope 3 emissions by 15% annually. On the diversity front, they aim to have 40% women in management roles by 2028, expand STEM apprenticeship programs for underrepresented groups, and conduct annual DEI audits. Their ESG policy summary highlights a focus on sustainable sourcing, ethical labor practices, and circular economy principles, particularly for battery recycling.
+
+## Risk Management and Competition##
+The company's top three identified risks are supply chain concentration (which they are mitigating through dual-sourcing), ensuring regulatory compliance with EV safety standards, and the potential for IP infringement from competitors. Key competitors include Voltix Dynamics (USA), EastCell Corp (China), and Magna Electro (Canada).
+
+## Regulatory and Compliance##
+Helios Mobility Systems operates under the purview of regulatory bodies such as the US NHTSA for safety, EU DG COMP for antitrust matters, and undergoes certification by organizations like TÜV Rheinland. The company adheres to US GAAP accounting standards and operates within tax jurisdictions including the USA, Germany, and Singapore. Their transfer pricing method is based on the Transactional Net Margin Method (TNMM) with third-party benchmarks.
+
+## Financial and Governance Structure##
+Internally, Helios Mobility Systems assesses its credit rating as BBB- with a stable outlook. Their cash management policy prioritizes maintaining a minimum of six months of liquidity and diversifying deposits across A-rated banks, with counterparty limits set at A- or better. Treasury risk limits are in place, with a Value at Risk (VaR) limit of $3.5 million daily, FX exposure hedged within ±$1.2 million, and interest rate swaps used for debt management. The company has a board size of 7 directors, supported by several board committees including Audit, Risk & Compliance, Compensation, Nominating & Governance, and ESG. As of 2024, 57% of the board members are independent.
+
+## Professional Services and Contact Information##
+Kensington & Rowe LLP serves as the company's auditor, while Arcadia Legal Partners acts as their legal counsel. North Bridge Communications manages their public relations. For investor relations, the contact is ir@heliosmobility.com, and for media inquiries, it is press@heliosmobility.com. The company's careers portal can be accessed at https://careers.heliosmobility.com, and their website is https://www.heliosmobility.com. Helios Mobility Systems is currently in an Active status.

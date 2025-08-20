@@ -1,0 +1,55 @@
+## Company Overview##
+
+Asteria Vision Labs, operating under the ticker ASVL and legal name Asteria Vision Labs GmbH, was founded on February 12, 2016. Headquartered in Berlin, Germany, the company is a key player in the AI & Computer Vision sector, specifically focusing on Edge AI Vision SDKs. Their industry classifications include NAICS 541511, SIC 7371, and GICS 45102010. Asteria Vision Labs operates globally, with a presence in Europe, North America, and the Asia-Pacific region.
+
+## Founding and Mission##
+
+The company was established by Felix Brandt and Lina Kovacs in a Berlin university laboratory. Their inspiration stemmed from the need for edge-based vision AI solutions for industrial applications, particularly driven by advancements in drone surveillance technology. Asteria Vision Labs' mission is to "empower real-time, privacy-focused vision intelligence for a connected world."
+
+## Operations and Products/Services##
+
+Asteria Vision Labs offers a suite of products and services designed to bring AI-powered vision capabilities to the edge. Their primary products include the SightFlow MX edge vision SDK, Asteria NovaCam smart cameras, and the DefectSpotter industrial QA module. They also provide custom AI model training, cloud-to-edge deployment services, and API integrations. The company's core intellectual property assets consist of edge-optimized neural networks, anomaly detection algorithms, and patents related to privacy-preserving vision technology, with a patent count of 82 as of 2025.
+
+## Corporate Structure and Partnerships##
+
+The company has established subsidiaries to support its global operations, including Asteria NA Inc. in San Francisco, USA, and Asteria APAC Ltd in Tokyo, Japan. Their banking relationships are with EuroTrade Bank in Germany and Silicon Valley Bank in the USA. Major customers include Helios Mobility Systems for electric vehicle quality assurance, RetailOptix for logistics optimization, and AutoForge for manufacturing solutions. Key suppliers are ChipForge Semiconductors in Taiwan for sensors, DataEdge Cloud in the USA for hosting, and the recently acquired OptiLens for optics.
+
+## Go-to-Market Strategy and Pricing##
+
+Asteria Vision Labs employs a B2B enterprise sales strategy, focusing on product demonstrations and Proofs of Concept (PoCs). They also leverage a partner ecosystem with system integrators and offer a freemium SDK for developers. Their pricing model is primarily subscription-based, with per-device licensing and premium support tiers, alongside usage-based pricing for cloud inference.
+
+## Technology Infrastructure##
+
+The company's primary cloud provider is Google Cloud, with AWS utilized for multi-region compliance. Their Enterprise Resource Planning (ERP) system is Oracle NetSuite, and they use HubSpot CRM with AI lead scoring for customer relationship management. Their data stack is built upon the TensorFlow ecosystem, BigQuery for analytics, and Kafka for streaming data.
+
+## Employee and Work Policies##
+
+Asteria Vision Labs has seen significant employee growth, from 650 in 2020 to an anticipated 1350 by 2025. In 2024, the company reported that 12% of its workforce is unionized and 55% work remotely.
+
+## Security and Compliance##
+
+The company holds several key security certifications, including ISO 27001, GDPR compliance, and ISO 27701 for privacy.
+
+## Environmental and Diversity Goals##
+
+Asteria Vision Labs is committed to sustainability, aiming for net-zero data centers by 2030 and a 20% annual reduction in e-waste through modular hardware. They also have ambitious diversity goals, targeting 45% diverse hires by 2027, implementing inclusive AI ethics training for all employees, and publishing annual diversity reports.
+
+## ESG Policy and Risk Management##
+
+Their ESG framework prioritizes ethical AI, data privacy, and sustainable computing practices. The top three risks identified in their risk register are: 1. Regulatory scrutiny on AI ethics, which they are mitigating through regular audits; 2. Intense competition within the edge AI market; and 3. Risks associated with IP theft, particularly highlighted by past fake marketing scandals.
+
+## Competitive Landscape and Regulators##
+
+Key competitors for Asteria Vision Labs include VisionTitan Inc. (USA), EdgeAI Corp. (China), and OptiSense Tech (Canada). The company operates under the purview of regulators such as the EU AI Act regulators, the US FTC for antitrust matters, and TÜV SÜD for certification processes.
+
+## Financial and Governance##
+
+Asteria Vision Labs adheres to IFRS accounting standards and operates within tax jurisdictions including Germany, the USA, and Japan, utilizing the Cost Plus Method (CPM) with benchmarks for transfer pricing. Internally, the company assesses its credit rating as "A-" with a positive outlook. Their cash management policy focuses on maintaining nine months of liquidity, diversifying investments in AA-rated bonds, and setting counterparty limits at A or better. Treasury risk limits include a daily Value at Risk (VaR) limit of $2.8 million and FX exposure hedged within ±$0.8 million, with no speculative derivatives.
+
+## Board and Audit Information##
+
+The company has a board of 6 members, with key committees including Audit, Ethics & AI, Compensation, Nominating, and Sustainability. In 2024, 62% of the board members were classified as independent. Their auditor is Bauer & Associates GmbH, and their legal counsel is EuroLegal Advisors. The Public Relations agency is Berlin Comm Group.
+
+## Contact Information##
+
+For investor relations, contact ir@asteriavision.com. Media inquiries can be directed to press@asteriavision.com. Prospective employees can find opportunities at https://careers.asteriavision.com, and the company's official website is https://www.asteriavision.com. Asteria Vision Labs is currently in an "Active" status.

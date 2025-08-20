@@ -1,0 +1,23 @@
+## Company Overview and Founding
+
+Borealis CloudWorks Oy was founded in Helsinki in September 2015 by Elsa Virtanen and Kai Lund. The company's initial focus was on providing green cloud solutions, leveraging Nordic energy sources.
+
+## Financial Performance and Growth
+
+Borealis CloudWorks has demonstrated consistent revenue growth over the years. In 2020, revenue was $82.1 million, a 22% increase year-over-year, driven by increased demand for cloud services during the COVID-19 pandemic. This growth continued into 2021 with revenue reaching $106 million (29% growth), and in 2022, revenue climbed to $137.2 million (also 29% growth). In 2023, revenue reached $140.5 million, showing slight growth despite some challenges in the third quarter. The company achieved 18% growth in 2024, with revenue reaching $165.9 million. Borealis CloudWorks has consistently maintained gross margins around 60.2% to 60.3%. Net income has also seen a positive trend, from $11.4 million in 2020 to $30.9 million in 2022, though it dipped to $23.5 million in 2023 before rising to $29.1 million in 2024. The company's cash reserves have also grown, from $10.7 million in 2020 to $15.7 million in 2024. Borealis CloudWorks has ambitious growth targets, forecasting $100 million in revenue for 2021, $130 million for 2022, and $200 million for 2025.
+
+## Research and Development and Acquisitions
+
+The company has invested significantly in Research and Development (R&D) to enhance its platform and offerings. R&D expenditure was $41.6 million in 2020, with 25% allocated to R&D. In 2021, R&D spending was $23.8 million, focused on hybrid platforms. This increased to $30.8 million in 2022 and $32.4 million in 2023, and $36.6 million in 2024. In 2021, Borealis CloudWorks acquired a networking startup for $6 million.
+
+## Funding and Market Strategy
+
+In July 2021, Borealis CloudWorks raised $55 million in Series A funding, which was used for platform scaling. The company has strategically competed with Nimbus MegaCloud through aggressive pricing and, in 2024, through a joint venture with Asteria (C002) to develop AI-cloud solutions and challenge Nimbus. The company also expanded into the Asia-Pacific (APAC) region with a Singapore subsidiary in June 2024, anticipating a 20% revenue increase from this expansion.
+
+## Risks and Scandals
+
+Borealis CloudWorks has faced several risks and challenges. Energy volatility was identified as a key risk in 2020, though it was later mitigated. Competition from Nimbus MegaCloud has been a persistent factor. Data breaches were a concern in 2021, and regulatory scrutiny on benchmarks emerged in 2022. The company experienced a significant scandal in April 2024 when it was exposed for making fake uptime claims to gain an advantage over Nimbus MegaCloud, resulting in a $700,000 EU fine and an 8% revenue decline. This led to a pivot towards verified metrics. Ethics in marketing was also identified as a risk in 2023.
+
+## Strategic Partnerships and Future Outlook
+
+Borealis CloudWorks has been actively pursuing strategic partnerships. In 2024, early talks with C002 for AI-cloud development materialized into a joint venture with Asteria (C002) in February 2025. This collaboration aims to offer integrated AI-cloud solutions and challenge Nimbus, with a target of 25% growth and 10 new patents. The company also focuses on emerging technologies like edge compute. The board of directors consists of 8 members, with 65% independence. The company also outlines its tax strategies in its filings. Borealis CloudWorks is committed to sustainability metrics, which are included in its full financial statements.

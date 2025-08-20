@@ -1,0 +1,49 @@
+Here's a summary of the company information for Cobalt CyberGuard:
+
+## Company Identification and Overview##
+
+Cobalt CyberGuard, legally known as Cobalt CyberGuard Inc. and trading under the ticker CCGD, was incorporated on April 3, 2014. The company operates in the Cybersecurity sector, specifically focusing on Managed SOC & Zero-Trust solutions. Its headquarters are located in Boston, Massachusetts, USA. Cobalt CyberGuard's operations span across North America, Europe, and the APAC region. The company is privately held.
+
+## Founding and Mission##
+
+Cobalt CyberGuard was founded by Dr. Iris Nguyen and Jamal Carter. Its origins trace back to a DARPA-backed university lab where the founders developed adaptive honey-net technology for critical infrastructure protection. The company's mission is "To protect digital value by delivering autonomous, zero-trust defense with measurable resilience."
+
+## Workforce and Operations##
+
+The company has experienced significant growth in its workforce, with employee numbers increasing from 520 in 2020 to an estimated 1420 in 2024, and projected to reach 1560 by 2025 year-to-date. In 2024, 9% of the workforce is unionized, and 68% are working remotely.
+
+## Products and Services##
+
+Cobalt CyberGuard's primary offerings include SentinelMesh XDR, ForgeShield Zero-Trust Gateway, and the Cobalt CTRL SOC Platform. They also provide 24x7 managed SOC services, incident response retainers, and compliance audits.
+
+## Intellectual Property and Subsidiaries##
+
+The company's core intellectual property assets include adaptive deception grids, on-device micro-segmentation algorithms, and post-quantum key rotation IP. Cobalt CyberGuard holds a patent count of 77 as of 2025. Its subsidiaries include Cobalt EU GmbH (Frankfurt), Cobalt APAC Pte (Singapore), and the acquired DeepBlue Forensics LLC (Austin).
+
+## Financials and Partnerships##
+
+Cobalt CyberGuard's banking partners include Atlantic Bank of Boston and Global Capital Partners. Its major customers are Borealis CloudWorks, Medisafe Health, and SkyBridge Airlines. Key suppliers consist of Silicon-Core Chips, SecureLogix, and DataNet Servers. The company utilizes an ARR subscription model for its services, with additional tiered fees for MDR. Its primary cloud provider is Azure, with GCP used for backups. For its enterprise resource planning, it uses SAP S/4HANA, and for customer relationship management, it uses Salesforce Lightning with custom threat-intelligence plugins. Its data stack includes Snowflake for data warehousing, Kafka for streaming, and Elastic SIEM for analytics.
+
+## Market Strategy and Technology##
+
+The company's go-to-market strategy involves direct enterprise sales, often initiated through threat demonstrations and supported by MSSP partnerships. They also offer free vulnerability scans to generate leads and host annual cybersecurity summits.
+
+## Security and Compliance##
+
+Cobalt CyberGuard holds several key security certifications, including ISO 27001, SOC 2 Type II, FedRAMP Moderate, and PCI-DSS Level 1.
+
+## ESG Goals and Policies##
+
+Environmental goals include achieving net-zero operations by 2032, sourcing 75% of power from renewables by 2026, and aiming for 90% hardware recycling. Diversity goals focus on increasing women and non-binary representation in management to 45% by 2028, with initiatives like inclusive hiring sprints and annual mandatory bias training. The company's ESG policy emphasizes privacy-by-design, green data centers, an inclusive culture, and transparent reporting, subject to annual audits.
+
+## Risks and Competitors##
+
+The top three risks identified are supply-chain attacks on suppliers, litigation due to false-positive outages, and talent retention in a competitive market. Mitigation strategies include multi-vendor sourcing, service level agreements (SLAs), and equity programs, respectively. Cobalt CyberGuard competes with companies such as CrowdStrike, Palo Alto Networks, NightGuard AI, and Sentinel Fortress Inc.
+
+## Regulatory and Governance##
+
+The company is regulated by bodies including US CISA, EU ENISA, the FTC, and the SEC. It adheres to US GAAP accounting standards and operates within tax jurisdictions including the USA, Germany, and Singapore. Its internal credit rating is "BBB (positive watch)". The company maintains a cash management policy focused on an 8-month liquidity buffer and has treasury risk limits in place. Cobalt CyberGuard has a board of 7 members, with various committees including Audit, Risk & Compliance, Compensation, Nominating & Governance, and ESG. In 2024, 57% of board members are considered independent.
+
+## Professional Services and Contacts##
+
+Cobalt CyberGuard's auditor is Grant & Mason LLP, and its legal counsel is Vertex Legal Group. The company works with BlueWave Communications for its PR agency. Investor relations can be contacted at ir@cobalt-cg.com, and media inquiries can be sent to press@cobalt-cg.com. The careers portal is available at https://careers.cobalt-cg.com, and the company website is https://www.cobalt-cg.com. Cobalt CyberGuard's current status is Active.

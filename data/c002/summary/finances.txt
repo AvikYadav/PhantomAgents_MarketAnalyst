@@ -1,0 +1,19 @@
+## Revenue and Profitability
+
+Company C002 experienced a consistent upward trend in revenue from Q1 2020 to Q4 2024, starting at $12,400,000 and reaching $34,600,000. This growth was accompanied by an increasing gross profit, which rose from $7,600,000 in Q1 2020 to $21,900,000 in Q4 2024. The gross margin percentage also saw a slight increase over this period, moving from 61.3% to 63.3%. Operating income also showed significant growth, starting at $2,000,000 in Q1 2020 and peaking at $9,000,000 in Q4 2024. Net income followed a similar growth trajectory, increasing from $1,810,000 in Q1 2020 to $9,000,000 in Q4 2024, with a corresponding rise in basic EPS from $0.18 to $0.88.
+
+In Q1 2025, revenue decreased to $31,200,000 and gross profit to $19,700,000, with a gross margin of 63.1%. However, in Q2 2025, revenue recovered to $32,500,000 and gross profit to $20,600,000, with a gross margin of 63.4%. Operating income for Q1 and Q2 2025 was $6,500,000 and $7,100,000 respectively, while net income was $6,500,000 and $7,100,000. Basic EPS for these quarters was $0.63 and $0.69.
+
+## Operating Expenses and R&D
+
+Operating expenses (OPEX) generally increased over the observed period, from $5,600,000 in Q1 2020 to $12,900,000 in Q4 2024. Within OPEX, R&D expenses showed a notable increase, rising from $2,850,000 in Q1 2020 to $7,440,000 in Q4 2024. Selling expenses and administrative expenses also saw increases, though at a slower pace. In Q1 2025, OPEX increased significantly to $13,200,000, with R&D expenses at $7,100,000, selling expenses at $2,700,000, and administrative expenses at $3,500,000. OPEX for Q2 2025 was $13,500,000, with R&D at $7,400,000, selling at $2,750,000, and administrative at $3,600,000.
+
+## Financial Health and Cash Flow
+
+Free cash flow generally improved from Q1 2020 ($1,500,000) to Q4 2024 ($7,500,000), indicating a stronger ability to generate cash. Cash and equivalents increased steadily from $6,200,000 in Q1 2020 to $11,300,000 in Q4 2024. Accounts receivable and inventory also grew over this period, reflecting increased business activity. Property, plant, and equipment showed a moderate increase from $9,500,000 to $13,300,000. Total assets grew from $37,000,000 to $75,000,000, while total liabilities increased from $14,000,000 to $24,500,000, resulting in a significant increase in shareholders' equity from $23,000,000 to $50,500,000.
+
+In Q1 2025, free cash flow was $5,300,000, and cash and equivalents stood at $11,600,000. By Q2 2025, free cash flow increased to $5,900,000, and cash and equivalents rose to $11,900,000. Accounts receivable, inventory, property, plant, and equipment, total assets, total liabilities, and shareholders' equity also saw increases in Q1 and Q2 2025 compared to the end of 2024.
+
+## Interest and Taxes
+
+Interest expense was present in the earlier periods, starting at $150,000 in Q1 2020 and decreasing to $40,000 in Q4 2022, after which it became $0 from Q1 2023 onwards. Tax expense was $40,000 in Q1 2020, decreasing to $0 in Q1 2021 and remaining at $0 until Q1 2024, where it was $100,000, and then remained at $0 for Q2, Q3, and Q4 of 2024. In 2025, tax expenses were $0 for both Q1 and Q2.

@@ -6,4 +6,4 @@ date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
 2024-02-28,C012,Quality News,-0.41,720,"recall;sensors;malfunction","Product recall raises quality control concerns.","Quality issues impact investor confidence"
 2024-08-14,C012,Recovery News,0.35,490,"quality;enhancement;controls","Enhanced quality controls restore operational confidence.","Recovery efforts appreciated by stakeholders"
 2025-02-10,C012,Partnership News,0.48,620,"alliance;innovation;water","Water Innovation Alliance creates integrated solutions.","Strategic collaboration expands opportunities"
-2025-08-19,C012,Financial News,0.52,680,"earnings;municipal;growth","Strong Q2 results
+2025-08-19,C012,Financial News,0.52,680,"earnings;municipal;growth","Strong Q2 results drive municipal sector confidence.","Financial performance validates growth strategy"

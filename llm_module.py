@@ -101,7 +101,7 @@ def rag_setup_vectorize_data(chunks=None,new=False):
     vector_store = vectorstore
     return vectorstore
 
-def llm_init(vectorstore,system_prompt="",model="gemini-2.5-pro"):
+def llm_init(vectorstore,system_prompt="",model="gemini-2.5-flash"):
     if len(system_prompt) == 0:
         system_prompt = "You are a concise market researcher. Use the provided context to answer. always use tools for getting vector plots for graphs, u don't need to do anything from vector plots , its just for ui but u have to call it everytime in each request"
     llm = ChatVertexAI(model_name=model, location="us-central1")
@@ -110,7 +110,7 @@ def llm_init(vectorstore,system_prompt="",model="gemini-2.5-pro"):
         ("human", "Question: {input}\n\nContext:\n{context}")
     ])
     doc_chain = create_stuff_documents_chain(llm, prompt)
-    retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 20})
     return create_retrieval_chain(retriever, doc_chain)
 
 def llm_response(message,llm):

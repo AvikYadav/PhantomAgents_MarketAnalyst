@@ -1,0 +1,9 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-04-15,VFMD,8.20,8.60,8.10,8.45,8.45,320000,1,VitalPump Smart Infusion System FDA 510k clearance received
+2021-08-10,VFMD,12.30,12.90,12.10,12.65,12.65,420000,1,FlowSensor Patient Monitor launch with Mayo Clinic partnership
+2022-11-22,VFMD,15.80,16.40,15.60,16.20,16.20,480000,1,MedConnect Integration Hub deployed across Johns Hopkins network
+2023-06-18,VFMD,17.50,18.00,17.20,17.85,17.85,510000,1,VA Medical Centers contract signed for nationwide deployment
+2024-03-14,VFMD,18.90,19.40,18.50,19.20,19.20,490000,1,Patient safety incident leads to voluntary recall of 500 devices
+2024-07-25,VFMD,18.40,19.00,18.20,18.75,18.75,460000,1,FDA investigation cleared; enhanced safety protocols implemented
+2025-02-10,VFMD,20.10,20.80,19.90,20.45,20.45,580000,1,Strategic partnership with Medisafe Health and Borealis CloudWorks announced
+2025-08-19,VFMD,21.20,21.70,20.90,21.55,21.55,540000,0,Strong Q2 earnings with accelerated hospital adoption post-incident resolution

@@ -1,0 +1,9 @@
+event_id,date,type,actors,target,summary,detailed_description,impact_scope,impact_details,related_docs
+EV020001,2020-05-22,Product Demo,C020,N/A,PhytoCell Lettuce Demo,Demonstrated first cell‑based lettuce production in vertical farms,Product,Generated global media buzz,DEMO-2020-05-C020
+EV020002,2021-11-04,Contract,C020,Nestlé,Licensing Agreement,Licensing plant‑cell tech for nutraceutical active production,Revenue,First recurring royalty stream,CONTRACT-2021-11-C020
+EV020003,2022-08-13,Regulatory Milestone,C020,FDA,GRAS Status for Cell Wine Additive,FDA granted food‑safe “GRAS” approval for Nutrivine additive,Regulatory,Enabled US commercialization,GRAS-2022-08-C020
+EV020004,2023-09-19,Partnership,C020,Coca-Cola,Strategic Ingredient Partnership,Supplying cell‑derived phytonutrients for beverage fortification,Revenue,Estimated $20M multi‑year deal,PART-2023-09-C020
+EV020005,2024-03-06,Risk,C020,N/A,High Energy Prices,Energy inflation squeezed indoor farm margins,Operations,Earnings margin pressure,ISSUE-2024-03-C020
+EV020006,2024-10-11,Resolution,C020,N/A,Solar Farm PPA Signed,Signed renewable PPAs to reduce energy volatility,Operations,Stabilized cost base,RESOLVE-2024-10-C020
+EV020007,2025-02-10,Joint Venture,C020|Bayer,N/A,Global JV Formed,Agri‑Biotech JV with Bayer to expand precision trait platform,Strategy,Expanded pipeline & new revenue streams,JV-2025-02-C020
+EV020008,2025-08-19,Earnings,C020,N/A,Q2 Record Revenue,Strong licensing & produce sale performance,Financial,Stock appreciation,ER-2025-08-C020

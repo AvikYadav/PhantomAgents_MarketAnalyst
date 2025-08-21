@@ -1,0 +1,15 @@
+[
+  {"doc_id":"F2020-AR-C021","type":"Annual Report","date":"2021-03-01","title":"2020 Annual Report","body":"AquaPure Desalination reported $32M FY revenue, driven by NeoMem low‑energy membrane demos. Risks: high energy dependency, geopolitical contracting hurdles. ESG: solar integration roadmap published."},
+  {"doc_id":"F2021-AR-C021","type":"Annual Report","date":"2022-02-28","title":"2021 Annual Report","body":"FY revenue $54M, first BOT contract in Africa significantly boosted backlog. Headcount expansion to 420. ESG: migrant worker equity policy launched."},
+  {"doc_id":"F2022-AR-C021","type":"Annual Report","date":"2023-02-27","title":"2022 Annual Report","body":"Revenue $92M, SunDesal solar plant commercially launched. Major recognition from UN Water. Patent portfolio reached 30."},
+  {"doc_id":"F2023-AR-C021","type":"Annual Report","date":"2024-02-29","title":"2023 Annual Report","body":"Revenue $128M, Kenya BOT 25‑yr project signed. Risks: brine disposal controversy rising. ESG: circular water recovery program started."},
+  {"doc_id":"F2024-AR-C021","type":"Annual Report","date":"2025-02-28","title":"2024 Annual Report","body":"Revenue $174M, brine disposal incident temporarily tarnished reputation. Resolved with zero‑brine solution. ESG: water‑neutral operations achieved."},
+  {"doc_id":"DEMO-2020-09-C021","type":"Product Document","date":"2020-09-19","title":"NeoMem Demo Document","body":"Dubai event showcased membranes reducing energy per cubic meter by 25%. Utilities signed MOUs."},
+  {"doc_id":"CONTRACT-2021-08-C021","type":"Contract","date":"2021-08-24","title":"Kenya PPP BOT Contract","body":"Signed 20‑year BOT PPP with Nairobi Water Utility. Capacity: 30 million cubic meters/year."},
+  {"doc_id":"LAUNCH-2022-11-C021","type":"Launch Note","date":"2022-11-18","title":"SunDesal Solar Launch","body":"Inauguration of first solar‑driven SWRO plant producing 50,000 m³/day. Reduced carbon footprint by 60%."},
+  {"doc_id":"KENYA-2023-06-C021","type":"Contract","date":"2023-06-12","title":"Kenya BOT Mega Contract","body":"25‑year, $300M BOT signed with Kenya Water Utility. Financing syndicated with African Dev Bank."},
+  {"doc_id":"ISSUE-2024-03-C021","type":"Environmental Report","date":"2024-03-03","title":"Brine Disposal Issue","body":"NGOs flagged elevated salinity near MENA pilot site. Regulators paused permits pending resolution."},
+  {"doc_id":"RESOLVE-2024-09-C021","type":"Resolution","date":"2024-09-07","title":"Zero‑Brine Solution","body":"Engineered solution recycles 95% brine into industrial salts & minerals. Regulators cleared compliance."},
+  {"doc_id":"JV-2025-02-C021","type":"Joint Venture","date":"2025-02-10","title":"Global Water Alliance","body":"JV with Veolia & Doosan to pursue $1B+ mega desal projects. Global PPP platform established."},
+  {"doc_id":"ER-2025-08-C021","type":"Earnings","date":"2025-08-19","title":"Q2 2025 Financial Report","body":"H1 2025 revenue topped $45M. Orderbook backlog doubled. Guidance raised 15% for FY."}
+]

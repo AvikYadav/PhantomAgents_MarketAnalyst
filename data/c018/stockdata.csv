@@ -1,0 +1,9 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-07-14,TVES,5.20,5.55,5.05,5.40,5.40,320000,1,Prototype VOLTMAX solid-state battery demonstrated
+2021-09-08,TVES,8.80,9.10,8.60,8.90,8.90,430000,1,First major utility pilot contract signed
+2022-11-16,TVES,12.10,12.60,11.80,12.40,12.40,560000,1,FlowCell X long-duration system launched commercially
+2023-06-25,TVES,14.70,15.10,14.40,14.85,14.85,600000,1,Large PG&E grid contract announced
+2024-02-12,TVES,15.60,16.10,15.20,15.40,15.40,610000,1,Supply chain bottlenecks in cathode materials reported
+2024-09-05,TVES,15.30,15.80,15.00,15.75,15.75,590000,1,Supply chain issues resolved; new contracts signed
+2025-02-10,TVES,16.70,17.40,16.50,17.10,17.10,720000,1,Green Technology Alliance JV with EcoFlow C010 and StratoSky C015
+2025-08-19,TVES,18.00,18.60,17.70,18.40,18.40,690000,0,Record Q2 earnings and expanded energy-as-service contracts

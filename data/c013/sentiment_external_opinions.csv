@@ -1,0 +1,26 @@
+date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
+2020-03-22,C013,Genomics News,0.40,480,genomics;ai;clinical,NexGen's GeneMAP platform gains clinical praise,Optimism in precision medicine AI
+2021-10-15,C013,Healthcare Tech,0.43,350,beta;precision;medicine,ClinPath AI beta impresses healthcare providers,Positive early adopter feedback
+2022-11-10,C013,Regulatory News,0.47,420,FDA;clearance;clinical,Regulatory approval boosts confidence,Market access facilitated
+2023-07-05,C013,Pharma News,0.44,370,partnership;pharma;ai,Collaborative R&D partnership welcomed,Industry sentiment improving
+2024-02-20,C013,AI News,0.48,400,privacy;federated;learning,Federated algorithms praised for privacy,Analysts note innovation leadership
+2025-02-10,C013,JV News,0.51,480,joint venture;tri-forge,Strategic collaboration generates excitement,Strong partnership enthusiasm
+2025-08-19,C013,Financial News,0.53,460,earnings;adoption;growth,Strong financials drive positive market sentiment,Investor enthusiasm high
+2020-08-14,C013,Security News,0.38,280,iso;security;certification,Security certification enhances enterprise trust,Compliance appreciated by buyers
+2021-02-25,C013,Government News,0.46,320,veterans;health;genomics,VA contract validates technology in healthcare,Government endorsement significant
+2021-06-18,C013,Patent News,0.36,240,patents;ai;variants,AI patent filings strengthen IP position,Technology differentiation noted
+2021-12-03,C013,Investment News,0.49,410,funding;series b;genomics,Genomics-focused funding round well received,Investor confidence in sector
+2022-04-19,C013,International News,0.41,290,europe;expansion;berlin,European expansion strategic for global growth,International growth trajectory positive
+2022-08-22,C013,Clinical Success,0.47,350,integration;clinical;workflow,Clinical integration success demonstrates value,Healthcare providers appreciate functionality
+2023-01-30,C013,Technology Partnership,0.44,310,illumina;integration;sequencing,Illumina partnership strengthens ecosystem position,Technology integration valued
+2023-04-12,C013,Academic Recognition,0.50,280,nih;award;innovation,NIH recognition validates scientific contributions,Academic credibility strengthened
+2023-09-28,C013,Product News,0.45,320,upgrade;platform;enhancement,VariantTrack 2.0 improvements well received,Customer satisfaction improvements noted
+2024-01-15,C013,Research News,0.42,270,harvard;research;collaboration,Academic research partnership enhances credibility,Scientific validation appreciated
+2024-05-20,C013,Compliance News,0.40,250,gdpr;compliance;privacy,GDPR compliance enables European expansion,Regulatory achievement recognized
+2024-09-10,C013,Partnership Expansion,0.46,380,broadgen;expansion;drug,Partnership expansion shows commercial traction,Drug discovery applications promising
+2024-11-25,C013,Innovation News,0.52,330,breakthrough;federated;privacy,Privacy-preserving innovation generates excitement,Technology leadership acknowledged
+2025-01-20,C013,IP News,0.39,220,patent;clinical;decision,Clinical decision support patent strengthens position,IP portfolio enhancement valued
+2025-03-15,C013,Asia News,0.43,290,singapore;asia;expansion,Asian market expansion targets growth region,Geographic diversification strategy sound
+2025-04-28,C013,Cancer Research,0.48,310,cancer;institute;oncology,Oncology genomics contract validates specialization,Cancer research applications promising
+2025-06-12,C013,Lab Integration,0.42,260,thermofisher;lab;workflow,Laboratory integration partnership strategic,Workflow integration appreciated
+2025-07-18,C013,Enterprise Launch,0.49,360,enterprise;platform;ai,GeneMAP 3.0 enterprise launch generates interest,Next-generation platform capabilities praised

@@ -1,0 +1,36 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c009
+2020-04-07,C009,Product Launch,1,OrbScout initial launch,Secured pilot contracts,Internal,Early revenue boost
+2020-09-15,C009,Patent Filing,3,AI navigation patents,Filed key algorithm patents,USPTO,IP protection strengthened
+2021-12-01,C009,Product Beta Release,1,NaviFly Suite,Improved flight safety and efficiency,Marketing,Sales pipeline increased
+2022-08-19,C009,Customer Win,12,National Grid UK contract,Large infrastructure inspection deal,Contracts,Significant ARR increase
+2023-04-20,C009,Reputation Issue,-1,Safety concerns,Social media questions reliability,Social Monitoring,Short-term lead slowdown
+2023-09-18,C009,Product Update,1,Safety firmware update,Enhanced AI and sensor integration,Internal,Customer confidence restored
+2024-02-10,C009,Alliance,1,Boeing and Medisafe partnership,Joint development for logistical drones,Press,Expands market reach
+2024-07-05,C009,Demo Event,1,Global conference demo,Industry-leading obstacle avoidance shown,Events,Lead generation spike
+2025-02-10,C009,Joint Venture,1,Tri-Forge Robotics JV,Collaboration across AI cloud robotics,Official Release,Growth opportunity
+2025-08-19,C009,Earnings Beat,1,Strong quarterly earnings,Record ARR momentum,Investor Reports,Market confidence
+2020-05-12,C009,Customer Expansion,0.8,TechForge pilot,Warehouse automation trials,Contracts,Revenue diversification
+2020-11-08,C009,Regulatory,1,FAA Part 107,Commercial operations approved,FAA,Market access unlocked
+2021-03-15,C009,Partnership,1,Siemens Energy,Power grid inspection services,Press Release,Vertical expansion
+2021-07-22,C009,Patent Grant,1,Obstacle avoidance,Core AI patent awarded,USPTO,Technology differentiation
+2021-10-30,C009,Geographic Expansion,1,European launch,Munich office opened,Internal,Regional growth
+2022-01-18,C009,New Vertical,1,FedEx trials,Package delivery pilots,Contracts,Market diversification
+2022-04-14,C009,Funding,25,Series B funding,Growth capital secured,Investment,Financial strength
+2022-06-21,C009,Product Enhancement,1,AutoDock v2,Fleet management improvement,Internal,Operational efficiency
+2022-10-03,C009,Thought Leadership,1,Summit keynote,Industry visibility,Events,Brand positioning
+2022-12-15,C009,Regulatory,1,EASA certification,European market access,EASA,Geographic expansion
+2023-02-28,C009,Security Partnership,1,Cobalt integration,Enhanced security features,Partnership,Product differentiation
+2023-06-07,C009,Contract Extension,3,National Grid expansion,Additional services added,Contracts,ARR growth
+2023-08-14,C009,Team Expansion,50,Engineering hires,R&D capability increase,HR,Innovation capacity
+2023-10-25,C009,Industry Recognition,1,Innovation award,NaviFly AI recognized,Awards,Credibility boost
+2023-12-11,C009,Market Entry,1,Healthcare drone,Medical delivery capabilities,Product,Vertical expansion
+2024-04-16,C009,Healthcare Partnership,1,Medisafe Health,Medical supply automation,Partnership,Sector growth
+2024-05-23,C009,Advanced IP,1,Swarm coordination,Multi-drone patents filed,USPTO,Technology advancement
+2024-08-30,C009,Major Contract,5,Siemens grid monitoring,Power infrastructure services,Contracts,Significant revenue
+2024-11-12,C009,APAC Expansion,1,Singapore office,Asian market entry,Internal,Geographic growth
+2025-01-20,C009,Major Upgrade,1,NaviFly v3.0,30% performance improvement,Internal,Competitive advantage
+2025-03-14,C009,Cloud Enhancement,1,Borealis integration,Data processing optimization,Partnership,Operational improvement
+2025-04-18,C009,Regulatory,1,Health Canada approval,Medical delivery authorization,Health Canada,Market access
+2025-05-25,C009,Industry Leadership,1,Delivery summit presentation,Thought leadership position,Events,Market positioning
+2025-06-30,C009,European Contract,4,Utility inspection,Grid monitoring services,Contracts,Revenue expansion
+2025-07-15,C009,Efficiency Patent,1,Energy optimization,Battery usage improvement,USPTO,Operational advantage

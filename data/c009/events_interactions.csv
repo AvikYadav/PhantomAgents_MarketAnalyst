@@ -1,0 +1,34 @@
+event_id,date,type,actors,target,summary,detailed_description,impact_scope,impact_details,related_docs
+EV009001,2020-04-07,Product Launch,C009,N/A,OrbScout Drone platform launch,Kickoff pilot deployments with key infrastructure customers securing early contracts worth $1.1M,Revenue,Customer traction builds,F2020Q1-C009
+EV009002,2020-09-15,Patent Filing,C009,N/A,Flight path AI patents,Filed 3 patents on autonomous AI navigation algorithms,IP,Strengthened defensibility,USPTO-2020-09-C009
+EV009003,2021-12-01,Product Launch,C009,N/A,NaviFly AI Suite beta release,Launch of AI-powered navigation control enhancing safety and efficiency,Marketing,Pipeline improved $4M,IP2021-12-C009
+EV009004,2022-08-19,Customer Win,C009,National Grid UK,Large scale inspection contract secured,Multi-year agreement to provide UAV inspection services,Revenue,$12M ARR potential,CON-2022-08-C009
+EV009005,2023-04-20,Reputation Incident,C009,N/A,Safety protocol concerns,Social media questions drone sensor reliability; company initiates extensive internal review,Reputation,Stock dip; customer conversations delayed,PR-2023-04-C009
+EV009006,2023-09-18,Product Update,C009,N/A,Safety review complete,New AI safety firmware and enhanced navigation algorithms released,Product,Customer reassurance,UPD-2023-09-C009
+EV009007,2024-02-10,Alliance,C009,Boeing|Medisafe Health,Strategic industry partnership,Collaborative development for industrial and healthcare logistics drones,Strategy,Pipeline and revenue boost,ALL-2024-02-C009
+EV009008,2024-07-05,Demo Showcase,C009,N/A,AI navigation breakthrough,Live demos at global robotics conference showing superior obstacle avoidance,Marketing,Lead generation spike,DEM-2024-07-C009
+EV009009,2025-02-10,Joint Venture,C009|C003|C005,N/A,Tri-Forge Robotics JV launched,Combining AI cloud and autonomous navigation for industrial clients,Strategy,Multi-sector growth opportunity,JV-2025-02-C009
+EV009010,2025-08-19,Earnings Release,C009,N/A,Strong Q2 earnings beat,Reported EPS +18% YoY with robust ARR growth across sectors,Financial,Stock price gains,ER-2025-08-C009
+EV009011,2020-05-12,Customer Win,C009,TechForge,"Industrial pilot expansion",Expanded pilot with TechForge Manufacturing for warehouse automation,Revenue,$0.8M ARR,Case-2020-05-C009
+EV009012,2020-11-08,Certification,C009,FAA,"FAA Part 107 compliance",Achieved commercial drone operation certification,Regulatory,US operations cleared,Cert-2020-11-C009
+EV009013,2021-03-15,Partnership,C009,Siemens Energy,"Energy inspection services",Strategic partnership for power grid inspections,Collaboration,Pipeline expansion,Part-2021-03-C009
+EV009014,2021-07-22,Patent Grant,C009,N/A,"Obstacle avoidance patent",Patent granted for advanced AI obstacle detection,IP,Technology moat,USPTO-2021-07-C009
+EV009015,2021-10-30,Expansion,C009,N/A,"European operations launch",Opened Munich office for EU market,Operations,Regional growth,Exp-2021-10-C009
+EV009016,2022-01-18,Customer Win,C009,FedEx,"Package delivery trials",Pilot program for autonomous package delivery,Revenue,New vertical entry,Case-2022-01-C009
+EV009017,2022-04-14,Funding Round,C009,N/A,"Series B $25M",Funding round led by strategic investors,Financial,Growth capital secured,Fund-2022-04-C009
+EV009018,2022-06-21,Product Update,C009,N/A,"AutoDock Station v2",Enhanced automated docking system for fleet management,Product,Operational efficiency,Prod-2022-06-C009
+EV009019,2022-10-03,Conference,C009,N/A,"Robotics Summit keynote",CEO presented autonomous inspection vision,Marketing,Industry thought leadership,Conf-2022-10-C009
+EV009020,2022-12-15,Certification,C009,EASA,"European aviation approval",EASA certification for European operations,Regulatory,EU market access,Cert-2022-12-C009
+EV009021,2023-02-28,Partnership,C009,Cobalt CyberGuard,"Security integration",Partnership for secure drone communications,Collaboration,Enhanced security offering,Part-2023-02-C009
+EV009022,2023-06-07,Customer Expansion,C009,National Grid,"Contract extension",Extended National Grid contract for additional services,Revenue,ARR growth $3M,Ext-2023-06-C009
+EV009023,2023-08-14,Hiring,C009,N/A,"Engineering team expansion",Hired 50 engineers for R&D expansion,Operations,Innovation capacity increase,HR-2023-08-C009
+EV009024,2023-10-25,Award,C009,N/A,"Innovation award",Received robotics innovation award for NaviFly AI,Recognition,Brand credibility boost,Award-2023-10-C009
+EV009025,2023-12-11,Product Launch,C009,N/A,"Healthcare delivery drone",Specialized drone for medical supply delivery,Product,Healthcare market entry,Prod-2023-12-C009
+EV009026,2024-04-16,Partnership,C009,Medisafe Health,"Healthcare logistics",Partnership for medical supply chain automation,Collaboration,Healthcare sector expansion,Part-2024-04-C009
+EV009027,2024-05-23,Patent Filing,C009,N/A,"Swarm coordination patents",Filed patents for multi-drone coordination,IP,Advanced capabilities protection,USPTO-2024-05-C009
+EV009028,2024-08-30,Customer Win,C009,Siemens Energy,"Grid monitoring contract",Large contract for power grid monitoring services,Revenue,$5M ARR addition,Case-2024-08-C009
+EV009029,2024-11-12,Expansion,C009,N/A,"Asian operations",Opened Singapore office for APAC expansion,Operations,Regional market entry,Exp-2024-11-C009
+EV009030,2025-01-20,Product Update,C009,N/A,"NaviFly AI v3.0",Major AI navigation system upgrade,Product,Performance improvement 30%,Prod-2025-01-C009
+EV009031,2025-03-14,Partnership,C009,Borealis CloudWorks,"Cloud integration",Enhanced partnership for data processing,Collaboration,Operational efficiency gains,Part-2025-03-C009
+EV009032,2025-04-18,Certification,C009,Health Canada,"Canadian operations approval",Health Canada approval for medical deliveries,Regulatory,Canadian market access,Cert-2025-04-C009
+EV009033,2025-05-25,Conference,C009,N/A,"Drone Delivery Summit",Presente

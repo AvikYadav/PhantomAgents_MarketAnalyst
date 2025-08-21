@@ -1,0 +1,9 @@
+date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
+2020-05-22,C020,AgriTech News,0.42,260,"cell;lettuce;demo","First cell‑grown lettuce demo stuns consumers.","Excitement tempered by scalability doubts"
+2021-11-04,C020,Food Business,0.47,310,"nestle;licensing;royalty","Nestlé licensing deal draws investor optimism.","Validation for business model"
+2022-08-13,C020,FoodReg News,0.55,390,"fda;gras;approval","FDA approval reduces regulatory risk.","Industry confidence rising"
+2023-09-19,C020,Beverage News,0.61,420,"coca-cola;phyto;deal","Coca‑Cola deal seen as breakthrough.","Investors bullish on revenue acceleration"
+2024-03-06,C020,Financial Times,-0.38,510,"energy;inflation;costs","Vertical farm margins squeezed by rising energy.","Analysts warn of earnings hit"
+2024-10-11,C020,BusinessWire,0.35,370,"solar;ppa;energy","Renewable PPAs stabilize costs.","Market reassured on resilience"
+2025-02-10,C020,DealStreet,0.50,560,"bayer;joint venture;agri","Global Bayer JV applauded as transformative.","Positive sentiment across sector"
+2025-08-19,C020,Reuters Markets,0.58,600,"earnings;record;revenue","Q2 record licensing & sales.","Market sentiment strongly positive"

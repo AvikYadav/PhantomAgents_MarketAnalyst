@@ -1,0 +1,9 @@
+date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
+2020-05-20,C012,Water Industry News,0.42,320,"pilot;monitoring;municipal","AquaTech's smart monitoring shows promise in San Diego pilot.","Industry optimistic about water technology applications"
+2021-09-15,C012,Business News,0.46,420,"commercial;nestle;partnership","PureStream launch with Nestlé validates commercial viability.","Partnership with major brand significant validation"
+2022-11-08,C012,Infrastructure News,0.44,380,"iot;deployment;middle east","Large-scale IoT deployment demonstrates technology scalability.","Regional expansion shows growth potential"
+2023-07-12,C012,Government News,0.51,580,"saudi;contract;water","$25M Saudi contract major milestone for water technology.","Government endorsement significant for credibility"
+2024-02-28,C012,Quality News,-0.41,720,"recall;sensors;malfunction","Product recall raises quality control concerns.","Quality issues impact investor confidence"
+2024-08-14,C012,Recovery News,0.35,490,"quality;enhancement;controls","Enhanced quality controls restore operational confidence.","Recovery efforts appreciated by stakeholders"
+2025-02-10,C012,Partnership News,0.48,620,"alliance;innovation;water","Water Innovation Alliance creates integrated solutions.","Strategic collaboration expands opportunities"
+2025-08-19,C012,Financial News,0.52,680,"earnings;municipal;growth","Strong Q2 results

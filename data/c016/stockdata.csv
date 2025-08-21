@@ -1,0 +1,9 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-06-18,NANO,8.20,8.65,8.00,8.50,8.50,210000,1,NanoTarget cancer therapy IND filing with FDA announced
+2021-11-25,NANO,12.40,13.00,12.10,12.80,12.80,380000,1,Phase I clinical trial initiation for lead nanotherapy candidate
+2022-12-08,NANO,16.80,17.50,16.40,17.25,17.25,520000,1,Positive Phase I safety data reported; Phase II planning announced
+2023-09-14,NANO,20.60,21.40,20.20,21.10,21.10,680000,1,Strategic partnership with Pfizer for oncology nanomedicine development
+2024-03-22,NANO,22.40,23.10,21.90,22.75,22.75,640000,1,Manufacturing scale-up challenges delay Phase II trial timeline
+2024-10-15,NANO,21.80,22.50,21.40,22.20,22.20,590000,1,Manufacturing issues resolved; enhanced production protocols implemented
+2025-02-10,NANO,24.20,25.00,23.80,24.65,24.65,750000,1,BioTech Alliance JV with Medisafe Health and NeuraGen AI announced
+2025-08-19,NANO,25.40,26.20,25.10,25.95,25.95,710000,0,Strong Q2 earnings driven by partnership milestones and licensing revenue

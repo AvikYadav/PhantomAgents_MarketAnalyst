@@ -1,0 +1,9 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c021
+2020-09-19,C021,Product Demo,1,NeoMem demo,Low‑energy RO tech demoed,Industry Conf,Credibility boost
+2021-08-24,C021,PPP Contract,20,Keny PPP,$20M BOT PPP signed,Press,Long‑term revenue
+2022-11-18,C021,Product Launch,1,SunDesal launch,Commercial solar desal launched,Company,New revenue stream
+2023-06-12,C021,Customer Win,300,Kenya BOT,25‑yr $300M contract,Announcement,Huge pipeline growth
+2024-03-03,C021,Risk,-1,Brine disposal,Regulatory concern on disposal,NGO,Negative sentiment
+2024-09-07,C021,Resolution,1,Zero‑brine solution,Tech fix with recovery of salts,Company,Restored growth
+2025-02-10,C021,Joint Venture,1,Water Alliance JV,JV with Veolia/Doosan,Press,Global expansion
+2025-08-19,C021,Earnings Beat,1,H1 strong,Q2 2025 record revenues,Investor PR,Stock lifted

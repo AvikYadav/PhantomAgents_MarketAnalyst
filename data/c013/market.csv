@@ -1,0 +1,26 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c013
+2020-03-22,C013,Product Launch,1,GeneMAP Analysis Suite,Strong pilot adoption in clinical environments,Internal,Pipeline and early revenue boost
+2021-10-15,C013,Product Beta,1,ClinPath AI Suite,Beta release increased interest among precision medicine clients,Internal,Pipeline growth
+2022-11-10,C013,Certification,1,FDA Compliance,Regulatory clearance opens US clinical market,Regulatory,Accelerated sales
+2023-07-05,C013,Partnership,1,BroadGen Pharma,New pharma research partnership announced,Press,Increased pipeline
+2024-02-20,C013,Tech Innovation,1,Federated Learning,Innovative privacy-respecting AI methods deployed,Internal,Market differentiation
+2025-02-10,C013,Joint Venture,1,Tri-Forge JV,Strategic cross-domain JV,Public,Strengthened market position
+2025-08-19,C013,Earnings Beat,1,Q2 2025 Earnings,Positive financial results,Investor Reports,Stock uplift
+2020-08-14,C013,Security Certification,1,ISO 27001,Information security management certified,Third Party,Enterprise credibility
+2021-02-25,C013,Government Contract,8.5,VA Health System,Veterans Affairs genomic services contract,Government,Revenue and credibility
+2021-06-18,C013,Patent Filing,1,AI Variant Calling,Breakthrough genetic analysis patents filed,USPTO,IP protection
+2021-12-03,C013,Series B Funding,30,Genomics investors,Growth capital from specialized VCs,Investment,Development acceleration
+2022-04-19,C013,Geographic Expansion,1,European operations,Berlin subsidiary for EU market,Internal,Market diversification
+2022-08-22,C013,Clinical Success,1,Medisafe integration,Successful clinical workflow integration,Customer,Validation proof
+2023-01-30,C013,Technology Partnership,1,Illumina integration,Direct sequencing platform integration,Partnership,Ecosystem strength
+2023-04-12,C013,NIH Recognition,1,Innovation award,Precision medicine recognition from NIH,Government,Scientific credibility
+2023-09-28,C013,Product Upgrade,1,VariantTrack 2.0,Major platform enhancement release,Internal,Customer satisfaction
+2024-01-15,C013,Academic Partnership,1,Harvard Medical,Research collaboration partnership,Academic,Scientific validation
+2024-05-20,C013,GDPR Compliance,1,European regulation,Full GDPR compliance achieved,Regulatory,EU market access
+2024-09-10,C013,Partnership Expansion,12,BroadGen extension,Drug discovery collaboration expansion,Partnership,Revenue growth
+2024-11-25,C013,Technology Breakthrough,1,Federated learning,Privacy-preserving analysis innovation,R&D,Competitive edge
+2025-01-20,C013,Patent Grant,1,Clinical decision support,AI clinical support patent granted,USPTO,IP strengthening
+2025-03-15,C013,APAC Launch,1,Singapore operations,Asian market operations established,Internal,Geographic growth
+2025-04-28,C013,Cancer Contract,6.8,Cancer Institute,Oncology genomics analysis contract,Customer,Vertical expansion
+2025-06-12,C013,Lab Partnership,1,ThermoFisher,Laboratory workflow integration partnership,Partnership,Market penetration
+2025-07-18,C013,Enterprise Launch,1,GeneMAP 3.0,Next-generation enterprise platform,Internal,Competitive positioning

@@ -1,0 +1,26 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c014
+2020-04-30,C014,Product Demo,3.2,FlowDx demonstration,$3.2M in pilot commitments from healthcare providers,Internal,Strong early interest
+2021-09-22,C014,FDA Approval,1,510k clearance,ChipLab cartridges cleared for US market,FDA,Commercial market access
+2022-12-15,C014,Major Contract,18,Quest Diagnostics,3-year contract for POC testing deployment,Contracts,Significant revenue validation
+2023-08-08,C014,Global Partnership,1,WHO initiative,Partnership for emerging markets deployment,International,Market expansion opportunity
+2024-03-12,C014,Quality Issue,-1,Manufacturing halt,Production stopped due to contamination,Quality Control,Temporary operations impact
+2024-09-25,C014,Issue Resolution,1,Quality protocols,Enhanced manufacturing controls implemented,Internal,Operations restored
+2025-02-10,C014,Joint Venture,1,MedTech Alliance,JV with healthcare and AI partners,Partnership,Integrated solution development
+2025-08-19,C014,Earnings Beat,1,Q2 strong results,Record revenue and international growth,Financial,Stock appreciation
+2020-11-18,C014,Patent Grant,1,Processing technology,Automated sample processing patent granted,USPTO,IP protection strengthened
+2021-04-14,C014,Geographic Expansion,1,European operations,Zurich subsidiary established,Internal,Market diversification
+2021-11-30,C014,ISO Certification,1,Quality management,ISO 13485 certification achieved,Third Party,Regulatory credibility
+2022-05-25,C014,Series A Funding,25,MedTech investors,Growth capital secured,Investment,Development funding
+2022-09-12,C014,Software Launch,1,DiagStream analytics,AI-powered diagnostic software launched,Internal,Revenue diversification
+2023-02-20,C014,Clinical Success,1,Medisafe integration,Successful clinical deployment and outcomes,Customer,Value demonstration
+2023-05-15,C014,Technology Partnership,1,Corning materials,Advanced substrate partnership,Partnership,Product enhancement
+2023-11-28,C014,Industry Recognition,1,Innovation award,MedTech breakthrough recognition,Industry,Brand validation
+2024-01-22,C014,APAC Launch,1,Singapore operations,Asian market operations established,Internal,Regional expansion
+2024-06-10,C014,Product Upgrade,1,FlowDx 2.0,Next-generation platform launched,Internal,Competitive positioning
+2024-11-14,C014,Manufacturing Partnership,1,IDEX expansion,Precision pump integration partnership,Partnership,Product reliability
+2025-01-30,C014,Academic Partnership,1,Stanford collaboration,Research partnership for advanced applications,Academic,Technology advancement
+2025-04-18,C014,Rural Healthcare,1,Underserved communities,Point-of-care deployment in rural areas,Social Impact,Market expansion
+2025-06-22,C014,Technology Breakthrough,1,Multi-parameter assay,Single cartridge multiple test capability,R&D,Competitive advantage
+2025-07-15,C014,EU Approval,1,MDR certification,European market regulatory clearance,Regulatory,Market access expansion
+2025-08-01,C014,Analytics Enhancement,1,Borealis expansion,Enhanced data analytics partnership,Partnership,Capability improvement
+2025-08-10,C014,Market Leadership,1,Industry recognition,Point-of-care market leader recognition,Analyst,Positioning validation

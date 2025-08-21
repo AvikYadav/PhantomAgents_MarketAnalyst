@@ -1,0 +1,17 @@
+date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
+2020-06-03,C006,News,0.36,420,pilot;industrial;ar,TechForge scaling AR pilots with Luminara,Articles highlight rework reduction; cautious on ROI timelines
+2020-09-17,C006,LinkedIn,0.34,380,iso45001;safety;ops,Safety certification clears procurement hurdles,Ops leaders approve structured safety program
+2021-07-29,C006,Twitter,0.44,1100,halosight;depth;fusion,V2 feels steadier during occlusion tasks,Developers praise drift fixes; ask for SDK docs
+2022-06-08,C006,Reddit,0.05,900,thermals;smear;holovista,Thermal smear seems weak—numbers look fine,Skeptics subdued after published data
+2022-09-06,C006,News,0.48,560,lumacollab;plm;cad,Plug-ins unlock design collaboration value,Analysts see pipeline lift
+2023-03-27,C006,Twitter,-0.42,2200,reviews;fake;astroturf,Yikes—fake 'user' reviews? Not cool,Backlash focused on integrity; calls for audit
+2023-04-05,C006,LinkedIn,0.12,780,policy;moderation;governance,Contractor banned; third-party moderation incoming,Professional audience with measured optimism
+2023-08-22,C006,News,0.41,520,zero-trust;connector;cert,Telemetry policy attestations rare in AR,Positive signals for regulated sectors
+2024-02-19,C006,Twitter,-0.26,1700,staged;demo;occlusion,If staged trust is gone… waiting for logs,Skeptical until raw capture shared
+2024-03-12,C006,Reddit,0.07,950,lab;blind;test,Blind test plan looks decent,Users want independent validators
+2024-05-13,C006,News,0.56,680,validation;foveated;safety,Independent lab validates core pipeline,Sentiment flips positive; buyers cite report in RFPs
+2024-11-14,C006,LinkedIn,0.49,720,lumaLink;robots;latency,Hands-free robot control is huge for safety,Industrial engineers discuss use cases
+2025-02-10,C006,Twitter,0.43,980,c003;c004;regulated,Green nodes + attest is a killer combo,Hype around safer sustainable AR stack
+2025-03-18,C006,News,-0.18,540,meta;pricecut;xr,Sector pressure from price cuts,Pieces say premium justified if validated
+2025-07-03,C006,Analyst,0.39,120,upgrade;moat;validation,Validation moat recognized in report,Analyst notes resilience vs pricing pressure
+2025-08-19,C006,Twitter,0.52,1500,earnings;beat;raise,Beat & raise—quiet execution wins,Investors share deck excerpts

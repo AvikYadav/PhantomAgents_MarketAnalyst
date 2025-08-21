@@ -1,0 +1,9 @@
+date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
+2020-09-19,C021,Water World News,0.37,240,"membrane;demo;utility","Dubai showcase of NeoMem breakthroughs gains attention.","Investors cautious on scaling."
+2021-08-24,C021,Africa Energy Media,0.45,300,"ppp;contract;kenya","Kenya PPP BOT hailed as milestone.","Positive regional development sentiment."
+2022-11-18,C021,Renewables Watch,0.50,360,"solar;desal;plant","Launch of world’s first utility‑scale solar desal plant praised.","Innovation widely applauded."
+2023-06-12,C021,Financial Times,0.55,420,"kenya;water;bot","Large 25‑yr BOT deal bolsters AquaPure.","Analysts bullish on long‑term cashflows."
+2024-03-03,C021,NGO Report,-0.34,500,"brine;waste;issue","Environmental risks flagged on residual brine.","Criticism from NGOs and activists."
+2024-09-07,C021,Industry Press,0.32,380,"brine;solution;recovery","Circular economy solution restores regulator confidence.","Positive but cautious optimism."
+2025-02-10,C021,InfraDeals,0.55,580,"joint;venture;global","JV with Veolia & Doosan expands pipeline.","Seen as transformative for scaling."
+2025-08-19,C021,MarketWatch,0.57,610,"earnings;bookings;record","Strong H1 2025 revenues excite investors.","Market sees AquaPure as growth leader."

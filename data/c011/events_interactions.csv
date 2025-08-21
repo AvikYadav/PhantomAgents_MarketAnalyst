@@ -1,0 +1,31 @@
+event_id,date,type,actors,target,summary,detailed_description,impact_scope,impact_details,related_docs
+EV011001,2020-02-12,Product Launch,C011,N/A,HQC Quantum Processor prototype launch,Unveiled scalable superconducting qubit hardware prototype for quantum computing,Revenue,Early customer trials and funding interest,F2020-02-C011
+EV011002,2021-11-15,Product Release,C011,N/A,QuantaOS Hybrid OS Release,Introduced operating system orchestrating quantum-classical workloads,Marketing,Improved performance attracted enterprise interest,IP2021-11-C011
+EV011003,2022-10-10,Certification,C011,FDA,Quantum Software Simulator Certification,Received certification aligned with FDA requirements for clinical research use,Regulatory,Open US clinical market access,FDA-2022-10-C011
+EV011004,2023-08-05,Partnership,C011,National Labs,Partnership for quantum computational chemistry projects,Extended research cooperation and government funding,Research,Pipeline growth and prestige,PART-2023-08-C011
+EV011005,2024-04-15,Customer Win,C011,PharmaGen,Expanded commercial orders for quantum computing solutions,Supported clinical AI for pharma R&D,Revenue,Expected $5M ARR increase,CUST-2024-04-C011
+EV011006,2025-02-10,Joint Venture,C011|C003|C005,N/A,Tri-Forge JV Launch,Announced quantum-cloud hybrid JV integrating Borealis and QuantumQuill capabilities,Strategy,Cross-sector R&D and sales synergy,JV-2025-02-C011
+EV011007,2025-05-12,Patent Filing,C011,N/A,New Error Correction Patents,Filed 5 patents enhancing qubit error correction circuits,IP,Strengthened technical moat,PAT-2025-05-C011
+EV011008,2025-07-20,Earnings Report,C011,N/A,Q2 2025 Earnings Beat,Reported revenue and EPS growth surpassing expectations,Financial,Stock positive momentum,ER-2025-07-C011
+EV011009,2025-08-01,Regulatory Submission,C011,N/A,EU Quantum Tech Compliance Submitted,Filed designed compliance docs for EU quantum standards,Regulatory,Faster EU market approvals,REG-2025-08-C011
+EV011010,2025-08-19,Earnings Call,C011,N/A,Q2 2025 Earnings & Guidance,Strong results combined with optimistic future guidance,Investor,Increased investor confidence,INV-2025-08-C011
+EV011011,2020-08-25,Research Grant,C011,DOE,Department of Energy quantum research grant,Awarded $3M research grant for quantum algorithm development,Financial,R&D funding secured,GRANT-2020-08-C011
+EV011012,2021-03-18,Patent Grant,C011,USPTO,Superconducting qubit architecture patent,Core hardware patent granted for quantum processor design,IP,Competitive advantage strengthened,USPTO-2021-03-C011
+EV011013,2021-07-22,Team Expansion,C011,N/A,Quantum engineer hiring spree,Hired 45 quantum engineers and physicists,Operations,Enhanced R&D capabilities,HR-2021-07-C011
+EV011014,2022-01-30,International Expansion,C011,N/A,European subsidiary establishment,Opened Munich office for EU quantum market,Operations,Geographic market expansion,EXP-2022-01-C011
+EV011015,2022-05-14,Conference,C011,Quantum Computing Summit,CEO keynote on quantum advantage,Industry leadership presentation at major conference,Marketing,Thought leadership positioning,CONF-2022-05-C011
+EV011016,2022-12-19,Customer Win,C011,AeroSpace Tech,Aerospace quantum simulation contract,Quantum simulation for aircraft design optimization,Revenue,$2.8M contract value,AERO-2022-12-C011
+EV011017,2023-02-28,Funding Round,C011,Quantum VCs,Series B $35M funding,Growth capital from quantum-focused investors,Financial,Development acceleration funding,FUND-2023-02-C011
+EV011018,2023-06-15,Product Update,C011,N/A,Quantum Sim Suite enhancement,Advanced simulation capabilities for enterprise users,Product,Improved customer satisfaction,PROD-2023-06-C011
+EV011019,2023-12-05,Award,C011,MIT,Quantum innovation award,Recognition for breakthrough quantum computing contributions,Recognition,Academic and industry validation,AWARD-2023-12-C011
+EV011020,2024-01-25,Partnership,C011,Cobalt CyberGuard,Quantum-safe security integration,Partnership for post-quantum cryptography solutions,Collaboration,Enhanced security offering,SECURITY-2024-01-C011
+EV011021,2024-08-30,Technology Breakthrough,C011,N/A,100-qubit processor milestone,Achieved stable 100-qubit quantum processor operation,Technology,Industry leadership demonstration,TECH-2024-08-C011
+EV011022,2024-10-18,Customer Success,C011,Helix Data,Quantum optimization deployment,Successful deployment for data analytics optimization,Validation,Commercial viability proof,SUCCESS-2024-10-C011
+EV011023,2024-12-12,Patent Portfolio,C011,USPTO,Comprehensive patent filing,Filed 8 patents covering quantum error correction and control,IP,Expanded intellectual property protection,IP-2024-12-C011
+EV011024,2025-01-15,Market Expansion,C011,Asia,Asian subsidiary launch,Established Singapore office for APAC market,Operations,Regional growth strategy,ASIA-2025-01-C011
+EV011025,2025-03-20,Research Publication,C011,Nature,Quantum advantage research paper,Published breakthrough research on quantum computational advantage,Academic,Scientific credibility enhancement,RESEARCH-2025-03-C011
+EV011026,2025-04-30,Government Contract,C011,DARPA,Defense quantum computing project,Secured $8M DARPA contract for quantum defense applications,Revenue,Government revenue diversification,DARPA-2025-04-C011
+EV011027,2025-06-25,Product Launch,C011,N/A,Quantum Cloud Platform,Launched commercial quantum cloud computing service,Product,Revenue model diversification,CLOUD-2025-06-C011
+EV011028,2025-07-15,Partnership Expansion,C011,Intel Quantum,Intel collaboration deepening,Expanded partnership for quantum hardware development,Collaboration,Manufacturing capability access,INTEL-2025-07-C011
+EV011029,2025-08-05,Industry Recognition,C011,Quantum Industry,Market leader recognition,Recognized as leading quantum computing company,Recognition,Market positioning validation,LEADER-2025-08-C011
+EV011030,2025-08-15,Financial Milestone,C011,N/A,Revenue run-rate achievement,Achieved $80M annual revenue run-rate,Financial,Growth trajectory validation,MILESTONE-2025-08-C011

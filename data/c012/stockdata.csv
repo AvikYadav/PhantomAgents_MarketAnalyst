@@ -1,0 +1,9 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-05-20,AQUA,3.20,3.50,3.10,3.40,3.40,280000,1,AquaFlow Smart Monitoring System pilot launch with San Diego Water Authority
+2021-09-15,AQUA,5.80,6.20,5.60,6.05,6.05,420000,1,PureStream Filtration commercial launch and Nestlé Waters partnership
+2022-11-08,AQUA,8.40,8.90,8.20,8.75,8.75,520000,1,HydroSense IoT Platform deployed across Middle East water facilities
+2023-07-12,AQUA,10.20,10.80,10.00,10.55,10.55,610000,1,Saudi Water Authority multi-year contract worth $25M announced
+2024-02-28,AQUA,11.30,11.70,10.90,11.05,11.05,580000,1,Water quality sensor malfunction incident triggers product recall
+2024-08-14,AQUA,10.80,11.40,10.60,11.25,11.25,540000,1,Product recall resolved; enhanced quality controls implemented
+2025-02-10,AQUA,12.60,13.20,12.40,12.95,12.95,680000,1,Water Innovation Alliance JV with EcoFlow Dynamics and TerraVolt Energy
+2025-08-19,AQUA,13.40,13.85,13.20,13.70,13.70,630000,0,Strong Q2 earnings with expanded municipal contracts

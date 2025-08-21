@@ -1,0 +1,9 @@
+date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
+2020-08-01,C019,CleanTech News,0.40,260,"heliostat;demo;reflectivity","High reflectivity demo boosts customer interest.","Market sees HelioGen as innovative challenger."
+2021-10-12,C019,European Energy Media,0.48,310,"csp;pilot;spain","First European pilot project signed.","Positive outlook for EU expansion."
+2022-11-20,C019,BusinessWire,0.45,400,"battery;launch;storage","HelioStore thermal battery launch garners attention.","Night‑time solar solution praised."
+2023-07-07,C019,MENA Energy News,0.50,420,"acwa;partnership;mena","Strategic Saudi partnership welcomed.","MENA market entry strongly endorsed."
+2024-02-18,C019,Financial News,-0.35,520,"water;shortage;delay","Water issues at CSP plant create concerns.","Analysts worry about water consumption challenges."
+2024-09-09,C019,Technical Press,0.34,390,"dry-cooling;fix;design","Dry cooling redesign seen favorably.","Company praised for adaptability."
+2025-02-10,C019,DealStreet,0.52,580,"joint venture;edf;acwa","JV with ACWA/EDF draws strong investor enthusiasm.","Scale expansion applauded."
+2025-08-19,C019,Renewable Watch,0.57,640,"earnings;record;contracts","Record EPC bookings boost confidence.","Investors bullish on HelioGen's growth."

@@ -1,0 +1,29 @@
+date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
+2020-02-12,C011,News,0.40,200,quantum;hardware;launch,Positive reviews on HQC processor prototype,Analysts optimistic about scalability
+2021-11-15,C011,LinkedIn,0.45,350,software;hybrid os;performance,QuantaOS launch well received by developers,Market sentiment improving
+2022-10-10,C011,Twitter,0.48,400,FDA;certification;clinical,Regulatory milestone expands US clinical research access,Investor interest uptick
+2023-08-05,C011,Reddit,0.42,300,partnership;national labs;r&d,R&D collaboration lauded in academia and industry,Positive buzz around tech leadership
+2024-04-15,C011,News,0.43,410,customer win;pharma;ai,PharmaGen commercial orders signal growth phase,Market confidence rising
+2025-02-10,C011,Twitter,0.52,480,joint venture;tri-forge,Strategic JV formation generates excitement,High enthusiasm for collaboration potential
+2025-07-20,C011,News,0.50,470,earnings;growth;q2,Strong Q2 financial results boost sentiment,Investor confidence high
+2025-08-19,C011,Twitter,0.52,500,guidance;earnings;revenue,Positive outlook shared in earnings call,Market reacts favorably
+2020-08-25,C011,Academic News,0.38,180,doe;grant;research,Federal research grant validates approach,Academic community supportive
+2021-03-18,C011,Tech News,0.36,240,patent;architecture;quantum,Core patent strengthens competitive position,Technology analysts positive
+2021-07-22,C011,Industry News,0.33,190,hiring;engineers;talent,Talent acquisition indicates growth ambitions,Employment market recognizes opportunity
+2022-01-30,C011,International News,0.41,290,europe;expansion;munich,European expansion strategic move,Global growth trajectory positive
+2022-05-14,C011,Conference Coverage,0.46,380,keynote;summit;leadership,CEO presentation reinforces industry position,Thought leadership acknowledged
+2022-12-19,C011,Aerospace News,0.44,320,aerospace;simulation;contract,Aerospace industry adoption significant,Vertical market validation
+2023-02-28,C011,Investment News,0.47,420,funding;series b;quantum,Quantum investor confidence growing,Financial community optimistic
+2023-06-15,C011,Product News,0.39,280,simulation;suite;enhancement,Product improvements appreciated by users,Customer satisfaction increasing
+2023-12-05,C011,Academic Recognition,0.48,250,mit;award;innovation,MIT innovation award well deserved,Academic validation strengthens brand
+2024-01-25,C011,Security News,0.40,350,security;post-quantum;crypto,Security partnership addresses future needs,Cybersecurity community interested
+2024-08-30,C011,Technology News,0.54,450,100-qubit;milestone;breakthrough,Technical milestone generates significant excitement,Industry celebrates achievement
+2024-10-18,C011,Business News,0.42,310,deployment;optimization;success,Commercial deployment success encouraging,Business viability demonstrated
+2024-12-12,C011,Patent News,0.37,220,patents;portfolio;protection,Patent strategy strengthens IP position,Legal/IP community notes importance
+2025-01-15,C011,Asian News,0.43,280,singapore;asia;expansion,Asian market entry timely,Regional growth opportunities recognized
+2025-03-20,C011,Scientific News,0.51,360,nature;research;quantum,Scientific publication enhances credibility,Research community celebrates contribution
+2025-04-30,C011,Defense News,0.46,290,darpa;defense;contract,Government contract validates technology,Defense industry interest growing
+2025-06-25,C011,Cloud News,0.45,390,quantum;cloud;platform,Cloud service launch strategic,Technology service evolution noted
+2025-07-15,C011,Partnership News,0.44,320,intel;collaboration;manufacturing,Intel partnership strengthens capabilities,Hardware development community positive
+2025-08-05,C011,Industry Analysis,0.50,280,leader;market;recognition,Market leadership position acknowledged,Industry consensus on positioning
+2025-08-15,C011,Financial Milestone,0.47,340,revenue;milestone;growth,Revenue achievement validates strategy,Financial analysts optimistic about trajectory

@@ -1,0 +1,37 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c006
+2020-06-03,C006,Pipeline,+$3.2M,Industrial pilot scale,TechForge expanding scope,Internal,Mid-term ARR +
+2020-09-17,C006,Certification,ISO 45001,Safety,Procurement friction falls,Cert Body,Win rate +
+2020-12-08,C006,Supplier Pact,Fixed bands,PhotonX yields,COGS variance capped,Supplier MOU,Margin stability
+2021-01-26,C006,Localization,10 languages,UI/Docs,Intl reach improves,Release Notes,Leads +
+2021-03-11,C006,Patents,3 filings,Foveated pipeline,Lower energy draw,USPTO,Moat +
+2021-07-29,C006,Launch,HaloSight Pro v2,Depth fusion,ASPs +8%,Launch PR,Revenue/Unit +
+2021-10-05,C006,Alliance,Borealis,Green nodes,Latency -18%,Tech Note,EU wins +
+2021-12-02,C006,Customer Win,$1.6M ARR,Airline MRO,Safety overlay,Contract,ARR +
+2022-01-20,C006,PLM Beta,Live,CAD vendor,Annotations sync,Partner Note,Design adoption +
+2022-03-15,C006,Patent Grant,1,Co-tracking,Licensing optionality,USPTO,IP monetization
+2022-06-08,C006,Smear,Neutralized,Thermals,Published data,PR,Sentiment held
+2022-09-06,C006,Launch,LumaCollab 3.0,PLM/CAD,Pipeline +$9M,Launch PR,Bookings +
+2022-11-18,C006,SI Network,+20,DACH/Nordics,Coverage scale,Partner PR,Velocity +
+2023-02-07,C006,Supply Risk,+3 wks lead,SenseCore,Allocation model,Ops,Slight delays
+2023-03-27,C006,Reputation Dip,-10% lead,Astroturfing,Contractor issue,Audit,Temporary headwind
+2023-04-05,C006,Governance,Policy,Review controls,Third-party moderation,Policy,Trust rebuild
+2023-05-24,C006,Connector Pilot,Live,Zero-trust (C004),Regulated telemetry,Partner,Gov/healthcare access
+2023-08-22,C006,Connector GA,Live,Zero-trust,Cert renewals aligned,Release,Pipeline +
+2023-10-03,C006,Healthcare Win,$1.2M ARR,Med training,Overlay safety gains,Contract,ARR +
+2023-12-14,C006,Award,Safety Tech,Overlay engine,Brand lift,Awards,Inbound +
+2024-01-19,C006,Privacy Toggle,Granular,Telemetry,Procurement comfort,Release,EU wins +
+2024-02-19,C006,Controversy,Allegations,Staged demo,Raw logs released,Media,Sentiment - then stabilize
+2024-03-12,C006,Test Plan,Published,LabOrg,Blind protocol agreed,Lab,Pending trust +
+2024-05-13,C006,Validation,Pass,Foveated/overlay,Energy accuracy confirmed,Lab Report,Stock +; win rate +5 pp
+2024-06-30,C006,SI Growth,+12,APAC,Coverage scaling,Partner,Pipeline +$6M
+2024-08-09,C006,Price Move,Rival bundle,Hold price,TCO narrative,Sales,Margin -0.4 pp
+2024-11-14,C006,Launch,LumaLink,Robot-control,High margin,Product,ARPU +
+2024-12-02,C006,Reg Mapping,Published,EU safety,Sales cycle -6%,Docs,Velocity +
+2025-01-21,C006,Patents,Filed,Depth fusion LP,Runtime adaptivity,USPTO,Moat +
+2025-02-10,C006,Integration,Tri-partner,C003+C004,Regulated AR,Alliance,BFSI/healthcare access
+2025-03-18,C006,Sector Price,Down,Meta cut,Pro-tier pressure,News,Short-term pullback
+2025-04-21,C006,Market Move,Pullback,Sector reaction,Rebound expected,Market,Stock dip
+2025-05-07,C006,Gov Pilot,$0.8M ARR,Safety-lite,Privacy-first,Contract,ARR +
+2025-06-10,C006,QC Alert,Monitored,Microdisplay batch,No field recall,QC,COGS +0.2 pp
+2025-07-03,C006,Analyst View,Upgrade,Validation moat,Execution recognized,Analyst,Sentiment +
+2025-08-19,C006,Earnings,Beat & raise,Moat; regulated wins,EPS +29% YoY,ER,Stock +

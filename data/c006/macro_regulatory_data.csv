@@ -1,0 +1,22 @@
+date,type,description,detailed_impact_on_c006,global_context,mitigation_by_c006,related_event_id
+2020-06-01,Macro Trend,Industrial digitization post-lockdowns,Increased AR trials for remote guidance,Pandemic recovery,Pilot-to-scale playbooks,EV006001
+2020-09-01,Safety Reg,Workplace safety emphasis,Procurement values ISO 45001,EU/US guidance,Certification sprint,EV006002
+2021-03-01,IP Climate,Wearables patent race,Defensive filings prioritized,AR platform wars,Filed foveated claims,EV006005
+2021-10-01,Energy & Edge,Green computing preferences,Pre-caching on green nodes helps bids,ESG procurement,Borealis alliance,EV006007
+2022-02-01,Hardware Supply,Sensor scarcity period,Lead times stretch sector-wide,Geopolitical shocks,Allocation model with suppliers,EV006014
+2022-06-01,Market Conduct,Smear tactics in XR,Vendors probe rivals' thermals,Competitive intensity,Published telemetry and thermals,EV006011
+2022-09-01,Design Digitization,CAD/PLM workflows,AR collab becomes standard,Remote design boom,LumaCollab 3.0 alignment,EV006012
+2023-03-01,Marketing Integrity,Review manipulation crackdown,Platform bans & fines rise,Consumer trust focus,Contractor purged new policy,EV006015
+2023-05-01,Security,Zero-trust across OT/IT,Telemetry attestations desired,Critical infra threats,Connector with C004,EV006017
+2023-10-01,Training Modernization,Immersive health training,Spend shifts to AR labs,Ed-tech growth,Healthcare wins,EV006019
+2024-02-01,Demonstration Standards,Claims scrutiny in AR demos,Independent validation demanded,Buyer skepticism,Raw logs + blind tests,EV006021
+2024-05-01,Independent Testing,Lab results carry weight,Validated metrics sway RFPs,Industry maturing,Lab plan + pass,EV006023
+2024-08-01,Price Competition,Bundles vs TCO narratives,Commoditization pressure,XR price cuts,Repairability & service SLAs,EV006025
+2024-11-01,Automation,Robotics + AR convergence,Hands-free control gains interest,Factory autonomy,LumaLink aligns,EV006026
+2024-12-01,Worker Protections,EU safety mapping,Procurement checklists shorten,NIS2/safety norms,Published mapping,EV006027
+2025-02-01,Regulated Stacks,Green + attest + AR,Buyers favor integrated proofs,Regulation tightens,Tri-partner integration,EV006029
+2025-03-01,Sector Shock,Hyperscaler/Meta price cuts,Short-term pressure on premiums,Macro buyer caution,Hold price; validation moat,EV006030
+2025-05-01,Public Sector,Privacy-first pilots,Agencies trial minimal telemetry,Gov trust models,Safety-lite package,EV006032
+2025-06-01,Quality Control,Proactive QC praised,Avoids recall reputation hits,Supply risks ongoing,Batch screening program,EV006033
+2025-07-01,Capital Markets,Analyst upgrades on moats,Validation reduces risk premia,Risk repricing,Communications cadence,EV006034
+2025-08-19,Earnings Cycle,Beat & raise,Confidence in guidance,Mixed macro,Execution narrative wins,EV006035

@@ -1,0 +1,8 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-03-22,NGBF,5.75,6.05,5.60,6.00,6.00,350000,1,Launch of GeneMAP Analysis Suite for clinical genomics
+2021-10-15,NGBF,8.20,8.55,8.00,8.30,8.30,480000,1,ClinPath AI Suite beta release for precision medicine workflows
+2022-11-10,NGBF,10.60,11.00,10.40,10.95,10.95,560000,1,FDA compliance achieved for VariantTrack Platform software
+2023-07-05,NGBF,12.10,12.70,11.80,12.50,12.50,600000,1,Partnership announced with BroadGen Pharma for genomic R&D
+2024-02-20,NGBF,13.20,13.75,12.95,13.65,13.65,640000,1,Launch of advanced federated genomics learning algorithms
+2025-02-10,NGBF,14.90,15.40,14.70,15.15,15.15,720000,1,Tri-Forge JV announced with C003 and C005 for hybrid AI solutions
+2025-08-19,NGBF,15.70,16.10,15.40,16.05,16.05,680000,0,Strong Q2 earnings and contract expansions reported

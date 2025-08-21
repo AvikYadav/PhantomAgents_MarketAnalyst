@@ -1,0 +1,22 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c012
+2020-05-20,C012,Pilot Contract,1.5,San Diego pilot,$1.5M municipal pilot contract,Contracts,Revenue and validation
+2021-09-15,C012,Commercial Launch,4.2,Nestlé partnership,PureStream launch with major beverage company,Press Release,Revenue and market validation
+2022-11-08,C012,Deployment Win,8,Middle East IoT,Large regional IoT platform deployment,Contracts,Revenue and geographic expansion
+2023-07-12,C012,Major Contract,25,Saudi Water Authority,Multi-year government water management contract,Government,Significant revenue and credibility
+2024-02-28,C012,Product Recall,-2.8,Sensor malfunction,Quality control issue triggers product recall,Quality Control,Reputation and cost impact
+2024-08-14,C012,Issue Resolution,1,Quality enhancement,Enhanced controls restore customer confidence,Internal,Reputation recovery
+2025-02-10,C012,Joint Venture,1,Water Innovation Alliance,JV with cleantech companies,Partnership,Market expansion opportunity
+2025-08-19,C012,Earnings Beat,1,Q2 strong results,Record revenue from municipal contracts,Investor Relations,Stock appreciation
+2020-11-12,C012,Certification,1,NSF certification,Water treatment systems certified,Regulatory,Market credibility
+2021-04-25,C012,Technology Partnership,1,Siemens sensors,IoT sensor development partnership,Partnership,Product enhancement
+2021-12-18,C012,Series A Funding,15,Water tech investors,Growth capital secured,Investment,Expansion funding
+2022-03-22,C012,Geographic Expansion,1,European operations,Amsterdam subsidiary established,Operations,Market diversification
+2022-08-30,C012,Performance Validation,30,Water loss reduction,30% water loss reduction demonstrated,Customer Success,Technology validation
+2023-01-16,C012,Patent Grant,1,IoT monitoring patent,Water monitoring algorithms patented,USPTO,Competitive advantage
+2023-04-20,C012,Industry Recognition,1,Innovation award,Water industry innovation excellence,Awards,Brand validation
+2023-10-05,C012,Product Upgrade,1,AI analytics,Predictive analytics capabilities added,Internal,Value proposition enhancement
+2024-01-30,C012,Advanced Partnership,1,3M membranes,Next-gen filtration development,Partnership,Innovation acceleration
+2024-06-18,C012,Healthcare Expansion,3.5,Medisafe Health contract,Healthcare facility monitoring systems,Contracts,Vertical market expansion
+2024-10-25,C012,ESG Initiative,1,Water-positive program,Net-positive water impact initiative,Internal,Environmental leadership
+2024-12-20,C012,Technology Breakthrough,99.9,Purification efficiency,Advanced membrane technology breakthrough,R&D,Competitive differentiation
+2025-01-25,C012,Government Recognition,1,EPA excellence,Environmental conservation recognition,Government,Regulatory cre

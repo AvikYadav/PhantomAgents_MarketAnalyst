@@ -1,0 +1,9 @@
+event_id,date,type,actors,target,summary,detailed_description,impact_scope,impact_details,related_docs
+EV021001,2020-09-19,Product Demo,C021,N/A,NeoMem Membrane Demo,Demonstrated new low‑energy desal membrane at Dubai utility conference,Product,Generated pilot MOU commitments,DEMO-2020-09-C021
+EV021002,2021-08-24,Contract,C021,Nairobi PPP Authority,African BOT Deal,Secured 20‑yr BOT PPP for water supply in Kenya,Revenue,Long‑term utility revenue,CONTRACT-2021-08-C021
+EV021003,2022-11-18,Product Launch,C021,N/A,SunDesal Solar Plant Launch,Launched first solar‑powered seawater desalination facility,Product,Market disruption,LAUNCH-2022-11-C021
+EV021004,2023-06-12,Customer Win,C021,Kenya Water Utility,25‑yr BOT Contract,Major infrastructure project signed,Revenue,>$300M lifecycle revenue contract,KENYA-2023-06-C021
+EV021005,2024-03-03,Risk,C021,N/A,Brine Disposal Issue,Environmental concerns raised on brine effluent management,Regulatory,Temporary project review,ISSUE-2024-03-C021
+EV021006,2024-09-07,Resolution,C021,N/A,Zero‑Brine Circular Solution,Introduced treated brine reuse for minerals recovery,Innovation,Regulators cleared compliance,RESOLVE-2024-09-C021
+EV021007,2025-02-10,Joint Venture,C021|Veolia|Doosan,N/A,Global Water Alliance JV,JV formed with global water giants for mega projects,Strategy,Expanded BOT pipeline,JV-2025-02-C021
+EV021008,2025-08-19,Earnings,C021,N/A,Q2 Record,Reported record H1 2025 revenues and bookings,Financial,Stock gains,ER-2025-08-C021

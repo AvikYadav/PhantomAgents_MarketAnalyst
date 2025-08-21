@@ -1,0 +1,9 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-09-19,APDS,4.20,4.55,4.05,4.40,4.40,240000,1,NeoMem desal membrane demo for utilities
+2021-08-24,APDS,7.60,8.00,7.40,7.85,7.85,310000,1,First African PPP BOT contract signed
+2022-11-18,APDS,11.50,12.00,11.20,11.80,11.80,450000,1,Commercial launch of SunDesal solar‑powered desal plant
+2023-06-12,APDS,14.40,14.80,14.00,14.60,14.60,530000,1,Kenya utility 25‑yr BOT contract inked
+2024-03-03,APDS,15.80,16.20,15.50,15.70,15.70,540000,1,Brine disposal regulatory issues trigger review
+2024-09-07,APDS,15.50,16.00,15.20,15.85,15.85,525000,1,Tech fix announced for zero‑brine waste reuse
+2025-02-10,APDS,17.20,17.80,17.00,17.50,17.50,680000,1,Global Water Alliance JV with Veolia & Doosan
+2025-08-19,APDS,18.30,18.90,18.10,18.70,18.70,650000,0,Q2 strong revenues and BOT pipeline growth

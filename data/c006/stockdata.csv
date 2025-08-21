@@ -1,0 +1,12 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-06-03,LUMN,5.20,5.45,5.05,5.38,5.38,420000,1,First large industrial pilot win (TechForge) announced
+2021-07-29,LUMN,9.80,10.40,9.60,10.22,10.22,680000,1,HaloSight Pro v2 launch (better depth fusion) + new SDK
+2022-09-06,LUMN,12.40,13.10,12.20,12.95,12.95,760000,1,LumaCollab 3.0 with CAD/PLM plug-ins drives design wins
+2023-03-27,LUMN,13.80,14.10,12.90,13.10,13.10,840000,1,Astroturfed 'user reviews' scandal emerges (internal contractor; probe)
+2023-08-22,LUMN,15.10,15.70,14.80,15.55,15.55,720000,1,Zero-trust connector GA with C004; safety certifications renewed
+2024-02-19,LUMN,15.90,16.60,15.40,16.35,16.35,790000,1,Stagecraft demo controversy (competitor claims staged occlusion test); Luminara releases raw logs
+2024-05-13,LUMN,16.20,17.10,16.00,16.95,16.95,860000,1,Independent lab validates foveated rendering pipeline and safety overlays
+2024-11-14,LUMN,17.80,18.60,17.50,18.45,18.45,910000,1,LumaLink robot-control add-on launch (high-margin module)
+2025-02-10,LUMN,18.60,19.40,18.30,19.20,19.20,980000,1,Strategic integrations with C003 (green nodes) & C004 (policy attest) for regulated AR
+2025-04-21,LUMN,19.10,19.60,18.50,18.65,18.65,930000,1,Meta enterprise XR price cut triggers sector-wide pullback; Luminara holds pro-tier pricing
+2025-08-19,LUMN,20.00,20.90,19.80,20.65,20.65,750000,0,Post-validation momentum + stable enterprise demand

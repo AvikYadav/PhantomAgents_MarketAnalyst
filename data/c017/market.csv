@@ -1,0 +1,26 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c017
+2020-05-14,C017,Product Demo,1,BCI prototype revealed,First hospital demonstrations of AuroraLink BCI,Internal,Trials and funding interest grew
+2021-10-22,C017,Product Beta,1,NeuroFlow Beta,Launch increased hospital interest in EEG-based analytics,Internal,Pipeline expanded
+2022-11-15,C017,Regulatory Milestone,1,FDA Breakthrough,Accelerated review status granted,Regulatory Agency,Market entry accelerated
+2023-09-08,C017,Partnership,1,VA Hospitals,Strategic prosthetic rehab partnership,Press Release,Pipeline boost
+2024-04-05,C017,Governance,1,AI Ethics Portal,Transparency policy released publicly,Company,Sentiment improved
+2025-02-10,C017,Joint Venture,1,Neuro-Cloud JV,Cross-sector JV with Medisafe and cloud partner,Public Announcement,Expanded scope
+2025-08-19,C017,Earnings Beat,1,Q2 Earnings,Revenue and ARR exceeded expectations,Financial Reports,Investor confidence up
+2020-09-30,C017,Patent Filing,1,Neural Interface IP,Dry-electrode sensing technology patents,USPTO,IP protection strengthened
+2021-03-25,C017,Clinical Trial,1,First Study,Clinical validation study initiated,Clinical,Safety data collection
+2021-08-18,C017,Geographic Expansion,1,European Operations,Munich subsidiary established,Internal,Market diversification
+2022-02-14,C017,Growth Funding,35,Series B,NeuroTech investor funding,Investment,Development acceleration
+2022-06-20,C017,Technology Partnership,1,Intel Collaboration,Neuromorphic computing partnership,Partnership,Performance enhancement
+2022-12-05,C017,Clinical Success,1,NeuroClinix Deployment,Successful clinic implementation,Customer,Value demonstration
+2023-04-18,C017,Academic Partnership,1,Stanford Research,Extended university collaboration,Academic,Technology advancement
+2023-11-30,C017,Product Launch,1,MindBridge Tools,Rehabilitation product launch,Internal,Market expansion
+2024-01-20,C017,European Approval,1,CE Marking,European regulatory approval,EMA,Market access
+2024-07-15,C017,Market Expansion,1,Rehab Network,National rehabilitation center deployment,Customer,Revenue growth
+2024-10-28,C017,Industry Leadership,1,Conference Keynote,Technology demonstration at major event,Marketing,Brand positioning
+2025-01-30,C017,Manufacturing Scale,1,Facility Expansion,Production capacity increase,Operations,Commercial readiness
+2025-04-22,C017,Clinical Results,1,Phase II Success,Positive efficacy results published,Clinical,Regulatory advancement
+2025-06-10,C017,Analytics Enhancement,1,Borealis Expansion,Enhanced cloud analytics partnership,Partnership,Capability improvement
+2025-07-25,C017,Industry Recognition,1,Innovation Award,NeuroTech breakthrough recognition,Industry,Brand validation
+2025-08-05,C017,Government Grant,1,NIH Funding,Major research grant awarded,Government,Revenue and validation
+2025-08-15,C017,Technology Breakthrough,1,Wireless Interface,Next-generation technology development,R&D,Competitive advantage
+2025-08-12,C017,Revenue Milestone,100,Run-Rate Achievement,Annual revenue milestone reached,Financial,Growth validation

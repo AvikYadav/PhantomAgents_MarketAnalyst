@@ -1,0 +1,36 @@
+event_id,date,type,actors,target,summary,detailed_description,impact_scope,impact_details,related_docs
+EV006001,2020-06-03,Customer Win,C006,TechForge Manufacturing,Industrial pilot to scale,Hands-free SOP overlays and remote expert via LumaCollab; reduced rework 22%,Revenue,$1.1M ARR,CASE-2020-06-TF
+EV006002,2020-09-17,Certification,C006,N/A,ISO 45001 (safety),Operational safety management certified for field deployments,Regulatory,Buyer confidence +,CERT-2020-09
+EV006003,2020-12-08,Partnership,C006,PhotonX,Microdisplay supply,Locked pricing; risk-sharing on yields,Supply,COGS stability,SUP-2020-12
+EV006004,2021-01-26,Localization,C006,N/A,10-language UI,Global rollouts supported,GTM,Win rate +3 pp,REL-2021-01
+EV006005,2021-03-11,Patent Filing,C006,N/A,Foveated pipeline claims,Lower power draw with gaze-adaptive sampling,IP,Moat +,USPTO-2021-03
+EV006006,2021-07-29,Product Launch,C006,N/A,HaloSight Pro v2,Improved depth fusion and drift correction,Product,ASPs +8%,IP-2021-07
+EV006007,2021-10-05,Alliance,C006,C003,Green-edge sync,Pre-cache heavy assets on Borealis nodes,Operations,Latency -18%,ALLY-2021-10
+EV006008,2021-12-02,Customer Win,C006,SkyBridge Airlines,MRO checklists in AR,Safety overlay reduces incidents,Revenue,$1.6M ARR,CASE-2021-12-SB
+EV006009,2022-01-20,Integration,C006,Major CAD Vendor,PLM plug-in beta,In-model annotations sync,Product,Design team adoption,REL-2022-01
+EV006010,2022-03-15,Patent Grant,C006,N/A,Hand/eye co-tracking,Robust drift correction,IP,Licensing potential,USPTO-2022-03
+EV006011,2022-06-08,Market Fight,HoloVista Inc.,C006,Capacity smear,Rival claims overheating at high load; Luminara posts thermals,Competition,Sentiment neutral,PR-2022-06
+EV006012,2022-09-06,Product Launch,C006,N/A,LumaCollab 3.0,CAD/PLM plug-ins, session persistence,Product,Pipeline +$9M,IP-2022-09
+EV006013,2022-11-18,SI Program,C006,N/A,Industrial VARs +20,Expanded coverage in DACH, Nordics,GTM,Coverage scale +,PR-2022-11
+EV006014,2023-02-07,Supply Risk,C006,SenseCore,Depth sensor shortages,War-time logistics, allocation model enacted,Supply,Lead times +3 weeks,SUP-2023-02
+EV006015,2023-03-27,Scandal,C006,N/A,Astroturfed user reviews,Contractor seeded fake reviews; internal audit, apology, and purge,Reputation,Lead velocity -10% (Q2),HIST-2023-03
+EV006016,2023-04-05,Governance,C006,N/A,Review governance policy,Third-party moderation, attestations,Trust,Recovery plan,POL-2023-04
+EV006017,2023-05-24,Collaboration,C006,C004,Zero-trust connector pilot,Policy attest for field telemetry,Product,Safety buyer uplift,ALLY-2023-05
+EV006018,2023-08-22,Product GA,C006,C004,Zero-trust connector GA,Meets regulated telemetry norms,Regulatory,Gov/healthcare viable,REL-2023-08
+EV006019,2023-10-03,Customer Win,C006,Medisafe Health,AR training labs,Faster skill ramp, fewer incidents,Revenue,$1.2M ARR,CASE-2023-10-MH
+EV006020,2023-12-14,Award,C006,N/A,Safety Tech of the Year,For overlay engine,Brand,Inbound +,AWD-2023-12
+EV006021,2024-02-19,Controversy,Competitors,C006,'Staged' occlusion demo claim,Independent clip alleges cherry-picked scene; Luminara releases raw logs and capture pipeline invites review,Reputation,Temporary sentiment dip,PR-2024-02
+EV006022,2024-03-12,Independent Review,LabOrg,C006,Third-party test plan,Blind test protocol published,Trust,Pending validation,LAB-2024-03
+EV006023,2024-05-13,Validation,LabOrg,C006,Foveated + safety validated,Energy draw occlusion overlay accuracy verified,Trust,Win rate +5 pp; stock up,LAB-2024-05
+EV006024,2024-06-30,SI Expansion,C006,N/A,APAC integrators +12,Japan/Korea coverage,GTM,Pipeline +$6M,PR-2024-06
+EV006025,2024-08-09,Price Response,HoloVista Inc.,C006,Bundled discount vs Luminara,Luminara holds with repairable hardware TCO story,Competition,Margin -0.4 pp; volume steady,COMP-2024-08
+EV006026,2024-11-14,Product Launch,C006,N/A,LumaLink robot-control,Hands-free robot tasks; class-leading latency,Product,High-margin module,IP-2024-11
+EV006027,2024-12-02,Compliance,C006,N/A,EU worker-safety guidance,Mapping published for overlays,Regulatory,Sales cycle -6%,REG-2024-12
+EV006028,2025-01-21,Patent Filing,C006,N/A,Depth fusion on low-power,Runtime adaptivity,IP,Moat +,USPTO-2025-01
+EV006029,2025-02-10,Strategic Integration,C006,C003|C004,Green-node + attest package,Regulated AR stack for energy & safety-conscious buyers,Strategy,BFSI/healthcare access +,ALLY-2025-02
+EV006030,2025-03-18,Competitor Fight,Meta Enterprise XR,C006,Sector price cut,Pressure on pro-tier; Luminara keeps premium with validation & support SLAs,Competition,Short-term pullback,PR-2025-03
+EV006031,2025-04-21,Market Reaction,Market,C006,Sector-wide pullback,Investors weigh price moves,Market,Stock short dip,MKT-2025-04
+EV006032,2025-05-07,Government Pilot,C006,Agency,Safety-lite telemetry,Privacy-first overlays,Revenue,$0.8M ARR,CASE-2025-05
+EV006033,2025-06-10,Recall Risk,PhotonX,C006,Microdisplay batch variance,Proactive QC filter, no field recall,Supply,COGS +0.2 pp,QC-2025-06
+EV006034,2025-07-03,Analyst Note,Analysts,C006,Validation moat recognized,Upgrade outlook,Market,Sentiment +,AN-2025-07
+EV006035,2025-08-19,Earnings Release,C006,N/A,Q2 2025 Earnings beat,EPS +29% YoY with validation moat emphasized,Financial,Stock +,ER-2025-08

@@ -1,0 +1,10 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-04-07,NGAI,4.50,4.75,4.30,4.60,4.60,400000,1,Launch of NeuraDiagnose Platform core AI module
+2021-09-02,NGAI,7.40,7.80,7.10,7.60,7.60,650000,1,PredictCare AI Suite beta release for oncology forecasting
+2022-06-16,NGAI,10.20,10.70,9.90,10.55,10.55,770000,1,FDA breakthrough software designation received
+2023-11-14,NGAI,13.00,13.50,12.70,13.35,13.35,820000,1,Large NHS Trust rollout wins
+2024-03-27,NGAI,12.40,12.90,11.80,12.00,12.00,720000,1,Competitive market 'data bias' scandal emerges; internal audit launched
+2024-08-19,NGAI,12.90,13.40,12.50,13.20,13.20,710000,1,Internal audit cleared integrity concerns; patient safety filings accelerated
+2025-02-10,NGAI,14.50,15.10,14.30,14.85,14.85,850000,1,Strategic JV announced with Medisafe Health and Borealis (C003)
+2025-05-23,NGAI,15.20,15.80,14.90,15.55,15.55,870000,1,Contender pricing model launched amid sector value compression
+2025-08-19,NGAI,16.10,16.70,15.80,16.55,16.55,720000,0,Recent post-JV stable close with improving revenue momentum

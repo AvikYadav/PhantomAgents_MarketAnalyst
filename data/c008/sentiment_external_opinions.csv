@@ -1,0 +1,31 @@
+date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
+2020-04-07,C008,News,0.41,450,pilot;ai;nhs,NeuraDiagnose shows promise in NHS pilot,Analysts optimistic; cautious on long-term validation
+2020-09-18,C008,LinkedIn,0.38,300,patents;explainability,Strong IP portfolio bolsters moat,Industry experts impressed
+2021-09-02,C008,Twitter,0.47,780,oncology;forecasting;pipeline,PredictCare beta excites healthcare data scientists,Positive technical reception
+2022-06-16,C008,News,0.50,620,FDA;breakthrough;ai,FDA fast-tracks NeuraDiagnose,Market approval prospects bright
+2023-01-10,C008,Financial Press,0.43,580,funding;runway;research,Series C raises $60M for AI research,Investors bullish on growth
+2023-11-14,C008,Reddit,0.39,730,nhs;rollout;enterprise,NHS Trust wins mark major milestone,Community hopeful for patient impact
+2024-03-27,C008,Twitter,-0.45,1100,bias;scandal;audit,Concerns over data bias trigger social concern,Review underway; reputation at risk
+2024-08-19,C008,News,0.42,680,audit;clearance;integrity,Audit report clears integrity doubts,Investor confidence returns
+2025-02-10,C008,LinkedIn,0.48,510,joint venture;collab,JV heralded as next step in integrated care,Healthcare AI synergy appreciated
+2025-05-23,C008,Twitter,0.36,450,pricing;value;retention,Value-based pricing well received,Renewal signs positive
+2025-07-15,C008,News,0.40,360,mhra;regulation;ai device,MHRA guidance boosts clinical device market,Regulatory clarity lifts sentiment
+2025-08-19,C008,Twitter,0.50,720,earnings;growth;arr,Positive Q2 earnings beat surprises market,Stocks respond favorably
+2020-11-25,C008,Healthcare News,0.44,420,mayo;partnership;validation,Mayo Clinic partnership validates technology approach,Clinical community positive response
+2021-02-18,C008,Tech News,0.35,280,patent;diagnostic;algorithm,Core diagnostic patent strengthens IP position,Technology analysts note competitive moat
+2021-06-30,C008,Pharma News,0.41,390,genentech;drug;development,Pharmaceutical partnership expands market reach,Industry observers optimistic about pharma applications
+2021-12-15,C008,Regulatory News,0.39,250,iso;certification;quality,ISO certification enhances market credibility,Quality compliance appreciated by healthcare buyers
+2022-03-08,C008,Product News,0.43,520,genomics;platform;launch,NeuroGenomics platform addresses precision medicine needs,Genomics community interested in AI applications
+2022-09-22,C008,Conference Coverage,0.46,680,himss;keynote;leadership,Industry keynote reinforces thought leadership position,Healthcare IT community recognizes expertise
+2023-03-14,C008,Partnership News,0.44,640,medisafe;integration;platform,Strategic partnership creates comprehensive healthcare solution,Healthcare integration welcomed
+2023-06-28,C008,Regulatory Update,0.37,320,fda;precert;pathway,FDA pre-certification pathway promising for AI software,Regulatory progress noted positively
+2023-08-10,C008,Industry News,0.33,290,hiring;research;expansion,Research team expansion signals growth ambitions,Talent acquisition indicates strong pipeline
+2024-01-15,C008,Security News,0.40,380,cobalt;security;healthcare,Security partnership addresses healthcare AI concerns,Cybersecurity integration appreciated
+2024-05-30,C008,Product Update,0.42,460,explainable;ai;transparency,Explainable AI tools improve clinical adoption,Clinicians appreciate transparency features
+2024-09-12,C008,Clinical News,0.48,570,outcomes;improvement;accuracy,Clinical validation study shows significant improvements,Healthcare community celebrates results
+2024-12-03,C008,Awards Coverage,0.45,340,innovation;award;recognition,Healthcare AI innovation award well deserved,Industry recognition strengthens brand
+2025-01-22,C008,Tech Innovation,0.38,420,federated;learning;privacy,Privacy-preserving AI approach gains attention,Technical community appreciates privacy focus
+2025-04-09,C008,Regulatory Success,0.46,290,mhra;approval;uk,UK regulatory approval milestone achieved,Regulatory success opens European opportunities
+2025-06-18,C008,Expansion News,0.44,510,european;deployment;hospitals,European expansion demonstrates global scalability,International growth trajectory positive
+2025-07-25,C008,Academic News,0.47,380,study;validation;peer-review,Peer-reviewed study validates AI diagnostic accuracy,Scientific validation strengthens credibility
+2025-08-01,C008,Market Analysis,0.49,290,leader;position;diagnostic,Market leadership position recognized by analysts,Strong competitive positioning acknowledged

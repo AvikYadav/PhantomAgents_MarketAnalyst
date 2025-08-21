@@ -1,0 +1,8 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-05-14,ANEU,4.50,4.85,4.40,4.70,4.70,290000,1,AuroraLink BCI headset prototype unveiled to clinicians
+2021-10-22,ANEU,7.30,7.70,7.10,7.55,7.55,420000,1,NeuroFlow Analytics launched in beta with hospitals
+2022-11-15,ANEU,9.90,10.40,9.70,10.15,10.15,500000,1,FDA Breakthrough Device designation granted for AuroraLink
+2023-09-08,ANEU,11.40,11.95,11.20,11.80,11.80,580000,1,Partnership announced with VA hospitals for neuroprosthetic rehab pilots
+2024-04-05,ANEU,13.20,13.70,12.90,13.60,13.60,650000,1,Ethical AI governance policy and clinical transparency portal launched
+2025-02-10,ANEU,14.80,15.40,14.50,15.10,15.10,720000,1,Joint venture formed with Medisafe Health and Borealis CloudWorks
+2025-08-19,ANEU,15.70,16.20,15.50,16.00,16.00,680000,0,Q2 strong earnings beat and ongoing clinical adoption growth

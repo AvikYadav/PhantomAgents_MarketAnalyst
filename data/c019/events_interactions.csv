@@ -1,0 +1,9 @@
+event_id,date,type,actors,target,summary,detailed_description,impact_scope,impact_details,related_docs
+EV019001,2020-08-01,Product Demo,C019,N/A,Heliostat Prototype Demo,Demonstrated high‑reflectivity heliostat array in Arizona,Product,Early customer traction,DEMO-2020-08-C019
+EV019002,2021-10-12,Contract Win,C019,Spanish Utility,CSP Pilot in Spain,Secured first European pilot CSP project,Revenue,$15M EPC contract,PILOT-2021-10-C019
+EV019003,2022-11-20,Product Launch,C019,N/A,HelioStore Commercial Launch,Introduced thermal battery enabling nighttime power,Product,Market expansion,LAUNCH-2022-11-C019
+EV019004,2023-07-07,Partnership,C019,ACWA Power,Saudi Partnership,Joint development agreement signed for MENA CSP,Strategy,New region entry,ACWA-2023-07-C019
+EV019005,2024-02-18,Risk Event,C019,N/A,MENA Water Shortage,Reported water scarcity delaying cooling at CSP plant,Operations,Temporary PPA delay,ISSUE-2024-02-C019
+EV019006,2024-09-09,Resolution,C019,N/A,Water-Saving Cooling Design,Implemented dry‑cooling redesign to resolve issue,Operations,Operations normalised,RESOLVE-2024-09-C019
+EV019007,2025-02-10,Joint Venture,C019|ACWA|EDF,N/A,JV Formed,JV with ACWA Power & EDF for utility-scale solar,Strategy,Broader EPC portfolio,JV-2025-02-C019
+EV019008,2025-08-19,Earnings Release,C019,N/A,Q2 Results Beat,Recorded highest ever EPC contract bookings,Financial,Stock gains,ER-2025-08-C019

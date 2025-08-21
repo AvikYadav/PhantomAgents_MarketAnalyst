@@ -1,0 +1,9 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c019
+2020-08-01,C019,Product Demo,1,Prototype heliostats,High‑reflectivity demo pilot launched,Internal,Positive early traction
+2021-10-12,C019,Contract Win,15,Spain project,$15M EPC contract for CSP pilot,Contracts,Revenue addition
+2022-11-20,C019,Product Launch,1,Thermal battery,Night‑time generation battery launched,Press,New market
+2023-07-07,C019,Partnership,1,ACWA coop,Saudi partnership project,Announcement,Strategic growth
+2024-02-18,C019,Risk Event,-1,Water scarcity,Delays at CSP plant,Industry,Operational bottleneck
+2024-09-09,C019,Resolution,1,Engineering fix,Dry cooling redesign resolved issues,Internal,Operations restored
+2025-02-10,C019,Joint Venture,1,JV signed,JV with ACWA & EDF,Press,International expansion
+2025-08-19,C019,Earnings Beat,1,Q2 results,Highest EPC bookings in history,Earnings Release,Stock price gain

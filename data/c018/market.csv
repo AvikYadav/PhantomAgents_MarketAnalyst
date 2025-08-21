@@ -1,0 +1,9 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c018
+2020-07-14,C018,Product Demo,1,Solid-state prototype,Prototype showcased at demo,Company,Early traction
+2021-09-08,C018,Customer Win,10,Utility pilot,$10M pilot signed,Contract,Revenue validation
+2022-11-16,C018,Product Launch,1,FlowCell release,Commercial launch of flow battery,Announcement,New market
+2023-06-25,C018,Customer Win,50,PG&E contract,$50M contract signed,Press,Large ARR increase
+2024-02-12,C018,Supply Chain,-1,Cathode shortage,Shortages delaying production,Industry,Operational delay
+2024-09-05,C018,Resolution,1,Supplies secured,Supply contracts signed,Internal,Operations restored
+2025-02-10,C018,Joint Venture,1,Green Tech Alliance,JV with partners in clean tech,Press,Expanded ecosystem
+2025-08-19,C018,Earnings Beat,1,Strong Q2,Record earnings reported,Earnings Report,Stock growth

@@ -1,0 +1,9 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-05-22,BHAT,3.70,3.95,3.60,3.80,3.80,280000,1,PhytoCell cell-grown lettuce demo announced
+2021-11-04,BHAT,6.90,7.20,6.70,7.05,7.05,360000,1,First licensing deal signed with Nestlé for plant cell actives
+2022-08-13,BHAT,9.80,10.40,9.60,10.15,10.15,490000,1,FDA GRAS approval of cell-cultured wine additive
+2023-09-19,BHAT,12.50,12.90,12.20,12.65,12.65,550000,1,Coca‑Cola partnership for phytonutrient ingredients
+2024-03-06,BHAT,13.80,14.40,13.50,14.20,14.20,570000,1,Energy costs impact vertical farm margins
+2024-10-11,BHAT,14.00,14.60,13.70,14.40,14.40,540000,1,Solar PPA signed for farms reducing energy risks
+2025-02-10,BHAT,15.50,16.20,15.30,15.90,15.90,720000,1,Global Agri‑Tech JV formed with Bayer CropScience
+2025-08-19,BHAT,16.60,17.30,16.30,17.00,17.00,680000,0,Strong Q2 revenues from licensing + produce sales

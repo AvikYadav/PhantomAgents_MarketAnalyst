@@ -1,0 +1,17 @@
+date,type,description,detailed_impact_on_c011,global_context,mitigation,event_related_id
+2020-02-01,Industry Trend,Quantum hardware R&D surge,Investment and pilot deployments accelerated globally,Government & private sector funding increases,Rapid prototype development,EV011001
+2021-11-01,Software Innovation,Quantum-classical hybrid OS development,Improved algorithm efficiency and programmer access,Expanding research ecosystem,QuantaOS launch bolsters market coverage,EV011002
+2022-10-01,Regulatory,AI-based clinical software certification,FDA breakthrough designation facilitates US adoption,Greater regulatory focus on safety,Accelerated testing and compliance cycles,EV011003
+2023-08-01,Collaboration,National lab partnerships enhance innovation,Increased R&D capabilities and federal funding,Tech convergence trends,Research project expansion,EV011004
+2024-04-01,Commercial Expansion,Pharma and healthcare AI adoption,Growth in use cases and contracts,Healthcare digitization,Robust sales and deployment,EV011005
+2025-02-01,Strategic Alliance,Formation of multi-company JV,Enhanced scale and cross-sector sales,Consolidation trends in tech industry,JV formation and collaboration,EV011006
+2025-07-01,Financial Market,Strong earnings and guidance,Investor confidence improves,Recovery from pandemic impacts,Positive financial communication,EV011008
+2025-08-01,Regulatory Compliance,EU quantum technology regulation filing,Facilitated European market entry,Aligning with global regulation,Documentation and certification focus,EV011009
+2020-08-01,Government Funding,Federal quantum research investment,DOE grant supports R&D acceleration,National quantum initiative priorities,Research program development,EV011011
+2021-03-01,Intellectual Property,Patent protection in quantum computing,Core architecture patent strengthens position,IP race in quantum technology,Strategic patent filing,EV011012
+2021-07-01,Talent Acquisition,Quantum computing skills shortage,Engineer hiring spree addresses capacity needs,Global competition for quantum talent,Aggressive recruitment strategy,EV011013
+2022-01-01,International Expansion,European quantum market development,Munich office enables EU market access,EU quantum flagship program,Regional office establishment,EV011014
+2022-05-01,Industry Leadership,Quantum computing conference prominence,CEO keynote reinforces market position,Industry thought leadership importance,Conference engagement strategy,EV011015
+2022-12-01,Vertical Markets,Aerospace industry quantum adoption,Simulation contract validates commercial applications,Industry-specific quantum use cases,Vertical market strategy,EV011016
+2023-02-01,Investment Climate,Quantum-focused venture capital,Series B funding reflects investor confidence,Quantum computing investment surge,Growth capital strategy,EV011017
+2023-06-01,Product Development,Simulation software advancement,Enhanced capabilities improve customer satisfaction,Software differentiation importance

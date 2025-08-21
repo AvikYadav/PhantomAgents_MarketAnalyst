@@ -1,0 +1,36 @@
+date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
+2020-04-07,C009,News,0.37,450,launch;uav;infrastructure,OrbScout platform garnering initial positive reviews,Industry watchers optimistic but cautious
+2020-09-15,C009,LinkedIn,0.34,320,patents;ai;navigation,Strong patent portfolio for autonomous navigation,Expert praise for defensibility
+2021-12-01,C009,Twitter,0.45,820,beta;naviFly;safety,Positive feedback on AI navigation suite beta,Developer communities responsive
+2022-08-19,C009,News,0.49,840,national grid;contract;inspection,Large contract signals market validation,Wall street analysts optimistic
+2023-04-20,C009,Twitter,-0.30,1100,safety;risk;drone,Concerns over drone safety protocols,Negative social sentiment; company responsive
+2023-09-18,C009,News,0.38,700,firmware;update;safety,Firmware patch restores confidence,Positive rebound in media sentiment
+2024-02-10,C009,LinkedIn,0.51,590,partnership;boeing;medisafe,Industry partnerships widely praised,Investor community excited
+2024-07-05,C009,Reddit,0.43,760,demo;conference;obstacle,Conference demonstration impressive,Technical community engagement positive
+2025-02-10,C009,Twitter,0.55,980,joint venture;tri-forge,Strategic JV announcement well received,High enthusiasm for collaboration
+2025-08-19,C009,Twitter,0.53,720,earnings;growth;arr,Strong financial results impress market,Bullish traders increase buy interest
+2020-05-12,C009,Industry Press,0.32,280,warehouse;automation;pilot,TechForge expansion shows versatility,Measured optimism on applications
+2020-11-08,C009,Regulatory News,0.40,190,faa;certification;commercial,FAA approval enables growth,Regulatory clarity appreciated
+2021-03-15,C009,Energy Sector,0.39,340,siemens;power;inspection,Energy sector partnership welcomed,Utility industry interest growing
+2021-07-22,C009,Tech News,0.36,420,patent;granted;obstacle,Patent recognition validates technology,IP strength acknowledged
+2021-10-30,C009,European Press,0.35,380,munich;office;expansion,European expansion strategic move,Regional growth potential noted
+2022-01-18,C009,Logistics News,0.44,520,fedex;delivery;autonomous,Package delivery trials promising,Logistics industry attention
+2022-04-14,C009,Investment News,0.48,640,series b;funding;investors,Funding round validates business model,Investor confidence high
+2022-06-21,C009,Product Reviews,0.41,390,autodock;fleet;management,AutoDock improvements appreciated,Operational efficiency gains noted
+2022-10-03,C009,Conference Coverage,0.46,450,keynote;robotics;summit,CEO presentation well received,Industry thought leadership recognized
+2022-12-15,C009,Aviation News,0.42,310,easa;certification;europe,European aviation approval significant,Regulatory milestone celebrated
+2023-02-28,C009,Security News,0.38,480,cobalt;integration;secure,Security partnership strengthens offering,Cybersecurity community positive
+2023-06-07,C009,Utility News,0.41,360,grid;extension;monitoring,Contract extension shows value delivery,Utility sector validation
+2023-08-14,C009,Hiring News,0.33,220,engineers;expansion;rd,Engineering team growth signals ambition,Talent acquisition noted positively
+2023-10-25,C009,Awards Coverage,0.47,340,innovation;award;naviFly,Industry recognition deserved,Technical achievement celebrated
+2023-12-11,C009,Healthcare News,0.40,430,medical;delivery;healthcare,Healthcare drone launch strategic,Medical community interested
+2024-04-16,C009,Partnership News,0.45,520,medisafe;logistics;automation,Healthcare partnership expansion logical,Strategic direction praised
+2024-05-23,C009,IP News,0.37,290,swarm;coordination;patents,Advanced capabilities patent filing,Technology advancement recognized
+2024-08-30,C009,Energy News,0.46,480,siemens;monitoring;contract,Major energy contract validates technology,Utility sector confidence growing
+2024-11-12,C009,Asia News,0.38,350,singapore;apac;expansion,Asian expansion timely market entry,Regional growth strategy supported
+2025-01-20,C009,Tech Reviews,0.44,560,naviFly;v3;performance,Major AI upgrade delivers improvements,Technology leadership maintained
+2025-03-14,C009,Cloud News,0.40,390,borealis;integration;optimization,Cloud partnership enhances capabilities,Operational efficiency gains expected
+2025-04-18,C009,Regulatory News,0.43,280,health canada;medical;approval,Canadian approval expands opportunities,Regulatory progress continues
+2025-05-25,C009,Industry News,0.45,420,delivery;summit;autonomous,Summit presentation reinforces leadership,Industry position strengthened
+2025-06-30,C009,European News,0.41,380,utility;contract;inspection,European contract shows global traction,International growth validated
+2025-07-15,C009,Patent News,0.39,310,energy;efficient;optimization,Efficiency patent demonstrates innovation,Technology differentiation continues

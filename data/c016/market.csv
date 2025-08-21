@@ -1,0 +1,26 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c016
+2020-06-18,C016,Regulatory Filing,1,IND Filing,FDA application for clinical trials submitted,FDA,Clinical development enabled
+2021-11-25,C016,Clinical Trial Start,1,Phase I,First human trials initiated,Clinical,Safety evaluation begins
+2022-12-08,C016,Clinical Success,1,Phase I Results,Positive safety and efficacy signals,Clinical Data,Phase II planning
+2023-09-14,C016,Major Partnership,200,Pfizer Deal,Strategic oncology collaboration,Partnership,Up to $200M value
+2024-03-22,C016,Manufacturing Issue,-1,Scale-up Problems,Production challenges delay timeline,Operations,6-month delay
+2024-10-15,C016,Issue Resolution,1,Manufacturing Fix,Enhanced production protocols implemented,Internal,Production restored
+2025-02-10,C016,Joint Venture,1,BioTech Alliance,Multi-company precision medicine JV,Partnership,Market expansion
+2025-08-19,C016,Revenue Beat,1,Q2 Earnings,Strong financial performance reported,Financial,Stock appreciation
+2020-11-30,C016,Patent Grant,1,Targeting Technology,Tumor-targeting nanoparticle patent,USPTO,IP protection
+2021-05-20,C016,Geographic Expansion,1,European Operations,Basel subsidiary established,Internal,EU market access
+2021-09-15,C016,Series A Funding,40,Biotech Investors,Growth capital secured,Investment,Development funding
+2022-04-18,C016,Technology Partnership,1,BASF Materials,Polymer materials collaboration,Partnership,Formulation enhancement
+2022-08-25,C016,Academic Partnership,1,Stanford Medicine,Research collaboration,Academic,Technology advancement
+2023-02-14,C016,EMA Advice,1,Scientific Guidance,European regulatory pathway confirmed,EMA,EU development path
+2023-06-12,C016,Product Launch,1,PrecisionDx,Diagnostic nanoparticles launched,Internal,Revenue diversification
+2023-12-18,C016,J&J Success,1,Feasibility Studies,Collaboration milestone achieved,Customer,Technology validation
+2024-01-25,C016,Asian Expansion,1,Singapore Operations,Asian market operations established,Internal,Regional growth
+2024-05-30,C016,Tech Breakthrough,1,Nanocarrier Platform,Controlled release technology advancement,R&D,Competitive advantage
+2024-08-20,C016,FDA Fast Track,1,Accelerated Review,Fast Track designation granted,FDA,Development acceleration
+2024-12-10,C016,Partnership Expansion,1,Roche Collaboration,Broader therapeutic area collaboration,Partnership,Revenue potential
+2025-01-22,C016,GMP Certification,1,Manufacturing Quality,Commercial production capability,Regulatory,Production readiness
+2025-04-15,C016,Phase II Start,1,Efficacy Trial,Phase II clinical trial initiated,Clinical,Efficacy evaluation
+2025-06-28,C016,Patent Portfolio,1,Drug Delivery IP,Comprehensive patent protection,USPTO,IP strengthening
+2025-07-20,C016,Industry Recognition,1,Innovation Award,Nanomedicine breakthrough recognition,Industry,Brand validation
+2025-08-10,C016,Financial Milestone,100,Revenue Achievement,Annual revenue run-rate milestone,Financial,Growth validation

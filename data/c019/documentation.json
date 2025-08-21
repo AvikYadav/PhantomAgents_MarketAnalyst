@@ -1,0 +1,15 @@
+[
+  {"doc_id":"F2020-AR-C019","type":"Annual Report","date":"2021-03-01","title":"2020 Annual Report","body":"HelioGen Solar Systems reached revenue of $74M with heliostat prototype demonstrations. Technology validation strengthened partnerships. Risks noted: water intensity of CSP, tariff exposure."},
+  {"doc_id":"F2021-AR-C019","type":"Annual Report","date":"2022-02-28","title":"2021 Annual Report","body":"Revenue grew to $96M on first European CSP pilot. Strong R&D and hiring sustained. ESG commitments emphasize water neutrality."},
+  {"doc_id":"F2022-AR-C019","type":"Annual Report","date":"2023-02-27","title":"2022 Annual Report","body":"HelioStore battery launched. Revenue $134M; product diversification reduced intermittency risks. Partnerships expanded."},
+  {"doc_id":"F2023-AR-C019","type":"Annual Report","date":"2024-02-29","title":"2023 Annual Report","body":"Revenue $174M; ACWA partnership announced. Geographic expansion seen as key driver. Risks: water scarcity, supply chain volatility."},
+  {"doc_id":"F2024-AR-C019","type":"Annual Report","date":"2025-02-28","title":"2024 Annual Report","body":"Revenue $226M despite water scarcity challenge. Dry cooling redesign improved ESG profile. Contract book at record high."},
+  {"doc_id":"DEMO-2020-08-C019","type":"Product Demonstration","date":"2020-08-01","title":"Heliostat Array Demo","body":"Demonstrated field of high‑reflectivity heliostats leading to early traction with utilities."},
+  {"doc_id":"PILOT-2021-10-C019","type":"Pilot Project","date":"2021-10-12","title":"Spain CSP Pilot","body":"Secured $15M pilot with Spanish utility for CSP integration into national grid."},
+  {"doc_id":"LAUNCH-2022-11-C019","type":"Product Launch","date":"2022-11-20","title":"HelioStore Launch","body":"Thermal battery platform announced for utility deployments enabling night-time power."},
+  {"doc_id":"ACWA-2023-07-C019","type":"Partnership","date":"2023-07-07","title":"ACWA Power Partnership","body":"JV announced with Saudi ACWA Power for MENA CSP plants."},
+  {"doc_id":"ISSUE-2024-02-C019","type":"Risk Report","date":"2024-02-18","title":"Water Scarcity Challenges","body":"Arid region site had cooling delays. Mitigation with new dry cooling concept planned."},
+  {"doc_id":"RESOLVE-2024-09-C019","type":"Operations Update","date":"2024-09-09","title":"Dry Cooling Design Implemented","body":"Introduced redesigned cooling solution to ensure water neutral operations."},
+  {"doc_id":"JV-2025-02-C019","type":"Joint Venture Announcement","date":"2025-02-10","title":"JV with ACWA & EDF","body":"Strategic JV to deliver large CSP projects combining expertise and capital."},
+  {"doc_id":"ER-2025-08-C019","type":"Earnings Release","date":"2025-08-19","title":"Q2 2025 Earnings","body":"Record EPC bookings, revenue $41M in Q2, growth momentum continues. Guidance revised upward."}
+]

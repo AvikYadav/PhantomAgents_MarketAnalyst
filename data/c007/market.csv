@@ -1,0 +1,9 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c007
+2020-04-15,C007,Regulatory Approval,1,FDA 510k VitalPump,FDA clearance enables commercial sales,FDA,Market access unlocked
+2021-08-10,C007,Partnership,5,Mayo Clinic,FlowSensor launch with prestigious partner,Press,Credibility boost
+2022-11-22,C007,Customer Win,8,Johns Hopkins,Major hospital network deployment,Contracts,Significant ARR growth
+2023-06-18,C007,Government Contract,15,VA Medical Centers,Nationwide government deployment,Public Sector,Long-term revenue security
+2024-03-14,C007,Safety Incident,-1,Device Recall,500 units recalled for safety issue,Internal Audit,Trust and stock impact
+2024-07-25,C007,Regulatory Clearance,1,FDA Investigation,Investigation closed with approval,FDA,Confidence restoration
+2025-02-10,C007,Strategic Alliance,1,Healthcare Tech Alliance,Cross-sector partnership formation,Partnership,Market expansion opportunity
+2025-08-19,C007,Financial Beat,1,Q2 Earnings,Strong results exceed expectations,Investor Relations,Stock appreciation

@@ -1,0 +1,9 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c020
+2020-05-22,C020,Product Demo,1,PhytoCell demo,First vertical farm cell-based crop demo,Press,Credibility boost
+2021-11-04,C020,Licensing Contract,1,Nestlé licensing,First royalty deal signed,Company,Revenue stream opens
+2022-08-13,C020,FDA Milestone,1,GRAS status,FDA approval enables US sales,Regulatory,Market expansion
+2023-09-19,C020,Partnership,20,Coca‑Cola,$20M phyto-ingredient supply,Contracts,Huge revenue uplift
+2024-03-06,C020,Risk Event,-1,High energy costs,Utility inflation hits margins,Market,Costs spiked
+2024-10-11,C020,Resolution,1,Solar PPAs,Energy cost hedge signed,Internal,Stability regained
+2025-02-10,C020,Joint Venture,1,Bayer JV,Agri‑Biotech JV formed with Bayer,Press,New pipeline
+2025-08-19,C020,Earnings Beat,1,Q2 2025,Record revenue from deals,Company,Stock uplift

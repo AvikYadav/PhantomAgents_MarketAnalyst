@@ -1,0 +1,26 @@
+event_id,date,type,actors,target,summary,detailed_description,impact_scope,impact_details,related_docs
+EV012001,2020-05-20,Product Launch,C012,San Diego Water Authority,AquaFlow pilot deployment,Launched smart water monitoring system in municipal pilot program,Revenue,Generated $1.5M pilot contract,PILOT-2020-05-C012
+EV012002,2021-09-15,Product Launch,C012,Nestlé Waters,PureStream commercial launch,Commercial launch of filtration units with major beverage company partnership,Revenue,$4.2M partnership value,LAUNCH-2021-09-C012
+EV012003,2022-11-08,System Deployment,C012,Middle East Facilities,HydroSense IoT deployment,Large-scale IoT platform deployment across regional water infrastructure,Revenue,$8M deployment contract,DEPLOY-2022-11-C012
+EV012004,2023-07-12,Customer Win,C012,Saudi Water Authority,Major government contract,Multi-year water management contract for national infrastructure,Revenue,$25M contract over 5 years,SAUDI-2023-07-C012
+EV012005,2024-02-28,Product Recall,C012,N/A,Sensor malfunction incident,Quality control issue with water quality sensors triggers voluntary recall,Reputation,Product recall costs $2.8M,RECALL-2024-02-C012
+EV012006,2024-08-14,Issue Resolution,C012,N/A,Quality controls enhancement,Implemented enhanced manufacturing and testing protocols,Quality,Restored customer confidence,QUALITY-2024-08-C012
+EV012007,2025-02-10,Joint Venture,C012|C010|C018,N/A,Water Innovation Alliance,Joint venture focusing on integrated water and energy solutions,Strategy,Expanded market opportunities,JV-2025-02-C012
+EV012008,2025-08-19,Earnings Release,C012,N/A,Q2 2025 strong performance,Record revenue driven by municipal contract expansion,Financial,Stock appreciation and growth outlook,ER-2025-08-C012
+EV012009,2020-11-12,Certification,C012,NSF International,NSF water treatment certification,Achieved certification for water treatment systems,Regulatory,Enhanced market credibility,CERT-2020-11-C012
+EV012010,2021-04-25,Partnership,C012,Siemens,Sensor technology partnership,Strategic partnership for advanced IoT sensor development,Technology,Enhanced product capabilities,SIEMENS-2021-04-C012
+EV012011,2021-12-18,Funding Round,C012,Water Tech VCs,Series A $15M funding,Growth capital from water technology focused investors,Financial,Expansion funding secured,FUND-2021-12-C012
+EV012012,2022-03-22,International Expansion,C012,Europe,European operations launch,Established Amsterdam subsidiary for European market,Operations,Geographic diversification,EUROPE-2022-03-C012
+EV012013,2022-08-30,Customer Success,C012,Metropolitan Water District,Smart monitoring deployment,Successful deployment reducing water loss by 30% in pilot areas,Validation,Technology effectiveness demonstrated,SUCCESS-2022-08-C012
+EV012014,2023-01-16,Patent Grant,C012,USPTO,IoT water monitoring patent,Patent granted for innovative water quality monitoring algorithms,IP,Competitive advantage strengthened,PATENT-2023-01-C012
+EV012015,2023-04-20,Award,C012,Water Industry,Innovation excellence award,Recognized for breakthrough water monitoring technology,Recognition,Industry validation and brand enhancement,AWARD-2023-04-C012
+EV012016,2023-10-05,Product Enhancement,C012,N/A,AI-powered analytics upgrade,Enhanced HydroSense platform with predictive analytics,Product,Improved customer value proposition,UPGRADE-2023-10-C012
+EV012017,2024-01-30,Partnership,C012,3M,Advanced membrane partnership,Collaboration for next-generation filtration membrane development,Technology,Product innovation acceleration,3M-2024-01-C012
+EV012018,2024-06-18,Customer Expansion,C012,Medisafe Health,Healthcare facility water systems,Deployment of water quality monitoring in healthcare facilities,Revenue,$3.5M healthcare sector contract,HEALTH-2024-06-C012
+EV012019,2024-10-25,Sustainability Initiative,C012,N/A,Water-positive operations program,Launched program to achieve net-positive water impact,ESG,Environmental leadership demonstration,SUSTAIN-2024-10-C012
+EV012020,2024-12-20,Technology Breakthrough,C012,R&D,Advanced purification technology,Breakthrough in membrane technology achieving 99.9% contaminant removal,Technology,Significant competitive advantage,TECH-2024-12-C012
+EV012021,2025-01-25,Government Recognition,C012,EPA,Environmental excellence recognition,EPA recognition for water conservation technology contributions,Recognition,Regulatory validation and credibility,EPA-2025-01-C012
+EV012022,2025-03-15,Market Expansion,C012,Asia-Pacific,APAC market entry,Established operations in Singapore for Asian market expansion,Operations,Regional growth opportunity,APAC-2025-03-C012
+EV012023,2025-05-30,Customer Success,C012,Dubai Municipality,Smart city water integration,Successful integration of water monitoring in smart city infrastructure,Validation,Smart city market validation,DUBAI-2025-05-C012
+EV012024,2025-06-20,Partnership,C012,Borealis CloudWorks,Enhanced analytics partnership,Expanded partnership for advanced data analytics and AI,Technology,Enhanced analytical capabilities,BOREALIS-2025-06-C012
+EV012025,2025-07-15,Product Launch,C012,N/A,Next-generation monitoring system,Launch of AquaFlow 2.0 with enhanced IoT and AI capabilities,Product,Market differentiation and growth,AQUAFLOW2-2025-07-C012

@@ -1,0 +1,8 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-02-12,HQC,5.50,5.85,5.40,5.80,5.80,320000,1,Commercial launch of HQC Quantum Processor prototype
+2021-11-15,HQC,8.20,8.65,7.95,8.30,8.30,550000,1,QuantaOS Hybrid OS major release with new quantum-classical scheduling
+2022-10-10,HQC,10.30,10.80,10.20,10.65,10.65,600000,1,FDA compatible quantum simulator certification achieved
+2023-08-05,HQC,12.40,12.90,12.10,12.50,12.50,650000,1,Major National Labs partnership announced for quantum computational chemistry projects
+2024-04-15,HQC,13.70,14.10,13.50,14.00,14.00,700000,1,Expanded commercial orders with PharmaGen after clinical AI collaborations
+2025-02-10,HQC,15.20,15.80,15.00,15.50,15.50,800000,1,Tri-Forge JV formed with Borealis CloudWorks and QuantumQuill Software
+2025-08-19,HQC,16.00,16.45,15.90,16.30,16.30,720000,0,Strong Q2 financial results and market expansion

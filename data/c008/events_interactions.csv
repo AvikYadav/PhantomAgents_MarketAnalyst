@@ -1,0 +1,31 @@
+event_id,date,type,actors,target,summary,detailed_description,impact_scope,impact_details,related_docs
+EV008001,2020-04-07,Product Launch,C008,N/A,NeuraDiagnose core AI launch,Real-time diagnostic pipelines launched with early NHS pilot,Revenue,Pilot traction; ARR +$1.2M,F2020-AR-C008
+EV008002,2020-09-18,Patent Filing,C008,N/A,Explainability layers,Filed 3 patents on AI model transparency,IP,IP moat enhanced,USPTO-2020-09-C008
+EV008003,2021-09-02,Product Launch,C008,N/A,PredictCare beta release,Oncology forecasting module for large hospitals,Product,Pipeline +$3.5M,IP2021-09-C008
+EV008004,2022-06-16,Regulatory Milestone,C008,FDA,Breakthrough software designation,Accelerates approval for clinical use,Regulatory,Market access boost,FDA-2022-BKD-C008
+EV008005,2023-01-10,Funding,C008,N/A,Series C raise $60M,Led by Royal Bank of Scotland; drives AI research,Financial,Runway extended,F2023-01-FIN-C008
+EV008006,2023-11-14,Customer Win,C008,NHS Trust,NHS Trust enterprise boost,Deployment across 5 hospitals,Revenue,$8M ARR,CASE-2023-11-C008
+EV008007,2024-03-27,Reputation Dip,C008,N/A,Bias data scandal,Claims of untested data bias; audit initiated,Reputation,Stock -8%; lead slow,PR-2024-03-C008
+EV008008,2024-08-19,Audit Clearance,C008,N/A,Integrity audit passed,Third-party validation of ethical datasets,Trust,Recovery begins,REPORT-2024-08-C008
+EV008009,2025-02-10,Joint Venture,C008|C003|Medisafe,N/A,Health AI JV announced,Combines AI cloud and clinical data,Strategy,Pipeline synergy +,JV-2025-02-C008
+EV008010,2025-05-23,Pricing Model,C008,N/A,Value-based pricing,New pricing addresses payer value,Financial,Customer retention +,FIN-2025-05-C008
+EV008011,2025-07-15,Regulatory Update,C008,MHRA,AI medical device guidance,Anticipated EU & UK approvals,Regulatory,Compliance enabled,MHRA-2025-07-C008
+EV008012,2025-08-19,Earnings,C008,N/A,Beat & raise,EPS +22% YoY; ARR $140M,Financial,Positive momentum,ER-2025-08-C008
+EV008013,2020-11-25,Partnership,C008,Mayo Clinic,Clinical validation partnership,Research collaboration for oncology AI,Collaboration,Credibility boost,PART-2020-11-C008
+EV008014,2021-02-18,Patent Grant,C008,N/A,Diagnostic algorithm patent,Core AI diagnostic method patented,IP,Competitive advantage,USPTO-2021-02-C008
+EV008015,2021-06-30,Customer Expansion,C008,Genentech,Pharmaceutical research contract,AI analytics for drug development,Revenue,$2.5M ARR,CONT-2021-06-C008
+EV008016,2021-12-15,Certification,C008,ISO,ISO 13485 medical devices,Quality management system certified,Regulatory,Market credibility,CERT-2021-12-C008
+EV008017,2022-03-08,Product Update,C008,N/A,NeuroGenomics Insights launch,Genomic data analysis platform,Product,Market expansion,PROD-2022-03-C008
+EV008018,2022-09-22,Conference,C008,N/A,HIMSS keynote presentation,AI in healthcare thought leadership,Marketing,Industry recognition,CONF-2022-09-C008
+EV008019,2023-03-14,Customer Win,C008,Medisafe Health,Strategic healthcare partnership,Integrated AI analytics platform,Revenue,$4.2M ARR,PART-2023-03-C008
+EV008020,2023-06-28,Regulatory Filing,C008,FDA,FDA AI software pre-certification,Software as medical device pathway,Regulatory,US market acceleration,FDA-2023-06-C008
+EV008021,2023-08-10,Team Expansion,C008,N/A,AI research team scaling,Hired 85 AI researchers and clinicians,Operations,R&D capacity increase,HR-2023-08-C008
+EV008022,2024-01-15,Partnership,C008,Cobalt CyberGuard,Healthcare AI security,Secure AI infrastructure for hospitals,Collaboration,Security differentiation,PART-2024-01-C008
+EV008023,2024-05-30,Product Enhancement,C008,N/A,Explainable AI dashboard,Clinical decision transparency tools,Product,User adoption increase,PROD-2024-05-C008
+EV008024,2024-09-12,Customer Success,C008,NHS Trust,Clinical outcomes improvement,Demonstrated 25% diagnostic accuracy gain,Validation,Clinical evidence,CASE-2024-09-C008
+EV008025,2024-12-03,Award,C008,N/A,Healthcare AI Innovation Award,Industry recognition for diagnostic AI,Recognition,Brand strengthening,AWARD-2024-12-C008
+EV008026,2025-01-22,Patent Filing,C008,N/A,Federated learning healthcare,Privacy-preserving AI training methods,IP,Technology leadership,USPTO-2025-01-C008
+EV008027,2025-04-09,Regulatory Approval,C008,MHRA,UK medical device approval,MHRA approval for NeuraDiagnose,Regulatory,UK market access,MHRA-2025-04-C008
+EV008028,2025-06-18,Customer Expansion,C008,European Health Network,Multi-country deployment,AI diagnostics across European hospitals,Revenue,$6.5M ARR,CONT-2025-06-C008
+EV008029,2025-07-25,Technology Showcase,C008,N/A,AI diagnostic accuracy study,Published peer-reviewed validation study,Validation,Scientific credibility,STUDY-2025-07-C008
+EV008030,2025-08-01,Market Leadership,C008,N/A,AI healthcare market position,Recognized as leader in diagnostic AI,Recognition,Market positioning,REPORT-2025-08-C008

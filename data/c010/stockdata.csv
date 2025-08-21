@@ -1,0 +1,9 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-06-15,EFLO,3.80,4.10,3.70,4.00,4.00,280000,1,CarbonLock capture material prototype demonstration to industrial partners
+2021-08-20,EFLO,6.50,6.95,6.30,6.80,6.80,420000,1,EcoSynth manufacturing process patent granted and pilot plant operational
+2022-10-12,EFLO,9.20,9.70,9.00,9.55,9.55,520000,1,BASF strategic partnership and $15M investment announced
+2023-05-18,EFLO,11.40,11.90,11.10,11.75,11.75,610000,1,FlowFilter system deployed at Siemens Energy facilities
+2024-01-25,EFLO,12.80,13.20,12.50,13.05,13.05,580000,1,Environmental compliance investigation by EPA initiated
+2024-07-10,EFLO,12.40,12.90,12.10,12.65,12.65,540000,1,EPA investigation cleared; enhanced environmental monitoring protocols implemented
+2025-02-10,EFLO,14.20,14.80,14.00,14.55,14.55,680000,1,Green Technology Alliance JV with TerraVolt Energy and Borealis CloudWorks
+2025-08-19,EFLO,15.10,15.60,14.90,15.45,15.45,630000,0,Strong Q2 earnings with carbon credit revenue acceleration

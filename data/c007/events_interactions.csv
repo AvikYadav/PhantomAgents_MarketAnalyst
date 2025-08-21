@@ -1,0 +1,9 @@
+event_id,date,type,actors,target,summary,detailed_description,impact_scope,impact_details,related_docs
+EV007001,2020-04-15,Regulatory Approval,C007,FDA,VitalPump FDA 510k Clearance,Received FDA clearance for smart infusion pump system enabling commercial deployment,Regulatory,US market access enabled; $3M ARR pipeline,FDA-2020-04-C007
+EV007002,2021-08-10,Product Launch,C007,Mayo Clinic,FlowSensor Monitor Partnership,Launched patient monitoring system with Mayo Clinic as lead clinical partner,Product,Enhanced credibility and $5M ARR potential,PART-2021-08-C007
+EV007003,2022-11-22,Customer Win,C007,Johns Hopkins,MedConnect Hub Deployment,Deployed integration platform across Johns Hopkins medical network,Revenue,Major contract worth $8M ARR,CONT-2022-11-C007
+EV007004,2023-06-18,Customer Win,C007,VA Medical,National VA Contract,Secured nationwide deployment contract with VA Medical Centers,Revenue,Contract value $15M ARR over 3 years,CONT-2023-06-C007
+EV007005,2024-03-14,Safety Incident,C007,N/A,Device Recall Safety Issue,Voluntary recall of 500 devices due to software malfunction affecting patient safety,Reputation,Stock decline and regulatory scrutiny,INC-2024-03-C007
+EV007006,2024-07-25,Incident Resolution,C007,FDA,FDA Clearance Post-Investigation,FDA investigation completed with enhanced safety protocols approved,Regulatory,Market confidence restored,RES-2024-07-C007
+EV007007,2025-02-10,Partnership,C007|C003|Medisafe,N/A,Healthcare Technology Alliance,Strategic partnership combining medical devices with cloud and health data analytics,Strategy,Cross-sector synergies and expanded market reach,PART-2025-02-C007
+EV007008,2025-08-19,Earnings Release,C007,N/A,Q2 2025 Strong Results,Reported robust financial performance with accelerated hospital adoption,Financial,Investor confidence and stock appreciation,ER-2025-08-C007

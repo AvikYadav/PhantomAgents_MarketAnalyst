@@ -1,0 +1,9 @@
+event_id,date,type,actors,target,summary,detailed_description,impact_scope,impact_details,related_docs
+EV018001,2020-07-14,Product Demo,C018,N/A,VOLTMAX Prototype Demo,Demonstrated solid-state battery prototype in pilot utility setting,Product,Early customer traction,DEMO-2020-07-C018
+EV018002,2021-09-08,Customer Win,C018,Utility Partner,Utility Pilot Contract,Secured first major pilot with European energy utility,Revenue,$10M contract,CONTRACT-2021-09-C018
+EV018003,2022-11-16,Product Launch,C018,N/A,FlowCell X Commercial Launch,Introduced long-duration flow battery system for grid-scale markets,Product,Market diversification,LAUNCH-2022-11-C018
+EV018004,2023-06-25,Customer Win,C018,PG&E,Large Grid Contract,Secured $50M PG&E contract for grid storage,Revenue,ARR growth significant,PG&E-2023-06-C018
+EV018005,2024-02-12,Supply Chain Issue,C018,N/A,Cathode Material Shortage,Global shortage delays production schedules,Operations,Contract delivery pushed,ISSUE-2024-02-C018
+EV018006,2024-09-05,Issue Resolution,C018,N/A,Supply Chain Resolved,Material contracts signed to ensure supply reliability,Operations,Production normalized,RESOLVE-2024-09-C018
+EV018007,2025-02-10,Joint Venture,C018|C010|C015,N/A,Green Tech Alliance,JV with EcoFlow & StratoSky for integrated clean energy,Strategy,Expanded ecosystem,JV-2025-02-C018
+EV018008,2025-08-19,Earnings Release,C018,N/A,Strong Q2 Financials,Reported record Q2 2025 earnings,Financial,Stock appreciation,ER-2025-08-C018

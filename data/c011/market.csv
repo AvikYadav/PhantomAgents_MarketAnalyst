@@ -1,0 +1,29 @@
+date,company_id,signal_type,value,note,detailed_description,source,impact_on_c011
+2020-02-12,C011,Product Launch,1,Processor prototype,Initial scalable quantum hardware released driving early interest,Company,Seed customer traction
+2021-11-15,C011,Software Release,1,QuantaOS Hybrid OS,Control OS launch improves system efficiency,Internal,Expanded pipeline
+2022-10-10,C011,Certification,1,FDA Software Simulator,Certification unlocked US market potential,Regulatory Agency,New customer access
+2023-08-05,C011,Partnership,1,National Labs,Collaborative quantum chemistry R&D,Press,Pipeline growth
+2024-04-15,C011,Customer Win,5,PharmaGen orders,Commercial AI pharmaceutical projects,Contracts,Revenue upturn
+2025-02-10,C011,JV Formed,1,Tri-Forge JV,Integration with cloud and AI partners,Public,Strategic advantage
+2025-05-12,C011,Patent Filing,5,Error correction patents,New IP filings secure technology,Patent Office,Moat strengthened
+2025-07-20,C011,Earnings,1,Q2 earnings beat,Better-than-expected financials,Financial News,Stock gains
+2020-08-25,C011,Research Grant,3,DOE funding,Federal research support secured,Government,R&D acceleration
+2021-03-18,C011,IP Protection,1,Architecture patent,Core hardware patent granted,USPTO,Competitive edge
+2021-07-22,C011,Team Growth,45,Engineer hiring,Quantum talent acquisition,HR,Innovation capacity
+2022-01-30,C011,Geographic Expansion,1,European operations,Munich office established,Internal,Market access
+2022-05-14,C011,Industry Leadership,1,Summit keynote,CEO thought leadership presentation,Conference,Brand positioning
+2022-12-19,C011,Aerospace Contract,2.8,AeroSpace Tech,Simulation services contract,Contracts,Vertical expansion
+2023-02-28,C011,Growth Funding,35,Series B,Quantum-focused investor funding,Investment,Development capital
+2023-06-15,C011,Product Enhancement,1,Sim Suite update,Advanced simulation capabilities,Internal,Customer satisfaction
+2023-12-05,C011,Academic Recognition,1,MIT award,Innovation recognition,Academic,Credibility boost
+2024-01-25,C011,Security Partnership,1,Cobalt integration,Post-quantum cryptography,Partnership,Product differentiation
+2024-08-30,C011,Technical Milestone,100,Qubit processor,100-qubit stable operation achieved,R&D,Industry leadership
+2024-10-18,C011,Commercial Success,1,Helix deployment,Optimization solution deployment,Customer,Viability proof
+2024-12-12,C011,IP Expansion,8,Patent portfolio,Comprehensive patent filing,USPTO,Protection enhancement
+2025-01-15,C011,APAC Launch,1,Singapore office,Asian market entry,Operations,Regional growth
+2025-03-20,C011,Scientific Publication,1,Nature paper,Quantum advantage research,Academic,Credibility enhancement
+2025-04-30,C011,Defense Contract,8,DARPA project,Government defense applications,Contracts,Revenue diversification
+2025-06-25,C011,Cloud Launch,1,Quantum Cloud,Commercial cloud service,Product,Business model expansion
+2025-07-15,C011,Manufacturing Partnership,1,Intel expansion,Hardware development collaboration,Partnership,Capability access
+2025-08-05,C011,Market Leadership,1,Industry recognition,Leading position acknowledged,Industry,Positioning validation
+2025-08-15,C011,Revenue Milestone,80,Run-rate achievement,Annual revenue milestone,Financial,Growth validation

@@ -1,0 +1,9 @@
+date,ticker,open_usd,high_usd,low_usd,close_usd,adj_close_usd,volume,event_flag,event_description
+2020-04-30,MFLD,4.20,4.50,4.05,4.35,4.35,310000,1,FlowDx point-of-care platform prototype demonstration to healthcare providers
+2021-09-22,MFLD,6.80,7.20,6.60,7.05,7.05,440000,1,ChipLab microfluidic cartridges FDA 510k clearance received
+2022-12-15,MFLD,9.40,9.90,9.20,9.75,9.75,520000,1,Major contract signed with Quest Diagnostics for point-of-care testing
+2023-08-08,MFLD,11.60,12.20,11.40,12.00,12.00,580000,1,WHO Global Health Initiative partnership for emerging markets deployment
+2024-03-12,MFLD,12.80,13.30,12.50,13.15,13.15,610000,1,Manufacturing quality control issue triggers temporary production halt
+2024-09-25,MFLD,12.90,13.50,12.70,13.35,13.35,590000,1,Quality issues resolved; enhanced manufacturing protocols implemented
+2025-02-10,MFLD,14.50,15.10,14.30,14.85,14.85,680000,1,MedTech Innovation Alliance JV formed with Medisafe Health and NeuraGen AI
+2025-08-19,MFLD,15.20,15.70,15.00,15.55,15.55,650000,0,Strong Q2 earnings driven by international expansion and new product launches

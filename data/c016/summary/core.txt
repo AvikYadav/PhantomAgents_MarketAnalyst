@@ -1,0 +1,26 @@
+## Company Overview
+NanoMed Therapeutics, with ticker NANO, is a privately held biotechnology company incorporated on February 14, 2019. Its legal name is NanoMed Therapeutics Inc. The company is headquartered in San Francisco, California, USA. NanoMed Therapeutics operates in the Biotechnology sector, specifically in Nanomedicine & Drug Delivery, and its industry classification includes NAICS 325412, SIC 2834, and GICS 35201020. The company's operations span across North America, Europe, and Asia.
+
+## Founding and Mission
+The company was founded by Dr. Elena Vasquez and Dr. Raj Kumar. Their founding story centers on developing targeted drug delivery systems using engineered nanoparticles for cancer treatment and precision medicine applications. NanoMed Therapeutics' mission is to revolutionize medicine through precision nanotherapeutics that deliver drugs exactly where needed, while minimizing side effects and maximizing therapeutic impact.
+
+## Products and Intellectual Property
+NanoMed Therapeutics' primary products include NanoTarget Cancer Therapy, PrecisionDx Diagnostic Nanoparticles, and the NanoCarrier Drug Delivery Platform. They also offer drug formulation development, clinical trial support, and regulatory consulting services. The company's core intellectual property assets are in targeted nanoparticle engineering, biocompatible polymer chemistry, and controlled drug release mechanisms, holding 42 patents as of 2025.
+
+## Operations and Market Presence
+NanoMed Therapeutics has a global presence with subsidiaries NanoMed Europe GmbH in Basel and NanoMed Asia Ltd in Singapore. Their go-to-market strategy involves a pharma partnership model, licensing agreements, and direct clinical development collaborations. The company utilizes a licensing fee, milestone payment, and royalty sharing pricing model for its commercialized products. They partner with major banks like Merrill Lynch and Swiss Bank Corporation and have major customers including Pfizer, Roche, and Johnson & Johnson. Key suppliers include BASF and Evonik, with Borealis CloudWorks (C003) as a technology partner for clinical data analytics.
+
+## Technology and Infrastructure
+The company leverages Borealis CloudWorks (C003) for clinical analytics, with AWS for backup. Their ERP system is Oracle ERP Cloud, and their CRM system is Salesforce Life Sciences Cloud. The data stack includes Snowflake, Apache Spark, R/Bioconductor, and custom pharmacokinetic modeling. NanoMed Therapeutics holds security certifications such as ISO 13485 and GMP compliance, and has FDA IND approval and EMA scientific advice.
+
+## Workforce and Governance
+NanoMed Therapeutics has experienced significant employee growth, from 180 in 2020 to an estimated 810 by 2025 YTD. In 2024, 6% of their workforce is unionized and 72% work remotely. The company has a board size of 7 members, with 59% board independence as of 2024. The board has four committees: Audit, Scientific Advisory, Compensation, and Nominating & ESG. KPMG serves as their auditor, and Cooley LLP is their legal counsel.
+
+## ESG and Risk Management
+NanoMed Therapeutics has set ambitious environmental goals, aiming for carbon-neutral R&D operations by 2030, 90% green chemistry processes, and sustainable nanoparticle production. Their diversity goals include having 50% women in senior scientific positions by 2028, supporting STEM diversity programs, and ensuring equitable clinical trials. Their ESG policy emphasizes patient safety, environmental responsibility in nanomaterial production, and inclusive clinical research. The top three risks identified in their risk register are clinical trial failure, regulatory approval uncertainty, and manufacturing scale-up complexity.
+
+## Financial and Regulatory Information
+NanoMed Therapeutics operates under US GAAP and is subject to tax jurisdictions in the USA, Switzerland, and Singapore. Their transfer pricing method is TNMM with pharmaceutical sector benchmarks. Internally, their credit rating is BBB with a positive outlook. Their cash management policy aims to maintain 12 months of liquidity, with 40% of cash held in pharmaceutical sector bonds and a focus on clinical milestone tracking. Treasury risk limits include a daily VaR of $1.2M, a maximum pharma partner exposure of $10M, and currency hedging for international trials. The company is regulated by bodies such as the FDA, EMA, PMDA, and Health Canada.
+
+## Communication and Web Presence
+For investor relations, the contact is ir@nanomed-therapeutics.com. Media inquiries can be directed to press@nanomed-therapeutics.com. The company's careers page is available at https://careers.nanomed-therapeutics.com, and their website is https://www.nanomed-therapeutics.com. BioPharma Communications handles their public relations.

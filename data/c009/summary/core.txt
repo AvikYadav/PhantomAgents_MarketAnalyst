@@ -1,0 +1,32 @@
+## Company Overview##
+OrbitalVision Robotics, also known by its ticker OVR, is a privately held company legally registered as OrbitalVision Robotics Ltd. Founded on November 22, 2017, it operates within the Robotics sector, specifically focusing on Autonomous Inspection & Delivery. The company's primary headquarters are located in San Francisco, California, USA, with operations extending across North America, Europe, and the Asia-Pacific regions.
+
+## Founding and Mission##
+OrbitalVision Robotics was born out of a DARPA-funded university lab, with the initial goal of developing AI-powered drones for autonomous infrastructure inspection and industrial delivery. The company gained early traction with energy utility clients and has since expanded its reach into healthcare logistics. Its mission is to pioneer autonomous robotics safely and efficiently, aiming to transform inspection and delivery sectors globally. The company was co-founded by Chloe Sanchez and Ravi Pillai.
+
+## Products and Services##
+The company's core offerings include the OrbScout UAV Drone Platform, NaviFly AI Navigation Suite, and AutoDock Automated Docking Station. These are complemented by inspection and delivery solutions, operation optimization services, and partner implementation services. OrbitalVision Robotics' key intellectual property lies in its AI navigation algorithms, obstacle avoidance AI, and an autonomous flight path patent, for which it holds 68 patents.
+
+## Operations and Employees##
+OrbitalVision Robotics has a growing employee base, with 290 employees in 2020, increasing to 730 in 2023 and projecting 955 by 2025 year-to-date. The company reported an 8% union presence in 2024 and a 65% remote work policy. Its subsidiaries include OrbitalVision EU GmbH in Munich and OrbitalVision Asia Pte Ltd in Singapore.
+
+## Financial and Banking##
+The company banks with Silicon Valley Bank and First National Bank. While it is privately owned, its fiscal year ends on December 31. OrbitalVision Robotics utilizes Oracle NetSuite as its ERP system and Salesforce CRM for customer relationship management. Its data stack includes Snowflake, Kafka, and TensorFlow pipelines.
+
+## Go-to-Market and Pricing##
+OrbitalVision Robotics employs a direct enterprise sales strategy, supplemented by channel partnerships and pilot-to-scale demonstrations with large industrial clients. Their pricing model is a combination of subscription fees, hourly flight usage fees, hardware leases, and volume-tiered insights plans. The company's primary cloud provider is AWS, with additional services from Borealis CloudWorks for EU data residency.
+
+## ESG and Sustainability##
+The company has set ambitious environmental goals, aiming for carbon-neutral operations by 2035 and utilizing 75% renewable energy by 2027, with a zero-waste plan in place. OrbitalVision Robotics is also committed to diversity, with a goal of having 40% women in technical leadership positions by 2029, supported by various inclusion programs and training. Their ESG policy emphasizes sustainable robotics manufacturing, ethical AI use, and workforce diversity.
+
+## Risk Management and Competitors##
+Key risks identified for OrbitalVision Robotics include potential delays in regulatory approvals, component shortages, and operational safety incidents. The company faces competition from major players in the UAV market, including DJI, Skydio, AeroVironment, and Zipline.
+
+## Governance and Compliance##
+OrbitalVision Robotics maintains a board size of 7 members, supported by several committees including Audit, Risk & Compliance, Compensation, and Nominating & ESG. In 2024, 65% of the board was independent. The company is audited by Ernst & Young and represented legally by Latham & Watkins. Its PR agency is ClearSight PR. OrbitalVision Robotics adheres to US GAAP accounting standards and operates within tax jurisdictions including the USA, Germany, and Singapore. Their credit rating is internally assessed as BBB+ stable.
+
+## Key Partnerships and Customers##
+Major customers for OrbitalVision Robotics include National Grid UK, FedEx, Siemens Energy, and Medisafe Health. Key suppliers include NVIDIA, Qualcomm, and Cobalt CyberGuard (C004).
+
+## Investor and Media Relations##
+Investor relations can be contacted at ir@orbitalvision.com, while media inquiries should be directed to press@orbitalvision.com. The company's careers page is available at https://careers.orbitalvision.com and its website at https://www.orbitalvision.com. The company's current status is Active.

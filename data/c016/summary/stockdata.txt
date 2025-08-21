@@ -1,0 +1,23 @@
+## NANO Company Events and Stock Performance Summary
+
+This document outlines key events and associated stock performance data for the company NANO. The information is presented chronologically, highlighting significant milestones in the company's development and their impact on stock prices and trading volumes.
+
+## Early Stage Development and FDA Filings
+
+NANO's journey began with an announcement on June 18, 2020, regarding their NanoTarget cancer therapy IND filing with the FDA. On this date, the stock opened at $8.20, reached a high of $8.65, a low of $8.00, and closed at $8.50 with an adjusted close of $8.50. The trading volume for this day was 210,000.
+
+## Clinical Trial Progress and Positive Data
+
+A significant step forward was made on November 25, 2021, with the initiation of a Phase I clinical trial for their lead nanotherapy candidate. The stock performed well, opening at $12.40, hitting a high of $13.00, a low of $12.10, and closing at $12.80 (adjusted close $12.80). Volume increased to 380,000. Further positive developments were reported on December 8, 2022, with the announcement of positive Phase I safety data and the planning for Phase II trials. The stock reflected this progress, opening at $16.80, reaching $17.50, dipping to $16.40, and closing at $17.25 (adjusted close $17.25). The volume continued to grow to 520,000.
+
+## Strategic Partnerships and Growth Initiatives
+
+NANO entered into a strategic partnership with Pfizer on September 14, 2023, for oncology nanomedicine development. This collaboration saw the stock open at $20.60, with a high of $21.40, a low of $20.20, and a close of $21.10 (adjusted close $21.10). The trading volume further increased to 680,000. On February 10, 2025, the company announced a joint venture, BioTech Alliance, with Medisafe Health and NeuraGen AI. This announcement preceded a strong trading day where the stock opened at $24.20, peaked at $25.00, found a low of $23.80, and closed at $24.65 (adjusted close $24.65), with a significant volume of 750,000.
+
+## Manufacturing Challenges and Resolution
+
+The company faced manufacturing scale-up challenges which led to a delay in the Phase II trial timeline, as announced on March 22, 2024. This event saw the stock open at $24.40, reach a high of $23.10, a low of $21.90, and close at $22.75 (adjusted close $22.75), with a volume of 640,000. However, these manufacturing issues were resolved and enhanced production protocols were implemented by October 15, 2024. The stock responded positively, opening at $21.80, reaching a high of $22.50, a low of $21.40, and closing at $22.20 (adjusted close $22.20), with a trading volume of 590,000.
+
+## Financial Performance and Earnings
+
+On August 19, 2025, NANO reported strong Q2 earnings, driven by partnership milestones and licensing revenue. The stock opened at $25.40, reached a high of $26.20, a low of $25.10, and closed at $25.95 (adjusted close $25.95). The trading volume for this period was 710,000, with no specific event flag indicated for this particular entry.

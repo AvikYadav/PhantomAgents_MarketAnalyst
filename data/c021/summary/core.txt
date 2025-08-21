@@ -1,0 +1,32 @@
+## Company Overview##
+AquaPure Desalination is a private company, incorporated on November 2, 2015, with the legal name "AquaPure Desalination Ltd.". Headquartered in Dubai, UAE, it operates in the Utilities sector, specifically within Water Treatment & Desalination Plants. The company's ticker is APDS.
+
+## Founding and Mission##
+Founded by Fatima Al-Mansoori and Omar Haddad, AquaPure Desalination was established to address the chronic water scarcity in the MENA region by utilizing renewable-powered desalination and low-cost membrane innovations. Their mission is to ensure water security worldwide through clean, efficient, and sustainable desalination solutions that are accessible and powered by renewable energy.
+
+## Operations and Reach##
+AquaPure Desalination operates in the Middle East, Africa, South Asia, and North America. Its primary products include NeoMem Reverse Osmosis Membranes, SunDesal Solar Plants, and the AquaGrid Monitoring Platform. The company also offers design and build services for desalination plants, operational and maintenance (O&M) contracts, and water monitoring and analytics services. Key intellectual property assets include proprietary low-energy RO membranes, hybrid solar desal technology, and IoT leak detection for municipal use. The company holds a patent count of 44 as of 2025.
+
+## Subsidiaries and Partnerships##
+The company has two key subsidiaries: AquaPure Africa Ltd. based in Nairobi and AquaPure India Pvt Ltd. based in Mumbai. They partner with Emirates NBD and Standard Chartered for banking services and count the Saudi Water Authority, Dubai Water & Electricity, and Medisafe Health as major customers. Key suppliers include Dow Chemical for materials and Toray Membranes. They utilize CloudWorks (C003) for water analytics.
+
+## Go-to-Market and Pricing##
+AquaPure Desalination employs a go-to-market strategy that involves direct bids for water utilities and Public-Private Partnership (PPP) Build-Operate-Transfer (BOT) contracts. They also offer water-as-a-service models. Their pricing model is a combination of BOT plus Capital Expenditure (Capex) Engineering, Procurement, and Construction (EPC), long-term O&M, and Software as a Service (SaaS) for their AquaGrid analytics.
+
+## Technology and Infrastructure##
+The company utilizes AWS MENA and Borealis CloudWorks as their primary cloud providers. Their ERP system is SAP S/4HANA, and they use Microsoft Dynamics CRM. Their data stack includes Databricks, Snowflake, IoT sensor APIs, and an AI hydraulics optimizer. AquaPure Desalination holds security certifications such as ISO 9001, ISO 14001, NSF potable water, and SOC 2.
+
+## ESG and Sustainability Goals##
+AquaPure Desalination is committed to environmental, social, and governance (ESG) principles. Their environmental goals include achieving carbon-neutral plants by 2032, a 80% solar-powered energy blend by 2028, and over 95% brine treatment recovery. Socially, they aim for 40% women engineers by 2030 and have implemented migrant worker equity programs and STEM vocational training in Africa. Their ESG policy summary emphasizes water equity, renewable energy integration, and socially responsible labor practices.
+
+## Risks and Competitors##
+The top three risks identified in their risk register are energy price volatility, brine disposal regulatory risk, and changes in PPP policies in host countries. Key competitors include IDE Water, Veolia, Acciona Agua, and Doosan Heavy.
+
+## Regulatory and Financial Information##
+AquaPure Desalination operates under the accounting standard IFRS and is subject to tax jurisdictions in the UAE, Kenya, India, and the USA. They use the Transfer Pricing Method (TNMM) with infrastructure comparables. Their internal credit rating is BBB+ with a stable outlook. Their cash management policy focuses on maintaining 12-month liquidity reserves, with 60% of deposits held in Islamic green bonds. Treasury risk limits include a Value at Risk (VaR) of $2.2 million per day, a cap on contract exposure per PPP at 15%, and an FX hedge limit of ±$0.3 million.
+
+## Governance and Board Structure##
+The company has a board size of 7 members, with 58% board independence as of 2024. The board has four committees: Audit, Risk, Compensation, and ESG & Nominating.
+
+## Professional Services and Contacts##
+AquaPure Desalination's auditor is EY, and their legal counsel is White & Case. BlueWave PR handles their public relations. Investor relations can be contacted at ir@aquapure.com, and media inquiries can be directed to press@aquapure.com. The company's careers URL is https://careers.aquapure.com, and their website is https://www.aquapure.com. The company's current status is Active.

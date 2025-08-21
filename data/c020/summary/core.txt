@@ -1,0 +1,35 @@
+## Company Overview##
+
+BioHarvest AgriTech, also known by its ticker BHAT, is a privately held company incorporated on June 5, 2018. It operates in the Agriculture sector, specifically within AgriBiotech & Controlled Environment Farming. The company's legal name is BioHarvest AgriTech Inc. and its headquarters are located in Tel Aviv, Israel. BioHarvest AgriTech operates in the Middle East, Europe, North America, and Asia.
+
+## Founding and Mission##
+
+The company was founded by David Levi and Dr. Nourah Al-Farhan following multidisciplinary research in plant molecular biology and vertical farming. Their aim was to create high-yield bioengineered crops and cell-culture agriculture. BioHarvest AgriTech's mission is to sustainably produce food and botanical actives through precision cell-agriculture and biotech farming methods, with a focus on reducing land and water impact.
+
+## Products and Technology##
+
+BioHarvest AgriTech's primary products include its PhytoCell Food Platform and Nutrivine Cell-Wine Technology, supported by its AgriSense Analytics. The company's core intellectual property assets are its cell-derived agriculture IP, AI plant phenotyping capabilities, and proprietary LED growth lighting systems. As of 2025, they hold a patent count of 39.
+
+## Operations and Growth##
+
+The company has established subsidiaries including BioHarvest Europe GmbH in Berlin and BioHarvest Asia Pte Ltd in Singapore. In terms of employee growth, BioHarvest AgriTech has seen a steady increase from 120 employees in 2020 to an estimated 740 by the end of 2025. The company also reports an 8% union presence and a 55% remote work percentage in 2024.
+
+## Financial and Strategic Partnerships##
+
+BioHarvest AgriTech's banking partners include Deutsche Bank and Mizrahi-Tefahot. Their major customers are Nestlé, Coca-Cola, Medisafe Health, and Bayer CropScience. Key suppliers include Philips Lighting for horticultural LEDs, BASF for agricultural chemicals, and Borealis CloudWorks for analytics.
+
+## Go-to-Market and Technology Stack##
+
+The company employs a direct B2B strategy with food and beverage companies, licenses its biotech IP to agri-corporates, and engages in vertical farming partnerships. Their pricing model is a hybrid of licensing fees, produce sales, and SaaS farm analytics. BioHarvest AgriTech primarily utilizes Microsoft Azure with an agri edition, supplemented by Borealis C003 for regional compute. Their ERP system is SAP S/4HANA, and they use Zoho CRM with a Salesforce extension. Their data stack includes Snowflake, Databricks, AI crop phenotyping, and IoT edge sensors.
+
+## Compliance and ESG##
+
+BioHarvest AgriTech holds security certifications such as ISO 9001, ISO 14001, GMP for botanicals, and HACCP for food safety. Their environmental goals include achieving carbon neutrality in farming operations by 2028, 95% water recycling, and zero deforestation sourcing. Diversity goals encompass equal gender hiring since 2019, minority supplier programs, and rural empowerment by 2030. The company's ESG policy is focused on climate-smart agriculture, sustainable food systems, and inclusive sourcing.
+
+## Risk Management and Competition##
+
+The top three risks identified in BioHarvest AgriTech's risk register are regulatory hurdles for food approvals, market adoption rates for cell-based foods, and energy price volatility impacting vertical farm operations. Their competitors include Plenty, AeroFarms, Bowery, InFarm, and adjacent players like Beyond Meat.
+
+## Governance and Professional Services##
+
+BioHarvest AgriTech is subject to regulators such as the EFSA, FDA, and the Israel Ministry of Agriculture. They adhere to IFRS accounting standards and operate within tax jurisdictions including Israel, Germany, Singapore, and the USA. Their board comprises 7 members, with a 60% board independence percentage as of 2024. The company's auditor is Deloitte Israel, and their legal counsel is Herzog Fox & Neeman. AgriComms PR handles their public relations. Investor relations contact is ir@bioharvest.com, and media inquiries can be directed to press@bioharvest.com. The company's careers URL is https://careers.bioharvest.com and their website is https://www.bioharvest.com. The current status of the company is Active.

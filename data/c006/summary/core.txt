@@ -1,0 +1,39 @@
+## Company Overview
+
+Luminara AR Tech, with the ticker LUMN, is a privately held company specializing in Augmented Reality. Its legal name is Luminara Augmented Reality Technologies Inc., and it was incorporated on May 19, 2015. The company's headquarters are located in Stockholm, Sweden. Luminara AR Tech operates in the Augmented Reality sector, specifically focusing on Industrial AR & Spatial Collaboration. Its business activities are classified under NAICS 334310, SIC 3663, and GICS 45202040. The company operates across Europe, North America, and Asia-Pacific.
+
+## Founding and Mission
+
+Luminara AR Tech was founded by Evelina Soder and Marco Vieira. The company's founding story highlights its spin-out from a human-computer interaction lab, driven by the goal to deliver low-latency AR experiences to field technicians and collaborative design teams through novel foveated rendering techniques. The mission of Luminara AR Tech is "To turn expertise into shared spatial reality—safe, precise, and sustainable."
+
+## Products and Services
+
+The company's primary offerings include the HaloSight Pro, an industrial AR headset, the LumaCollab spatial collaboration suite, and LumaLink, which enables AR-to-robot control. Luminara AR Tech also provides deployment and training services, CAD/PLM integrations, and on-site safety digitization.
+
+## Intellectual Property and Subsidiaries
+
+Luminara AR Tech holds significant core intellectual property assets, including a foveated rendering pipeline, low-power depth fusion technology, hand/eye co-tracking with drift correction, and a safety overlay engine. As of 2025, the company has a patent count of 61. Its subsidiaries include Luminara GmbH in Munich, Luminara KK in Osaka, and HoloParts AB in Uppsala.
+
+## Financial and Operational Data
+
+The company's fiscal year ends on December 31. Employee numbers have shown consistent growth, from 340 in 2020 to an anticipated 1160 by 2025 YTD. In 2024, 10% of employees are unionized, and 54% of the workforce operates remotely.
+
+## Go-to-Market and Pricing
+
+Luminara AR Tech employs a direct enterprise sales strategy, complemented by value-added resellers (VARs) such as industrial integrators. Their go-to-market approach includes a pilot-to-scale land-and-expand model and fostering a developer SDK community. The pricing model is based on per-device and seat-based SaaS for LumaCollab, along with device leasing and maintenance contracts.
+
+## Technology Infrastructure
+
+The company utilizes a hybrid cloud environment with Borealis CloudWorks (C003) and AWS, with dedicated EU nodes for latency optimization. Their ERP system is SAP S/4HANA, and they use HubSpot Enterprise with a custom partner portal for CRM. The data stack includes Kafka, Snowflake, Postgres, Unity/Unreal telemetry, and an on-device vector index. Luminara AR Tech holds ISO 27001 and SOC 2 Type II security certifications, as well as ISO 45001 for safety.
+
+## ESG and Risk Management
+
+Luminara AR Tech has set ambitious environmental goals, aiming for 100% renewable electricity by 2027, with a focus on repairable hardware and recycled materials. Their diversity goals include achieving 50% diverse leadership by 2030, ensuring inclusive testing panels, and promoting accessible UI standards. The company's ESG policy summary emphasizes safety-first AR, circular hardware, and privacy-by-design telemetry, coupled with transparent incident reporting. The top three risks identified are sensor supply constraints, field safety liability, and competitive pricing pressure from big-tech AR platforms.
+
+## Market Position and Governance
+
+Key competitors include Meta (enterprise XR), HoloVista Inc., Nimbus MegaCloud XR, and OptiSense Tech. The company is regulated by EU health & safety bodies, the FCC/CE, and data protection authorities. Luminara AR Tech adheres to IFRS accounting standards and operates within tax jurisdictions including Sweden, Germany, Japan, and the USA, utilizing a TNMM transfer pricing method. The company maintains an internal credit rating of BBB (stable). Its cash management policy prioritizes 9-month liquidity, with 40% of cash held in T-bills and vendor prepayment caps. Treasury risk limits include a Value at Risk (VaR) of $2.2 million per day, FX hedging of ±$0.7 million, and inventory cover of 10–14 weeks. The board consists of 7 members, with a significant 60% board independence rate as of 2024. The board has several committees, including Audit, Risk & Safety, Compensation, Nominating & Governance, and ESG. Nordic Audit Partners serves as the auditor, and Svea Legal is the legal counsel.
+
+## Contacts and Online Presence
+
+For investor relations, contact ir@luminara-ar.com. Media inquiries can be directed to press@luminara-ar.com. The company's careers page is located at https://careers.luminara-ar.com, and its website is https://www.luminara-ar.com. Luminara AR Tech is currently in an Active status.

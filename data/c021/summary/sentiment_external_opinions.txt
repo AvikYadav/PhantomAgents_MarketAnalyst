@@ -1,0 +1,14 @@
+## Early Innovations and Demonstrations##
+In September 2020, Water World News reported on NeoMem's breakthroughs in Dubai, with a sentiment score of 0.37 and a volume of 240. The top terms were "membrane;demo;utility," and the excerpt highlighted the showcase, while the detailed opinion noted investor caution regarding scaling.
+
+## Expansion into African Markets##
+By August 2021, Africa Energy Media reported positively (0.45 sentiment score, 300 volume) on a Kenya PPP BOT project, with "ppp;contract;kenya" as top terms. The excerpt praised the project as a milestone, and the detailed opinion reflected positive regional development sentiment. In June 2023, the Financial Times noted a significant 25-year BOT deal in Kenya, boosting AquaPure, with a sentiment score of 0.55 and a volume of 420. The top terms were "kenya;water;bot," and analysts were bullish on the long-term cashflows.
+
+## Groundbreaking Utility-Scale Projects##
+Renewables Watch gave a positive review in November 2022 (0.50 sentiment score, 360 volume) for the launch of the world's first utility-scale solar desalination plant. The top terms were "solar;desal;plant," and the innovation was widely applauded.
+
+## Environmental Concerns and Solutions##
+A concerning report from an NGO in March 2024 flagged environmental risks associated with residual brine, indicated by a negative sentiment score of -0.34 and a high volume of 500. The top terms were "brine;waste;issue," and the excerpt detailed criticism from NGOs and activists. However, by September 2024, Industry Press reported a positive shift (0.32 sentiment score, 380 volume) with the development of a circular economy solution for brine recovery, restoring regulator confidence. The top terms were "brine;solution;recovery," and the detailed opinion suggested positive but cautious optimism.
+
+## Strategic Partnerships and Financial Performance##
+In February 2025, InfraDeals reported on a transformative joint venture with Veolia & Doosan that expanded AquaPure's pipeline, with a strong sentiment score of 0.55 and a volume of 580. The top terms were "joint;venture;global," and this was seen as instrumental for scaling the company. By August 2025, MarketWatch highlighted strong H1 2025 revenues and bookings, exciting investors. With a sentiment score of 0.57 and a volume of 610, the top terms were "earnings;bookings;record," and the market viewed AquaPure as a growth leader.

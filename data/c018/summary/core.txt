@@ -1,0 +1,25 @@
+Here's a summary of the company information for TerraVolt Energy Storage:
+
+## Company Overview##
+TerraVolt Energy Storage Inc. (TVES) is a privately held company founded on April 6, 2016. Headquartered in Austin, Texas, USA, it operates in the Energy sector, specifically focusing on Grid-Scale Battery & Energy Storage Systems. The company's primary products include the VOLTMAX Solid-State Grid Battery and the FlowCell X Storage System, complemented by the TerraGrid Control Software. They also offer battery installation and integration, operation and maintenance, and energy analytics services. TerraVolt's mission is to enable a renewable-powered world by providing safe, affordable, long-duration energy storage systems for utilities, industry, and communities.
+
+## Founding and Innovation##
+The company was founded by Anthony Miles and Priya Nanduri with the aim of addressing the intermittency of renewable energy sources. They achieve this by developing scalable, safe grid-scale energy storage solutions that utilize next-generation solid-state and flow battery technologies. TerraVolt's core intellectual property assets include proprietary solid-state electrolytes, scalable flow battery intellectual property, and real-time grid optimization software, backed by 46 patents.
+
+## Operations and Markets##
+TerraVolt Energy Storage operates in North America, Europe, and the Asia-Pacific regions. Its subsidiaries include TerraVolt Europe BV in Amsterdam and TerraVolt Asia Pte Ltd in Singapore. The company's go-to-market strategy involves direct sales to utilities and independent power producers, partnerships with Engineering, Procurement, and Construction (EPC) firms, and offering energy-as-a-service contracts. Their pricing model combines upfront capital expenditure for battery systems with long-term maintenance and Software as a Service (SaaS) for TerraGrid analytics.
+
+## Financial and Employee Information##
+As of the provided data, TerraVolt Energy Storage is a private company with no listed exchange. The company has shown significant growth in its employee base, starting with 260 employees in 2020 and projected to reach 1040 by the end of 2025. In 2024, 12% of its workforce is unionized, and 40% of employees work remotely.
+
+## Technology and Infrastructure##
+TerraVolt utilizes a hybrid cloud infrastructure, leveraging AWS Energy Cloud and Borealis CloudWorks for its computing needs. Their enterprise systems include SAP S/4HANA for ERP and Salesforce Energy Edition for CRM. Their data stack comprises Snowflake, Databricks, Kafka, and custom grid simulation tools. The company holds several security certifications, including ISO 9001, ISO 14001, UL9540A, and SOC 2 Type II.
+
+## ESG and Risk Management##
+TerraVolt has ambitious environmental, social, and governance (ESG) goals, aiming for net-zero operations by 2030 and a carbon-neutral supply chain by 2035, with a commitment to recycling over 90% of used battery cells. They also target having 45% underrepresented groups in engineering roles by 2030 and engage in community STEM partnerships. Their ESG policy focuses on creating a sustainable energy ecosystem, a circular economy, and positive social impact in underserved areas. The company's top three identified risks are technology scale-up and fire safety, raw material sourcing geopolitics, and grid regulatory uncertainty.
+
+## Partnerships and Customers##
+Key banking partners for TerraVolt include HSBC and Bank of America. Their major customers consist of prominent entities like Siemens Energy, National Grid UK, PG&E, and EcoFlow Dynamics C010. The company sources critical materials from suppliers such as Umicore (for cathode materials), BASF, and Borealis.
+
+## Governance and Professional Services##
+TerraVolt has a board of 7 members, with 61% of board independence as of 2024. The board is structured with four committees: Audit, Risk & Safety, Compensation, and ESG & Nominating. The company's auditor is EY, and its legal counsel is Skadden Arps. GreenWatt PR handles their public relations. Investor relations contact is ir@terravolt.com, and media inquiries can be directed to press@terravolt.com. The company's careers page is available at https://careers.terravolt.com, and their website is at https://www.terravolt.com. TerraVolt Energy Storage is currently listed as "Active."

@@ -1,0 +1,29 @@
+## Company Overview##
+StratoSky Aerospace (SSA) is a privately held company founded in 2015 by Jack Wilson and Maria Torres. Its legal name is StratoSky Aerospace Inc. The company is based in Houston, Texas, USA, and operates in North America, Europe, and Asia-Pacific. StratoSky Aerospace specializes in Space Systems & Launch Services within the Aerospace sector, with a specific industry classification of NAICS 336414, SIC 3721, and GICS 20102040.
+
+## Mission and Founding##
+The company was founded by aerospace engineers with the aim of providing flexible satellite launch and space services. Their innovative approach combines reusable launch vehicles with agile satellite integration. StratoSky Aerospace's mission is to offer cost-effective, reliable launch solutions and to expand access to space for commercial and governmental customers globally.
+
+## Operations and Technology##
+StratoSky Aerospace's primary products include the StratoLift Reusable Launcher, SkyLink Satellite Bus, and OrbitalOps Ground Systems. Their services encompass satellite integration, launch services, and mission operations support. The company's core intellectual property assets are based on reusable propulsion technology, modular launch vehicle designs, and satellite subsystem IP, holding 54 patents as of 2025. Key subsidiaries include StratoSky Europe GmbH in Munich and StratoSky Asia Pte Ltd in Singapore. They partner with banking institutions such as JP Morgan and Citi Bank.
+
+## Market and Strategy##
+The company serves major customers like SpaceX, Boeing Satellite Systems, NASA, and the European Space Agency. Their major suppliers include SpaceX for engines and Honeywell for avionics, with Cobalt CyberGuard (C004) providing launch security. StratoSky Aerospace's go-to-market strategy focuses on direct government contracts and the commercial satellite market, augmented by partnerships with tech integrators and a launch broker network. Their pricing model is based on launch service fees, along with integration and testing charges.
+
+## Technology Infrastructure##
+StratoSky Aerospace utilizes AWS for its specialized aerospace cloud zones. Their enterprise resource planning (ERP) system is Oracle ERP Cloud, and their customer relationship management (CRM) system is Salesforce with aerospace customizations. The company's data stack includes Snowflake, Apache Kafka, TensorFlow, and custom SQL for onboard analytics. Security certifications held by the company are ISO 9001, AS9100D, FAA Launch Safety Certification, and SOC 2 Type II.
+
+## Workforce and Employment##
+The company has seen significant growth in its workforce, with employee numbers rising from 410 in 2020 to 1120 in 2024, and a projected 1240 by year-to-date 2025. In 2024, 9% of their workforce was unionized, and 60% of employees worked remotely.
+
+## ESG and Sustainability##
+StratoSky Aerospace has set ambitious environmental goals, aiming for net-zero carbon emissions by 2032 and utilizing 80% renewable energy by 2027, with a focus on recycling and cradle-to-cradle material management. They are also committed to diversity, with a goal of 43% female/non-binary leadership by 2030, supported by diversity mentorship programs and engagement with the STEM community. Their ESG policy summary emphasizes sustainable aerospace manufacturing, carbon-neutral operations, and the promotion of diversity, equity, and inclusion.
+
+## Risk Management and Competition##
+The top three risks identified in StratoSky Aerospace's risk register are launch failure, geopolitical disruption in the supply chain, and delays in satellite integration. The company faces competition from major players such as SpaceX, Blue Origin, Rocket Lab, and Northrop Grumman.
+
+## Regulatory and Financial Information##
+StratoSky Aerospace is regulated by bodies including the FAA Office of Commercial Space Transportation, NASA, EASA, and the FTC. They adhere to US GAAP accounting standards and operate within tax jurisdictions in the USA, Germany, and Singapore. Their transfer pricing method is an adaptation of the Transactional Net Margin Method for the aerospace sector. Internally, they maintain an "A- stable" credit rating. Their cash management policy focuses on maintaining a 10-month liquidity buffer, with 60% of cash held in US Treasuries, and they monitor vendor credit lines. Treasury risk limits are set with a daily Value at Risk (VaR) of $2.9 million, a maximum supplier risk of $8 million, and currency hedging limits of +/- $0.6 million.
+
+## Corporate Governance and Professional Services##
+The company has a board of 8 members, with 67% board independence as of 2024. Key board committees include Audit, Risk & Safety, Compensation, and Nominating & ESG. Deloitte serves as the auditor, and Baker McKenzie is their legal counsel. Skyline Communications handles their public relations. For investor relations, the contact is ir@stratoskyaero.com, and media inquiries can be directed to press@stratoskyaero.com. The company's careers URL is https://careers.stratoskyaero.com and their website is https://www.stratoskyaero.com. StratoSky Aerospace is currently in an "Active" status.

@@ -26,7 +26,10 @@ def call_gemini(file):
     )
     return response.text
 #
-lst = ["data/c005","data/c004","data/c003","data/c002"]
+lst = ['data/c006', 'data/c007', 'data/c008', 'data/c009', 'data/c010',
+ 'data/c011', 'data/c012','data/c014', 'data/c015',
+ 'data/c016', 'data/c017', 'data/c018', 'data/c019', 'data/c020',
+ 'data/c021']
 for j in lst:
     try:
         os.mkdir(f"{j}/summary")

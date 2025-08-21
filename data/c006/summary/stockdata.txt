@@ -1,0 +1,11 @@
+## Product Launches and Updates##
+
+Lumen (LUMN) has seen several product advancements and launches. In July 2021, HaloSight Pro v2 was released, featuring improved depth fusion and a new SDK. September 2022 marked the release of LumaCollab 3.0, which included CAD/PLM plug-ins and contributed to design wins. More recently, in August 2023, a zero-trust connector went generally available alongside C004, and safety certifications were renewed. The company also launched the LumaLink robot-control add-on in November 2024, a high-margin module. Looking ahead to February 2025, strategic integrations with C003 and C004 for regulated AR are planned.
+
+## Business Wins and Validation##
+
+Lumen has secured significant business wins and validations. June 2020 saw the announcement of the first large industrial pilot win with TechForge. In May 2024, an independent lab validated Lumen's foveated rendering pipeline and safety overlays. The period following this validation showed positive momentum, with stable enterprise demand noted in August 2025.
+
+## Controversies and Market Dynamics##
+
+The company has also faced some controversies and market challenges. In March 2023, an "astroturfed" user reviews scandal emerged, involving an internal contractor and leading to a probe. February 2024 brought the Stagecraft demo controversy, where a competitor claimed a staged occlusion test, prompting Luminara to release raw logs. In April 2025, a price cut by Meta for its enterprise XR offerings led to a sector-wide pullback, although Luminara maintained its pro-tier pricing.

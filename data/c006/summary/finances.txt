@@ -1,0 +1,19 @@
+## Company Performance Overview (2020-2025)
+
+This report summarizes the financial performance of company C006 from Q1 2020 to Q2 2025. The data shows a general trend of growth in revenue and profitability, with some fluctuations in operating expenses and net income.
+
+## Revenue and Profitability
+
+Company C006 has demonstrated consistent revenue growth throughout the period. Starting at $8.2 million in Q1 2020, revenue increased to $28.1 million by Q2 2025. This growth is reflected in the gross profit, which rose from $4.6 million in Q1 2020 to $18.3 million in Q2 2025. The gross margin percentage also shows a positive trend, increasing from 56.1% in Q1 2020 to 65.1% in Q2 2025, indicating improved cost management relative to revenue.
+
+## Operating Expenses and Income
+
+Operating expenses (opex) have also seen an increase, from $5.3 million in Q1 2020 to $14.3 million in Q2 2025. This increase is largely driven by rising research and development (R&D) expenses, selling expenses, and administrative expenses. Despite the increase in operating expenses, operating income has shown improvement, particularly from 2021 onwards. In Q1 2020, the company reported an operating loss of $0.7 million, which turned into a significant operating income of $4.0 million by Q2 2025.
+
+## Net Income and Earnings Per Share (EPS)
+
+The company's net income has also followed a positive trajectory, recovering from a net loss of $0.75 million in Q1 2020 to a net income of $3.85 million in Q2 2025. This growth is also reflected in the basic earnings per share (EPS), which improved from -$0.09 in Q1 2020 to $0.38 in Q2 2025. While interest and tax expenses have fluctuated, they have generally remained manageable relative to revenue and operating income.
+
+## Cash Flow and Balance Sheet Highlights
+
+Free cash flow has shown a strong upward trend, moving from -$0.4 million in Q1 2020 to $0.9 million in Q2 2025. This indicates a strengthening ability to generate cash after accounting for capital expenditures. The company's cash and equivalents have also increased from $4.1 million to $10.2 million over the same period. Total assets have grown from $19.2 million to $39.6 million, with a corresponding increase in total liabilities from $8.0 million to $14.6 million. Shareholders' equity has also seen substantial growth, rising from $11.2 million to $25.0 million, reflecting the accumulation of retained earnings and other equity components. Key balance sheet items like accounts receivable, inventory, and property, plant, and equipment have also increased in line with the company's growth.

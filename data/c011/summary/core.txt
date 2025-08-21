@@ -1,0 +1,59 @@
+## Company Overview##
+Helios Quantum Computing, identified by the ticker HQC, is a privately held company founded on June 15, 2018. Its legal name is Helios Quantum Computing Ltd. The company operates within the Quantum Computing sector, specifically in Hardware & Software, with its industry classification falling under NAICS 334415, SIC 3674, and GICS 45302020.
+
+## Headquarters and Operations##
+Helios Quantum Computing is headquartered in Cambridge, Massachusetts, USA. The company has a global operational presence, with activities spanning North America, Europe, and the Asia-Pacific region.
+
+## Founding and Mission##
+The company was founded by researchers from MIT and Tsinghua University. Its founding story centers on a focus on developing scalable quantum processors and hybrid classical-quantum algorithms to accelerate scientific breakthroughs. Helios Quantum Computing's mission is to build practical quantum computing platforms that provide unprecedented computational power to tackle significant challenges in both industry and science.
+
+## Products and Services##
+Helios Quantum Computing's primary products include the HQC Quantum Processor, the QuantaOS Hybrid OS, and the Quantum Sim Suite. In terms of services, the company offers quantum hardware design, quantum software platform development, and consulting services, including hybrid algorithm development.
+
+## Intellectual Property and Patents##
+The company's core intellectual property assets are its superconducting qubit architecture, error correction codes, and hybrid algorithm suites. As of 2025, Helios Quantum Computing holds 36 patents.
+
+## Subsidiaries and Partnerships##
+The company has established subsidiaries, including HQC Europe GmbH in Munich and HQC Asia Pte Ltd in Singapore. For banking, Helios Quantum Computing partners with Cambridge Trust Bank and Bank of Asia.
+
+## Customer and Supplier Base##
+Key customers of Helios Quantum Computing include National Labs, PharmaGen, AeroSpace Tech, and Helix Data. The company relies on Intel Quantum and IBM Q for some of its quantum technology needs and Cobalt CyberGuard (C004) for quantum-safe security solutions.
+
+## Go-to-Market and Pricing##
+Helios Quantum Computing employs a go-to-market strategy that includes direct research and development collaborations, government contracts, and enterprise quantum cloud offerings. Its pricing model is a combination of subscription fees for cloud access, device leasing, and consulting retainer agreements.
+
+## Technology Infrastructure##
+The company utilizes AWS Quantum Cloud regions in conjunction with local high-performance computing (HPC) centers. Its enterprise resource planning (ERP) system is SAP S/4HANA, and its customer relationship management (CRM) system is Microsoft Dynamics 365. For its data stack, Helios Quantum Computing uses Snowflake and Apache Kafka for telemetry, complemented by customized quantum transpilers.
+
+## Security and Certifications##
+Helios Quantum Computing adheres to stringent security standards, holding ISO 27001 certification and ISO 17025 for its laboratories. It also complies with NIST quantum security guidelines.
+
+## Environmental and Diversity Goals##
+The company has set ambitious environmental goals, aiming for net-zero carbon footprint by 2030 and utilizing 70% renewable energy by 2026, with a focus on sustainable chip fabrication. In terms of diversity, Helios Quantum Computing aims to achieve 40% female leadership by 2030 and actively engages in STEM education partnerships and inclusive hiring practices.
+
+## ESG Policy##
+Helios Quantum Computing's ESG policy emphasizes the responsible development of quantum technology, with a focus on sustainability, talent diversity, and transparent engagement with the community.
+
+## Key Risks##
+The top three risks identified in the company's risk register are quantum hardware yield and scaling challenges, navigating regulatory export controls, and addressing talent retention difficulties.
+
+## Competition and Regulators##
+The company faces competition from major players such as IBM Quantum, Google Quantum AI, IonQ, and Rigetti Computing. Helios Quantum Computing is subject to regulation and oversight from bodies including NIST, the Department of Energy (DOE), the EU Quantum Flagship program, the U.S. Bureau of Industry and Security (BIS), and the Federal Trade Commission (FTC).
+
+## Financial and Tax Information##
+Helios Quantum Computing follows US GAAP accounting standards and operates under tax jurisdictions in the USA, Germany, and Singapore. Its transfer pricing methodology is the Transactional Net Margin Method, supplemented by regional benchmarking. Internally, the company has assigned a credit rating of BBB+ stable.
+
+## Treasury and Cash Management##
+The company's cash management policy focuses on maintaining 10 months of liquidity. A significant portion of its cash, 60%, is held in U.S. Treasuries, and it actively manages vendor credit exposure. Treasury risk limits include a daily Value at Risk (VaR) of $1.8 million, a maximum single supplier exposure of $6 million, and FX hedging of ±$0.4 million.
+
+## Board Structure and Governance##
+Helios Quantum Computing has a board size of 7 members. The board is supported by several committees, including Audit, Science & Technology, Compensation, ESG, and Nominating committees. In 2024, 64% of the board members were classified as independent.
+
+## Professional Services and Contacts##
+The company's auditor is PwC, and its legal counsel is Goodman & Associates. Nova Communications handles its public relations. Investor relations can be reached at ir@heliosquantum.com, while media inquiries should be directed to media@heliosquantum.com. The careers portal is available at https://careers.heliosquantum.com, and the company's website is https://www.heliosquantum.com.
+
+## Employee Information##
+Helios Quantum Computing employed 180 individuals in 2020, growing to 350 in 2021, 480 in 2022, and 600 in 2023. The company continued its growth trajectory with 720 employees in 2024 and has 780 employees year-to-date in 2025. As of 2024, 7% of the workforce is unionized, and 55% of employees work remotely.
+
+## Company Status##
+The current status of Helios Quantum Computing is Active.

@@ -1,0 +1,53 @@
+Here's a summary of the company information for NeuraGen AI:
+
+## Company Overview##
+
+NeuraGen AI, with ticker symbol NGAI, is a privately held company operating in the Artificial Intelligence sector, specifically within AI-Driven Healthcare Analytics. Its legal name is NeuraGen Artificial Intelligence Solutions Ltd. The company was incorporated on August 9, 2016, and its headquarters are located in London, UK. NeuraGen AI operates across Europe, North America, and the Asia-Pacific regions.
+
+## Founding and Mission##
+
+NeuraGen AI was founded by Dr. Solene Martin and Isaac Reyes. The company's founding story stems from research at UCL, aiming to enable real-time diagnostic analytics and predictive models in healthcare. By combining machine learning with clinical workflows, NeuraGen AI strives for improved patient outcomes. The company's mission is to empower clinicians with transparent, actionable AI insights that enhance patient outcomes and operational efficiencies.
+
+## Products, Services, and Intellectual Property##
+
+The company's primary products include the NeuraDiagnose Platform, PredictCare AI Suite, and NeuroGenomics Insights. NeuraGen AI offers clinical analytics, predictive modeling, and operational workflow optimization as its primary services. Its core intellectual property assets consist of deep learning diagnostic pipelines, genomic data integration capabilities, and AI explainability layers. As of 2025, the company holds a patent count of 53.
+
+## Operations and Workforce##
+
+NeuraGen AI has a global presence, with subsidiaries including NeuraGen GmbH in Berlin and NeuraGen US Inc. The company's workforce has grown significantly, with employee numbers increasing from 410 in 2020 to an anticipated 1220 by 2025. In 2024, 11% of employees were unionized, and 74% of the workforce operated remotely.
+
+## Financial and Banking Relationships##
+
+The company's fiscal year ends on December 31. NeuraGen AI banks with Royal Bank of Scotland and Wells Fargo.
+
+## Key Relationships and Go-to-Market Strategy##
+
+NeuraGen AI serves major customers such as NHS Trusts, Mayo Clinic, Genentech, and Medisafe Health. Its key suppliers include NVIDIA, Intel AI Labs, and Cobalt CyberGuard. The company's go-to-market strategy involves direct sales to health systems, strategic partnerships with companies like Medisafe and TechForge, and collaborations with academic institutions.
+
+## Technology and Cloud Infrastructure##
+
+The company utilizes AWS as its primary cloud provider, with GCP serving as a backup for compliance and research purposes. NeuraGen AI's operational systems include Oracle ERP and Microsoft Dynamics CRM. Its data stack comprises Snowflake, Databricks, TensorFlow, and Kafka.
+
+## Security and Certifications##
+
+NeuraGen AI adheres to stringent security standards, holding certifications such as ISO 13485, ISO 27001, HIPAA, and FDA AI Software Pre-certification.
+
+## ESG and Diversity Goals##
+
+The company has set ambitious environmental, social, and governance (ESG) goals, aiming for carbon neutrality by 2032 and sourcing 80% of its energy from renewable sources by 2026, with a target to eliminate single-use plastics. Diversity goals include achieving 48% women and non-binary representation in leadership by 2028, alongside implementing inclusive hiring policies and accessibility initiatives. NeuraGen AI's ESG policy focuses on patient privacy, equitable AI development, sustainable operations, and transparent governance.
+
+## Risk Management and Competition##
+
+The top three risks identified in NeuraGen AI's risk register are clinical validation risk, regulatory approval delays, and data privacy compliance risk. The company operates in a competitive landscape alongside players like IBM Watson Health, Google DeepMind Health, PathAI, and Veracyte.
+
+## Regulatory and Compliance##
+
+NeuraGen AI is regulated by bodies such as the MHRA in the UK, the FDA in the US, and the EMA in the EU. The company adheres to IFRS accounting standards and operates within tax jurisdictions including the UK, USA, and EU. Its transfer pricing method is the Transactional Net Margin Method.
+
+## Financial Management and Governance##
+
+Internally, NeuraGen AI holds a credit rating of A- (stable). Its cash management policy aims to maintain a 10-month liquidity buffer, with 55% of cash held in UK gilts, and vendor exposures are limited. Treasury risk limits include a daily Value at Risk (VaR) of $2 million, a maximum single asset exposure of $8 million, and FX hedges of +/- $0.5 million. The company has a board size of 8, with established committees for Audit, Regulatory Compliance, Compensation, ESG, and Nominating. In 2024, 62% of board members were independent.
+
+## Professional Services and Contact Information##
+
+NeuraGen AI's auditor is Deloitte UK, and its legal counsel is Wickham & Porter Legal. Brightlight Communications handles its public relations. Investor relations can be reached at ir@neuragen-ai.com, and media inquiries can be sent to media@neuragen-ai.com. The company's careers page is located at https://careers.neuragen-ai.com, and its website is https://www.neuragen-ai.com. The company's current status is Active.

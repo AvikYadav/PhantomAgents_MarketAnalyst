@@ -1,0 +1,19 @@
+## Company Overview and Milestones
+
+StratoSky Aerospace has demonstrated consistent growth and technological advancement since its inception. Key early milestones include successful reusable launcher test flights and the development of satellite bus technology, which positioned the company for expanded market engagement and leadership. The company received a commercial space transportation license from the FAA in September 2020, enabling its commercial satellite launch operations. In August 2021, StratoSky successfully closed a $50 million Series B funding round, primarily from aerospace and defense-focused venture capital firms, to support manufacturing scaling, technology development, and international market expansion.
+
+## Financial Performance and Revenue Growth
+
+StratoSky Aerospace has shown a strong upward trajectory in revenue. Starting with $85.7 million in 2020, revenue increased to $124.9 million in 2021, $150.3 million in 2022, $183.4 million in 2023, and $221.5 million in 2024. This growth has been fueled by various factors, including the commercial launch of their SkyLink satellite bus in December 2021, which targets the small and medium payload markets with standardized interfaces and flexible configurations. Further revenue expansion was driven by securing contracts with NASA and ESA in 2022, which provided access to ground systems and launch support services valued at over $45 million over five years. The company also reported strong Q2 results in 2025, with revenue of $63.5 million and a 21% year-over-year EPS growth, leading to an upward revision of full-year guidance.
+
+## Technological Advancements and Product Development
+
+StratoSky Aerospace has consistently invested in R&D, leading to significant technological breakthroughs. A notable achievement was the advancement in reusable rocket engine technology by January 2023, resulting in a 40% improvement in efficiency and a 60% reduction in refurbishment time, which significantly lowers the cost of launch operations. This innovation was recognized with an Aerospace Innovation Award in September 2023. The company is also developing its next-generation StratoLift 2.0 reusable launcher, featuring enhanced payload capacity, improved reusability, and advanced avionics systems.
+
+## Market Expansion and Strategic Partnerships
+
+The company has actively pursued international expansion and strategic collaborations. In 2021, StratoSky entered into a partnership with SpaceX for rocket engine technology and supply. They commenced European operations in 2021 and launched Asia-Pacific operations in July 2024 with a Singapore subsidiary to tap into regional market opportunities. A significant development in 2025 was the formation of the Tri-Forge Joint Venture with Borealis CloudWorks and Cobalt CyberGuard, aiming to create integrated aerospace solutions combining launch services, cloud computing, and cybersecurity. StratoSky has also secured major contracts, including a multi-launch government contract that boosted booking growth, a US Space Force contract for national security satellite launch services, and a multi-year contract for large satellite constellation deployment services.
+
+## ESG Initiatives and Risk Management
+
+StratoSky Aerospace's ESG initiatives are focused on sustainable aerospace manufacturing and carbon footprint reduction. Key risks identified include launch failure liability and supply chain dependencies. The company has also achieved comprehensive launch safety certification from multiple commercial launch ranges in April 2024, enhancing its operational flexibility.

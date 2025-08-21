@@ -1,0 +1,29 @@
+## Company Overview##
+VitalFlow Medical, officially known as VitalFlow Medical Technologies Inc., was founded on December 5, 2016. The company operates within the Medical Technology sector, specifically focusing on Smart Infusion & Patient Monitoring. Its headquarters are located in Minneapolis, Minnesota, USA. VitalFlow Medical has a global presence, operating in North America, Europe, and Asia-Pacific.
+
+## Founding and Mission##
+The company was founded by Dr. Rachel Kim and Thomas Hoffman. Their founding story centers around their experience as biomedical engineers and clinicians who aimed to develop advanced smart infusion pumps and AI-powered patient monitoring systems to improve safety in hospital environments. VitalFlow Medical's mission is to enhance patient safety and clinical outcomes by creating intelligent medical devices that integrate smoothly into healthcare workflows.
+
+## Products and Services##
+VitalFlow Medical's primary products include the VitalPump Smart Infusion System, the FlowSensor Patient Monitor, and the MedConnect Integration Hub. In addition to these products, the company offers clinical implementation support, device training, and remote monitoring services. Their core intellectual property assets lie in their smart infusion algorithms, predictive monitoring AI, and wireless medical device mesh networking technology. As of 2025, they hold a patent count of 47.
+
+## Corporate Structure and Operations##
+VitalFlow Medical is a privately held company. Its subsidiaries include VitalFlow Europe GmbH, based in Dublin, and VitalFlow Asia Pte Ltd, located in Tokyo. The company's banking partners are Wells Fargo and PNC Bank. Major customers include prominent healthcare institutions such as Mayo Clinic, Johns Hopkins, Medisafe Health, and various VA Medical Centers. Key suppliers include Fresenius Kabi for infusion components and Philips Healthcare for monitoring sensors, with Cobalt CyberGuard providing device security.
+
+## Market Strategy and Financials##
+VitalFlow Medical employs a go-to-market strategy that involves direct hospital sales, partnerships with Group Purchasing Organizations (GPOs), clinical evidence generation, and regulatory consulting. Their pricing model is a combination of device sales, SaaS monitoring subscriptions, and maintenance contracts. The company primarily utilizes Microsoft Azure Healthcare for its cloud services, with Borealis for GDPR compliance. Oracle NetSuite serves as their ERP system, and Microsoft Dynamics 365 for Healthcare is their CRM system. Their data stack includes Snowflake, Azure IoT Hub, custom medical device telemetry, and Power BI.
+
+## Security and Compliance##
+The company has achieved several key security and compliance certifications, including FDA 510k clearance, ISO 13485, HIPAA, SOC 2 Type II, and CE Mark.
+
+## ESG and Sustainability Goals##
+VitalFlow Medical has set ambitious environmental goals, aiming for carbon-neutral manufacturing by 2030 and ensuring 85% of its device components are recyclable by 2027, alongside a green packaging initiative. Their diversity goals include achieving 50% women in leadership positions by 2029, supporting healthcare access programs, and ensuring inclusive clinical trials. The company's ESG policy prioritizes patient safety, a sustainable medical device lifecycle, diverse clinical representation, and ethical AI in healthcare.
+
+## Risks and Competition##
+The top three risks identified in VitalFlow Medical's risk register are FDA regulatory delays, hospital cybersecurity requirements, and potential product liability and patient safety incidents. The company faces competition from established players such as Baxter International, BD (Becton Dickinson), Smiths Medical, and ICU Medical.
+
+## Governance and Auditing##
+VitalFlow Medical operates under US GAAP accounting standards and is subject to tax jurisdictions in the USA, Ireland, and Japan. Their credit rating is internally assessed as "A- stable." The company maintains a cash management policy focused on liquidity, with 45% of cash held in US Treasury securities and strict vendor payment terms. Treasury risk limits are in place, including a daily VaR of $2.5M and a maximum supplier exposure of $8M, supplemented by comprehensive medical device insurance. The company has an 8-member board, with key committees including Audit, Regulatory & Quality, Compensation, Nominating & Governance, and ESG. In 2024, 62% of the board members were independent. Deloitte serves as the company's auditor, Sidley Austin is their legal counsel, and MedComm PR handles their public relations.
+
+## Contact Information##
+For investor relations, the contact is ir@vitalflowmed.com, and for media inquiries, it is press@vitalflowmed.com. The company's careers page can be found at https://careers.vitalflowmed.com, and their website is https://www.vitalflowmed.com. VitalFlow Medical is currently in an "Active" status.

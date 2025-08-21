@@ -1,0 +1,9 @@
+date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
+2020-04-15,C007,News,0.48,380,fda;clearance;infusion,"VitalPump receives FDA approval for smart infusion technology.",Healthcare analysts optimistic about market potential
+2021-08-10,C007,LinkedIn,0.52,420,mayo;partnership;monitor,"Mayo Clinic partnership validates FlowSensor technology.",Healthcare professionals praise clinical collaboration
+2022-11-22,C007,Twitter,0.46,480,johns hopkins;deployment;integration,"Major hospital network adopts VitalFlow integration platform.",Industry observers note enterprise traction
+2023-06-18,C007,Reddit,0.44,380,va;contract;veterans,"VA contract shows commitment to veteran healthcare technology.",Community supports veteran-focused healthcare innovation
+2024-03-14,C007,Twitter,-0.52,640,recall;safety;incident,"Device recall raises serious patient safety concerns.",Healthcare community expresses concern over safety protocols
+2024-07-25,C007,News,0.32,420,fda;cleared;investigation,"FDA investigation concludes with safety improvements approved.",Cautious optimism about company's response to safety issues
+2025-02-10,C007,LinkedIn,0.49,480,partnership;medisafe;alliance,"Healthcare technology alliance creates comprehensive solution.",Healthcare industry excited about integrated approach
+2025-08-19,C007,Twitter,0.53,520,earnings;growth;hospitals,"Strong Q2 results show recovery and growth momentum.",Investors pleased with post-incident performance recovery

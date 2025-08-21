@@ -16,4 +16,4 @@ date,company_id,source,sentiment_score,volume,top_terms,excerpt,detailed_opinion
 2023-06-12,C016,Product News,0.44,320,"precision;diagnostic;launch","Diagnostic nanoparticles expand product portfolio.","Product diversification strategic"
 2023-12-18,C016,Partnership Success,0.48,280,"johnson;feasibility;success","J&J collaboration milestone achieved.","Technology validation important"
 2024-01-25,C016,Asia Expansion,0.41,250,"singapore;asia;operations","Asian market expansion targets growth region.","Regional strategy sound"
-2024-05-30,C016,Innovation News,0.53,390,"breakthrough;nanocarrier;
+2024-05-30,C016,Innovation News,0.53,390,"breakthrough;nanocarrier;delivery","Breakthrough technology demonstrates enhanced delivery efficiency.","Innovation leadership recognized"

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Phantom AI Agent</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <span class="phantom-mark"></span>
+      <span class="brand-text">Phantom AI Agent</span>
+    </div>
+  </header>
+
+  <main class="layout">
+    <!-- Chat panel -->
+    <section class="chat card">
+      <div id="messages" class="messages"></div>
+      <form id="chatForm" class="input-row" autocomplete="off">
+        <input id="userInput" class="input" type="text" placeholder="Ask Phantom…" required />
+        <button type="submit" class="btn">Send</button>
+      </form>
+    </section>
+
+    <!-- Graph panel -->
+    <section class="graph card">
+      <div class="graph-head">
+        <h2>Embedding Map</h2>
+        <div id="graphMeta" class="graph-meta"></div>
+      </div>
+      <canvas id="graphCanvas"></canvas>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <small>Built with 💀 Phantom Intelligence</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

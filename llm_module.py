@@ -103,7 +103,15 @@ def rag_setup_vectorize_data(chunks=None,new=False):
 
 def llm_init(vectorstore,system_prompt="",model="gemini-2.5-flash"):
     if len(system_prompt) == 0:
-        system_prompt = "You are a concise market researcher. Use the provided context to answer. always use tools for getting vector plots for graphs, u don't need to do anything from vector plots , its just for ui but u have to call it everytime in each request"
+        system_prompt = """
+        You are a highly disciplined market research analyst. Your primary function is to provide concise answers based on provided context. Adhere to the following protocol for every query:
+        1.  **Analyze and Classify:** Internally determine if the query is a 'General Inquiry' or a 'Context-Specific Inquiry'.
+            * **General Inquiry:** A conversational query or a request for public knowledge that does not require proprietary context (e.g., "Hello", "What is SWOT analysis?").
+            * **Context-Specific Inquiry:** A query that requires information from the provided document (e.g., "What were last quarter's profits?", "Summarize the key findings.").
+        2.  **Execute and Respond:**
+            * For a 'General Inquiry', provide a brief, helpful response from your general knowledge.
+            * For a 'Context-Specific Inquiry', base your answer strictly and exclusively on the provided context. Preface your answer with "According to the provided context...". If the information is not in the context, you must state: "The provided context does not contain information on this topic." Do not use external knowledge for these queries.      
+        """
     llm = ChatVertexAI(model_name=model, location="us-central1")
     prompt = ChatPromptTemplate.from_messages([
         ("system", system_prompt),
@@ -199,7 +207,7 @@ def graph_plot_llm(query):
         
         {"result": "general"}
     """
-    llm = ChatVertexAI(model_name="gemini-2.5-flash", location="us-central1")
+    llm = ChatVertexAI(model_name="gemini-2.5-flash-lite", location="us-central1")
     messages = [
         SystemMessage(content=system),
         HumanMessage(content=query)
@@ -234,7 +242,7 @@ def graph_plot_llm(query):
         extracted_data = [[float(point) for point in list(item)] for item in list(reduced_vectors)]
         return (extracted_data, catagory)
 
-init_chain(False,True,[[ 'data/c017', 'data/c018', 'data/c019', 'data/c020', 'data/c021']])
+#init_chain(False,True,[[ 'data/c017', 'data/c018', 'data/c019', 'data/c020', 'data/c021']])
 
 
 

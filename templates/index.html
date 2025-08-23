@@ -236,10 +236,10 @@
 
       try {
         // Replace this with your Flask backend endpoint
-        const response = await fetch("/api-endpoint", {
+        const response = await fetch("/api", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ query: text })
+          body: JSON.stringify({ message: text })
         });
 
         if (!response.ok) throw new Error("Server error");

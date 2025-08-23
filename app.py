@@ -12,7 +12,7 @@ def index():
 def api():
     response = llm_module.llm_response(request.json['message'],llm)
     graph_plot = llm_module.graph_plot_llm(response)
-    return jsonify({"response":response,"graph_plot":graph_plot})
+    return jsonify({"query":response,"graph_plot":graph_plot})
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)

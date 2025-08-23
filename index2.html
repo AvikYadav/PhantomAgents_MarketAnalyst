@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Phantom AI Agent</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="background-effects"></div>
+  <header class="app-header">
+    <div class="brand">
+      <span class="phantom-mark"></span>
+      <span class="brand-text">Phantom AI Agent</span>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="chat card">
+      <div id="messages" class="messages">
+        <div class="msg bot">
+          <div class="avatar"></div>
+          <div class="content">
+            👋 Hi, I’m Phantom. Ask me about markets, documents, or stocks!
+          </div>
+        </div>
+      </div>
+      <div id="typingIndicator" class="typing-indicator" style="display: none;">
+        <div class="avatar"></div>
+        <div class="dots"><span></span><span></span><span></span></div>
+      </div>
+      <form id="chatForm" class="input-row" autocomplete="off">
+        <input id="userInput" class="input" type="text" placeholder="Ask Phantom…" required />
+        <button type="submit" class="btn">Send</button>
+      </form>
+    </section>
+
+    <section class="graph card">
+      <div class="graph-head">
+        <h2>Embedding Map</h2>
+        <div id="graphMeta" class="graph-meta"></div>
+      </div>
+      <div class="canvas-container">
+        <canvas id="graphCanvas"></canvas>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <small>Built with 💀 Phantom Intelligence</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

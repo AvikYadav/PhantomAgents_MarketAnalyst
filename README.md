@@ -15,7 +15,7 @@
 ---
 
 ## 📌 Overview  
-Phantom Agents is an **AI-powered market research analyst** designed to act as a proactive business-building partner. Unlike traditional market research tools, Phantom Agents continuously ingests, analyzes, and predicts real-time market shifts, providing **actionable insights** and **investment suggestions** before the market reacts.  
+FinSight is an **AI-powered market research analyst** designed to act as a proactive business-building partner. Unlike traditional market research tools, FinSight continuously ingests, analyzes, and predicts real-time market shifts, providing **actionable insights** and **investment suggestions** before the market reacts.  
 
 ---
 
@@ -28,7 +28,7 @@ Phantom Agents is an **AI-powered market research analyst** designed to act as a
 ---
 
 ## ✅ Solution  
-Phantom Agents provides:  
+FinSight provides:  
 - **Proactive Insights** – Predicts what could happen, not just what has happened.  
 - **Comprehensive Guidance** – Market-entry strategies, idea validation, and competitor analysis.  
 - **Actionable Investment Suggestions** – Identifies unseen trends early.  

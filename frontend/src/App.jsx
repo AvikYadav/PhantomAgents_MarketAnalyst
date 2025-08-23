@@ -1,13 +1,12 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
-// --- INLINE ICONS ---
-// Using emojis as inline icons for simplicity and reliability.
+
 const UserIcon = () => <div style={{ fontSize: "20px" }}>🧑</div>;
 const BotIcon = () => <div style={{ fontSize: "20px" }}>🤖</div>;
 const SendIcon = () => <div style={{ fontSize: "18px" }}>➤</div>;
 
-// --- LOADER ---
+
 const Loader = () => (
   <>
     <div style={{ display: "flex", gap: "4px" }}>
@@ -24,7 +23,7 @@ const Loader = () => (
   </>
 );
 
-// --- MOCK VECTOR DATA (Initial data to display on load) ---
+
 const initialVectorData = [
   { x: -21.435, y: 3.223, type: 'Financials' },
   { x: -20.074, y: 4.124, type: 'Financials' },
@@ -37,8 +36,7 @@ const initialVectorData = [
   { x: -8.231, y: -9.567, type: 'Innovation' },
 ];
 
-// --- SYMBOL MAP ---
-// This object maps the data 'type' from the backend to the visual properties (color and shape)
+
 const typeMapping = {
   Financials: { color: '#c084fc', shape: 'triangle' },
   Sentiment: { color: '#4ade80', shape: 'circle' },
@@ -53,8 +51,7 @@ const typeMapping = {
   events_interactions: { color: '#38bdf8', shape: 'triangle'}
 };
 
-// --- CUSTOM SHAPE RENDERER ---
-// This component renders a specific shape based on the data point's 'type' property
+
 const CustomShape = (props) => {
   const { cx, cy, payload } = props;
   const { type } = payload;
@@ -105,17 +102,16 @@ export default function App() {
     e.preventDefault();
     if (!input.trim()) return;
     
-    // Add user message to UI immediately
+ 
     const userMsg = { text: input, sender: 'user' };
     setMessages((prev) => [...prev, userMsg]);
     setInput('');
     setIsLoading(true);
 
     try {
-      // Use a dynamic URL to be compatible with different environments
+   
       const baseUrl = window.location.origin;
 
-      // 1. Fetch text response from the `/api` endpoint
       const textApiUrl = `${baseUrl}/api`;
       const textResponse = await fetch(textApiUrl, {
         method: 'POST',
@@ -137,7 +133,7 @@ export default function App() {
         throw new Error("Invalid text response format from backend.");
       }
 
-      // 2. Fetch graph data from the `/graph` endpoint
+
       const graphApiUrl = `${baseUrl}/graph`;
       const graphResponse = await fetch(graphApiUrl, {
         method: 'POST',
@@ -153,7 +149,7 @@ export default function App() {
       
       const graphResult = await graphResponse.json();
 
-      // IMPORTANT FIX: The backend returns a 'graph' key, not 'points'
+ 
       if (graphResult && graphResult.graph) {
         setGraphData(graphResult.graph);
       } else {

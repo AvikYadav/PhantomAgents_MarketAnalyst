@@ -37,13 +37,12 @@ const initialVectorData = [
   { x: -8.231, y: -9.567, type: 'Innovation' },
 ];
 
-// --- SYMBOL MAP (UPDATED FOR DARK THEME) ---
+// --- SYMBOL MAP ---
 // This object maps the data 'type' from the backend to the visual properties (color and shape)
 const typeMapping = {
-  Financials: { color: '#c084fc', shape: 'triangle' }, // A vibrant purple
-  Sentiment: { color: '#4ade80', shape: 'circle' },    // A vibrant green
-  Innovation: { color: '#22d3ee', shape: 'star' },     // A vibrant cyan
-  // Add other categories from your backend here as they are created
+  Financials: { color: '#c084fc', shape: 'triangle' },
+  Sentiment: { color: '#4ade80', shape: 'circle' },
+  Innovation: { color: '#22d3ee', shape: 'star' },
   general: { color: '#facc15', shape: 'circle'},
   documentation: { color: '#fb923c', shape: 'star'},
   finances: { color: '#c084fc', shape: 'triangle'},
@@ -55,6 +54,7 @@ const typeMapping = {
 };
 
 // --- CUSTOM SHAPE RENDERER ---
+// This component renders a specific shape based on the data point's 'type' property
 const CustomShape = (props) => {
   const { cx, cy, payload } = props;
   const { type } = payload;
@@ -94,7 +94,7 @@ export default function App() {
   const [messages, setMessages] = useState([{ text: "Hello! I'm your AI Market Analyst. How can I help?", sender: 'bot' }]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
-  const [graphData, setGraphData] = useState(initialVectorData); // New state variable for graph data
+  const [graphData, setGraphData] = useState(initialVectorData);
   const messagesEndRef = useRef(null);
 
   useEffect(() => {
@@ -112,8 +112,11 @@ export default function App() {
     setIsLoading(true);
 
     try {
+      // Use a dynamic URL to be compatible with different environments
+      const baseUrl = window.location.origin;
+
       // 1. Fetch text response from the `/api` endpoint
-      const textApiUrl = `http://127.0.0.1:5000/api`;
+      const textApiUrl = `${baseUrl}/api`;
       const textResponse = await fetch(textApiUrl, {
         method: 'POST',
         headers: {
@@ -135,7 +138,7 @@ export default function App() {
       }
 
       // 2. Fetch graph data from the `/graph` endpoint
-      const graphApiUrl = `http://127.0.0.1:5000/graph`;
+      const graphApiUrl = `${baseUrl}/graph`;
       const graphResponse = await fetch(graphApiUrl, {
         method: 'POST',
         headers: {
@@ -150,9 +153,11 @@ export default function App() {
       
       const graphResult = await graphResponse.json();
 
+      // IMPORTANT FIX: The backend returns a 'graph' key, not 'points'
       if (graphResult && graphResult.graph) {
         setGraphData(graphResult.graph);
       } else {
+        setGraphData([]); // Clear the chart if no data is returned
         throw new Error("Invalid graph response format from backend.");
       }
 

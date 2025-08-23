@@ -66,7 +66,7 @@ FinSight provides:
 
 ---
 
-## 📈 Usability & Scalability  
+##  Usability & Scalability  
 - **High Usability** – For founders, analysts, and investors  
 - **Extreme Scalability** – Handles vast, real-time data sources  
 - **Adaptability** – Retrainable for niche industries & markets  

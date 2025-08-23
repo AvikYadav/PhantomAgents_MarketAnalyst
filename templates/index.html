@@ -142,130 +142,133 @@
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script>
-    // Initial data
-    const initialVectorData = [
-      { x: -21.435, y: 3.223, type: 'Financials' },
-      { x: -20.074, y: 4.124, type: 'Financials' },
-      { x: -21.254, y: 5.048, type: 'Financials' },
-      { x: -16.512, y: 1.890, type: 'Sentiment' },
-      { x: -17.966, y: 3.738, type: 'Sentiment' },
-      { x: -19.506, y: 6.867, type: 'Sentiment' },
-      { x: -4.581, y: -3.741, type: 'Innovation' },
-      { x: -6.664, y: -11.835, type: 'Innovation' },
-      { x: -8.231, y: -9.567, type: 'Innovation' },
-    ];
+  // Initial data
+  const initialVectorData = [
+    { x: -21.435, y: 3.223, type: 'Financials' },
+    { x: -20.074, y: 4.124, type: 'Financials' },
+    { x: -21.254, y: 5.048, type: 'Financials' },
+    { x: -16.512, y: 1.890, type: 'Sentiment' },
+    { x: -17.966, y: 3.738, type: 'Sentiment' },
+    { x: -19.506, y: 6.867, type: 'Sentiment' },
+    { x: -4.581, y: -3.741, type: 'Innovation' },
+    { x: -6.664, y: -11.835, type: 'Innovation' },
+    { x: -8.231, y: -9.567, type: 'Innovation' },
+  ];
 
-    const typeColors = {
-      Financials: '#c084fc',
-      Sentiment: '#4ade80',
-      Innovation: '#22d3ee',
-    };
+  const typeColors = {
+    Financials: '#c084fc',
+    Sentiment: '#4ade80',
+    Innovation: '#22d3ee',
+  };
 
-    // Scatter chart setup
-    const ctx = document.getElementById("scatterChart").getContext("2d");
-    const scatterChart = new Chart(ctx, {
-      type: "scatter",
-      data: {
-        datasets: [
-          {
-            label: "Financials",
-            data: initialVectorData.filter(d => d.type === "Financials"),
-            backgroundColor: typeColors.Financials,
-          },
-          {
-            label: "Sentiment",
-            data: initialVectorData.filter(d => d.type === "Sentiment"),
-            backgroundColor: typeColors.Sentiment,
-          },
-          {
-            label: "Innovation",
-            data: initialVectorData.filter(d => d.type === "Innovation"),
-            backgroundColor: typeColors.Innovation,
-          }
-        ]
-      },
-      options: {
-        responsive: false,
-        plugins: {
-          tooltip: {
-            callbacks: {
-              label: ctx => `Type: ${ctx.raw.type}, X: ${ctx.raw.x.toFixed(3)}, Y: ${ctx.raw.y.toFixed(3)}`
-            }
-          }
+  // Scatter chart setup
+  const ctx = document.getElementById("scatterChart").getContext("2d");
+  const scatterChart = new Chart(ctx, {
+    type: "scatter",
+    data: {
+      datasets: [
+        {
+          label: "Financials",
+          data: initialVectorData.filter(d => d.type === "Financials"),
+          backgroundColor: typeColors.Financials,
         },
-        scales: {
-          x: { title: { display: true, text: "X" } },
-          y: { title: { display: true, text: "Y" } }
+        {
+          label: "Sentiment",
+          data: initialVectorData.filter(d => d.type === "Sentiment"),
+          backgroundColor: typeColors.Sentiment,
+        },
+        {
+          label: "Innovation",
+          data: initialVectorData.filter(d => d.type === "Innovation"),
+          backgroundColor: typeColors.Innovation,
         }
+      ]
+    },
+    options: {
+      responsive: false,
+      plugins: {
+        tooltip: {
+          callbacks: {
+            label: ctx => `Type: ${ctx.raw.type}, X: ${ctx.raw.x.toFixed(3)}, Y: ${ctx.raw.y.toFixed(3)}`
+          }
+        }
+      },
+      scales: {
+        x: { title: { display: true, text: "X" } },
+        y: { title: { display: true, text: "Y" } }
       }
-    });
-
-    // Chat logic
-    const messagesDiv = document.getElementById("messages");
-    const form = document.getElementById("chat-form");
-    const input = document.getElementById("chat-input");
-
-    function addMessage(text, sender="bot") {
-      const msgDiv = document.createElement("div");
-      msgDiv.classList.add("msg", sender);
-
-      const bubble = document.createElement("div");
-      bubble.classList.add("bubble", sender);
-      bubble.innerText = text;
-
-      msgDiv.appendChild(bubble);
-      messagesDiv.appendChild(msgDiv);
-      messagesDiv.scrollTop = messagesDiv.scrollHeight;
     }
+  });
 
-    addMessage("Hello! I'm your AI Market Analyst. How can I help?", "bot");
+  // Chat logic
+  const messagesDiv = document.getElementById("messages");
+  const form = document.getElementById("chat-form");
+  const input = document.getElementById("chat-input");
 
-    form.addEventListener("submit", async (e) => {
-      e.preventDefault();
-      const text = input.value.trim();
-      if (!text) return;
-      addMessage(text, "user");
-      input.value = "";
+  function addMessage(text, sender="bot") {
+    const msgDiv = document.createElement("div");
+    msgDiv.classList.add("msg", sender);
 
-      // Show loader
-      const loader = document.createElement("div");
-      loader.classList.add("loader");
-      loader.innerHTML = "<span></span><span></span><span></span>";
-      messagesDiv.appendChild(loader);
-      messagesDiv.scrollTop = messagesDiv.scrollHeight;
+    const bubble = document.createElement("div");
+    bubble.classList.add("bubble", sender);
+    bubble.innerText = text;
 
-      try {
-        // Replace this with your Flask backend endpoint
-        const response = await fetch("/api", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ message: text })
-        });
+    msgDiv.appendChild(bubble);
+    messagesDiv.appendChild(msgDiv);
+    messagesDiv.scrollTop = messagesDiv.scrollHeight;
+  }
 
-        if (!response.ok) throw new Error("Server error");
-        const data = await response.json();
+  addMessage("Hello! I'm your AI Market Analyst. How can I help?", "bot");
 
-        // Expecting { response: { chatMessage, newGraphData } }
-        loader.remove();
-        if (data.response) {
-          addMessage(data.response.chatMessage, "bot");
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const text = input.value.trim();
+    if (!text) return;
+    addMessage(text, "user");
+    input.value = "";
 
-          // Update chart
+    // Show loader
+    const loader = document.createElement("div");
+    loader.classList.add("loader");
+    loader.innerHTML = "<span></span><span></span><span></span>";
+    messagesDiv.appendChild(loader);
+    messagesDiv.scrollTop = messagesDiv.scrollHeight;
+
+    try {
+      const response = await fetch("/api", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: text })
+      });
+
+      if (!response.ok) throw new Error("Server error");
+      const data = await response.json();
+
+      loader.remove();
+
+      // ✅ FIX: use backend's actual structure
+      if (data.response) {
+        addMessage(data.response, "bot");   // <-- plain string now
+
+        // Update chart
+        if (data.graph_plot) {
           scatterChart.data.datasets.forEach(ds => ds.data = []);
-          data.response.newGraphData.forEach(d => {
+          data.graph_plot.forEach(d => {
             const ds = scatterChart.data.datasets.find(ds => ds.label === d.type);
             if (ds) ds.data.push(d);
           });
           scatterChart.update();
-        } else {
-          addMessage("Invalid response format from backend.", "bot");
         }
-      } catch (err) {
-        loader.remove();
-        addMessage("Sorry, I couldn't fetch the data.", "bot");
-        console.error(err);
+      } else {
+        addMessage("Invalid response format from backend.", "bot");
       }
-    });
-  </script>
+    } catch (err) {
+      loader.remove();
+      addMessage("Sorry, I couldn't fetch the data.", "bot");
+      console.error(err);
+    }
+  });
+</script>
+
 </body>
 </html>

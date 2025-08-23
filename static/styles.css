@@ -18,8 +18,8 @@
   --category-macro_regulatory_data: #ef4444; /* Red */
   --category-sentiment_external_opinions: #facc15; /* Yellow */
   --category-events_interactions: #6366f1; /* Indigo */
-  --category-general: #9ca3af;       /* Grey */
-  --category-default: #9ca3af;      /* Grey for fallback */
+  --category-general: white;       /* Grey */
+  --category-default: white;      /* Grey for fallback */
 }
 
 /* ... (the rest of your CSS file remains the same) ... */

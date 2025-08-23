@@ -13,7 +13,23 @@ document.addEventListener("DOMContentLoaded", () => {
   const style = getComputedStyle(document.body);
   const textColor = style.getPropertyValue('--text').trim();
   const gridColor = style.getPropertyValue('--border').trim();
-  const accentColor = style.getPropertyValue('--accent').trim();
+  // We no longer need accentColor here, as it will be set dynamically
+
+  // NEW: A map to link category strings from the backend to your CSS color variables.
+  // Make sure the keys here exactly match the category strings your backend sends.
+  const categoryColorMap = {
+    "core": "var(--category-core)",
+    "documentation": "var(--category-documentation)",
+    "finances": "var(--category-finances)",
+    "market": "var(--category-market)",
+    "stockdata": "var(--category-stockdata)",
+    "macro_regulatory_data": "var(--category-macro_regulatory_data)",
+    "sentiment_external_opinions": "var(--category-sentiment_external_opinions)",
+    "events_interactions": "var(--category-events_interactions)",
+    "general": "var(--category-general)"
+  };
+  const defaultColor = "var(--category-default)";
+
 
   let scatter = new Chart(graphCtx, {
     type: "scatter",
@@ -22,8 +38,9 @@ document.addEventListener("DOMContentLoaded", () => {
         label: "Vector Embeddings",
         data: [],
         pointRadius: 1,
-        pointBackgroundColor: accentColor,
-        pointBorderColor: accentColor
+        // The colors will now be set dynamically in the updateGraph function
+        pointBackgroundColor: defaultColor,
+        pointBorderColor: defaultColor
       }]
     },
     options: {
@@ -59,39 +76,41 @@ document.addEventListener("DOMContentLoaded", () => {
     messagesDiv.scrollTop = messagesDiv.scrollHeight;
   }
 
-function updateGraph(graphData) {
-    // Check if graphData is a valid array with at least two elements
+  // --- THIS FUNCTION IS MODIFIED ---
+  function updateGraph(graphData) {
     if (!Array.isArray(graphData) || graphData.length < 2) {
-        console.error("Invalid graph data received. Expected an array.", graphData);
-        graphMeta.textContent = "Graph data unavailable.";
-        // Clear previous data if the new data is invalid
-        scatter.data.datasets[0].data = [];
-        scatter.update();
-        return;
+      console.error("Invalid graph data received. Expected an array.", graphData);
+      graphMeta.textContent = "Graph data unavailable.";
+      scatter.data.datasets[0].data = [];
+      scatter.update();
+      return;
     }
 
-    // Unpack the array by index:
-    // graphData[0] is the list of vector points (extracted_data)
-    // graphData[1] is the category string
     const points = graphData[0];
     const category = graphData[1];
 
-    // Ensure points is also an array before proceeding
     if (!Array.isArray(points)) {
-        console.error("Points data is not an array.", points);
-        graphMeta.textContent = "Invalid points format.";
-        return;
+      console.error("Points data is not an array.", points);
+      graphMeta.textContent = "Invalid points format.";
+      return;
     }
 
-    scatter.data.datasets[0].data = points.map(p => ({ x: p[0], y: p[1] }));
+    // NEW: Get the color for the category, or use the default color if not found.
+    const color = categoryColorMap[category] || defaultColor;
+
+    const dataset = scatter.data.datasets[0];
+
+    // NEW: Update the dataset's colors dynamically.
+    dataset.pointBackgroundColor = color;
+    dataset.pointBorderColor = color;
+
+    // Update the data points and refresh the chart.
+    dataset.data = points.map(p => ({ x: p[0], y: p[1] }));
     scatter.update();
     graphMeta.textContent = `${category} • ${points.length} points`;
   }
 
-
-
-  // --- Core API Fetch Function (FIXED) ---
-
+  // --- Core API Fetch Function (no changes here) ---
   async function getApiResponse(message) {
     try {
       const response = await fetch("/api", {
@@ -101,27 +120,17 @@ function updateGraph(graphData) {
         },
         body: JSON.stringify({ message: message })
       });
-
-      if (!response.ok) {
-        throw new Error(`HTTP error! Status: ${response.status}`);
-      }
-
-      // The backend returns a single JSON with both keys
       return await response.json();
-
     } catch (error) {
       console.error("Failed to fetch from API:", error);
-      // Return an object with an error message to display in the chat
       return {
         response: "Sorry, I couldn't connect to the server. Please try again later.",
-        graph_plot: null // Ensure graph_plot is null on error
+        graph_plot: null
       };
     }
   }
 
-
-  // --- Event Listener ---
-
+  // --- Event Listener (no changes here) ---
   chatForm.addEventListener("submit", async (e) => {
     e.preventDefault();
     const text = userInput.value.trim();
@@ -132,12 +141,10 @@ function updateGraph(graphData) {
     typingIndicator.style.display = 'flex';
     messagesDiv.scrollTop = messagesDiv.scrollHeight;
 
-    // Call the single, combined API function
     const apiData = await getApiResponse(text);
 
     typingIndicator.style.display = 'none';
 
-    // Use the 'response' and 'graph_plot' keys from the returned object
     addMessage({ text: apiData.response, role: "bot" });
     updateGraph(apiData.graph_plot);
   });

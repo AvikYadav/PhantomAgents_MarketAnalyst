@@ -24,8 +24,8 @@ const Loader = () => (
   </>
 );
 
-// --- MOCK VECTOR DATA ---
-const mockVectorData = [
+// --- MOCK VECTOR DATA (Initial data to display on load) ---
+const initialVectorData = [
   { x: -21.435, y: 3.223, type: 'Financials' },
   { x: -20.074, y: 4.124, type: 'Financials' },
   { x: -21.254, y: 5.048, type: 'Financials' },
@@ -38,17 +38,32 @@ const mockVectorData = [
 ];
 
 // --- SYMBOL MAP (UPDATED FOR DARK THEME) ---
+// This object maps the data 'type' from the backend to the visual properties (color and shape)
 const typeMapping = {
   Financials: { color: '#c084fc', shape: 'triangle' }, // A vibrant purple
   Sentiment: { color: '#4ade80', shape: 'circle' },    // A vibrant green
   Innovation: { color: '#22d3ee', shape: 'star' },     // A vibrant cyan
+  // Add other categories from your backend here as they are created
+  general: { color: '#facc15', shape: 'circle'},
+  documentation: { color: '#fb923c', shape: 'star'},
+  finances: { color: '#c084fc', shape: 'triangle'},
+  market: { color: '#16a34a', shape: 'star'},
+  stockdata: { color: '#22d3ee', shape: 'triangle'},
+  macro_regulatory_data: { color: '#f43f5e', shape: 'star'},
+  sentiment_external_opinions: { color: '#4ade80', shape: 'circle'},
+  events_interactions: { color: '#38bdf8', shape: 'triangle'}
 };
 
 // --- CUSTOM SHAPE RENDERER ---
 const CustomShape = (props) => {
   const { cx, cy, payload } = props;
   const { type } = payload;
-  const { color, shape } = typeMapping[type];
+  const { color, shape } = typeMapping[type] || {};
+
+  if (!shape) {
+    // Return a default shape if the type is not found
+    return <circle cx={cx} cy={cy} r={6} fill="#94a3b8" />; 
+  }
 
   if (shape === 'circle') {
     return <circle cx={cx} cy={cy} r={6} fill={color} />;
@@ -79,24 +94,74 @@ export default function App() {
   const [messages, setMessages] = useState([{ text: "Hello! I'm your AI Market Analyst. How can I help?", sender: 'bot' }]);
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+  const [graphData, setGraphData] = useState(initialVectorData); // New state variable for graph data
   const messagesEndRef = useRef(null);
 
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
-  const handleSendMessage = (e) => {
+  const handleSendMessage = async (e) => {
     e.preventDefault();
     if (!input.trim()) return;
-    const msg = { text: input, sender: 'user' };
-    setMessages((prev) => [...prev, msg]);
+    
+    // Add user message to UI immediately
+    const userMsg = { text: input, sender: 'user' };
+    setMessages((prev) => [...prev, userMsg]);
     setInput('');
     setIsLoading(true);
 
-    setTimeout(() => {
-      setMessages((prev) => [...prev, { text: "Here’s some analysis based on your query!", sender: 'bot' }]);
+    try {
+      // 1. Fetch text response from the `/api` endpoint
+      const textApiUrl = `http://127.0.0.1:5000/api`;
+      const textResponse = await fetch(textApiUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ message: input }),
+      });
+
+      if (!textResponse.ok) {
+        throw new Error(`Text API error! Status: ${textResponse.status}`);
+      }
+
+      const textResult = await textResponse.json();
+
+      if (textResult && textResult.response) {
+        setMessages((prev) => [...prev, { text: textResult.response, sender: 'bot' }]);
+      } else {
+        throw new Error("Invalid text response format from backend.");
+      }
+
+      // 2. Fetch graph data from the `/graph` endpoint
+      const graphApiUrl = `http://127.0.0.1:5000/graph`;
+      const graphResponse = await fetch(graphApiUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ message: input }),
+      });
+
+      if (!graphResponse.ok) {
+        throw new Error(`Graph API error! Status: ${graphResponse.status}`);
+      }
+      
+      const graphResult = await graphResponse.json();
+
+      if (graphResult && graphResult.graph) {
+        setGraphData(graphResult.graph);
+      } else {
+        throw new Error("Invalid graph response format from backend.");
+      }
+
+    } catch (error) {
+      console.error("Failed to fetch data:", error);
+      setMessages((prev) => [...prev, { text: "Sorry, I couldn't get a complete response. Please check the console for more details.", sender: 'bot' }]);
+    } finally {
       setIsLoading(false);
-    }, 1500);
+    }
   };
 
   return (
@@ -104,7 +169,7 @@ export default function App() {
       
       {/* Chat Section */}
       <div style={{ flex: "2", background: "#2a2a2a", borderRight: "1px solid #444", display: "flex", flexDirection: "column" }}>
-        <div style={{ padding: "1.5rem", background: "linear-gradient(180deg, #8b5cf6, #5b21b6)", color: "white", fontWeight: "bold", fontSize: "1.75rem", textAlign: "center" }}> AI Market Research Analyst</div>
+        <div style={{ padding: "1.5rem", background: "linear-gradient(180deg, #8b5cf6, #5b21b6)", color: "white", fontWeight: "bold", fontSize: "1.75rem", textAlign: "center" }}>Market Research Analyst</div>
         
         <div style={{ flex: 1, padding: "1rem", overflowY: "auto" }}>
           {messages.map((msg, i) => (
@@ -161,7 +226,7 @@ export default function App() {
                 <p>X: {payload[0].payload.x.toFixed(3)}, Y: {payload[0].payload.y.toFixed(3)}</p>
               </div>
             ) : null} />
-            <Scatter data={mockVectorData} shape={<CustomShape />} />
+            <Scatter data={graphData} shape={<CustomShape />} />
           </ScatterChart>
         </ResponsiveContainer>
       </div>

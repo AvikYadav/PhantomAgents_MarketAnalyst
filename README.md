@@ -72,3 +72,8 @@ FinSight provides:
 - **Adaptability** – Retrainable for niche industries & markets  
 
 ---
+
+## prerequesties  
+- **gemini api key**
+- **gcp project credentials**
+- **google bert/ embeddings model** 

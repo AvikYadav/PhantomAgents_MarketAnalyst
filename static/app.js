@@ -61,6 +61,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // --- UI Helper Functions ---
 
+  // function addMessage({ text, role }) {
+  //   const msgDiv = document.createElement("div");
+  //   msgDiv.className = `msg ${role}`;
+  //   const avatar = document.createElement("div");
+  //   avatar.className = "avatar";
+  //   const content = document.createElement("div");
+  //   content.className = "content";
+  //   content.innerHTML = text;
+  //   msgDiv.appendChild(avatar);
+  //   msgDiv.appendChild(content);
+  //   messagesDiv.appendChild(msgDiv);
+  //   messagesDiv.scrollTop = messagesDiv.scrollHeight;
+  // }
+
   function addMessage({ text, role }) {
     const msgDiv = document.createElement("div");
     msgDiv.className = `msg ${role}`;
@@ -68,13 +82,15 @@ document.addEventListener("DOMContentLoaded", () => {
     avatar.className = "avatar";
     const content = document.createElement("div");
     content.className = "content";
-    content.innerHTML = text;
+
+    // Render text as Markdown → HTML
+    content.innerHTML = marked.parse(text);
+
     msgDiv.appendChild(avatar);
     msgDiv.appendChild(content);
     messagesDiv.appendChild(msgDiv);
     messagesDiv.scrollTop = messagesDiv.scrollHeight;
   }
-
   function updateGraph(graphData) {
     if (!Array.isArray(graphData) || graphData.length < 2) {
       graphMeta.textContent = "Graph data unavailable.";

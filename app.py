@@ -31,12 +31,13 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return render_template("index2.html")
+    return render_template("index.html")
 
 @app.route("/api", methods=['POST'])
 def api():
     # Return only the chat response
     response = llm_module.llm_response(request.json['message'], llm)
+    print(response)
     graph_plot = llm_module.graph_plot_llm(response)
     return jsonify({"response": response,"graph_plot": graph_plot})
 

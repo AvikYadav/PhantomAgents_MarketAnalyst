@@ -3,7 +3,7 @@ import json
 import os
 import glob
 import time
-
+import json
 import numpy as np
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_community.document_loaders import TextLoader
@@ -30,6 +30,26 @@ creds = service_account.Credentials.from_service_account_file(
 vector_store = None
 
 
+def parse_dict_string(s):
+    """
+    Extracts a dictionary from a string and returns it as a Python dict.
+    Handles extra characters, single/double quotes, and Python-style dicts.
+    """
+    # Try to extract the first {...} block
+    match = re.search(r'\{.*\}', s)
+    if not match:
+        raise ValueError("No dictionary found in the string")
+
+    dict_str = match.group()
+
+    try:
+        # Safely evaluate the dict string
+        result = ast.literal_eval(dict_str)
+        if not isinstance(result, dict):
+            raise ValueError("Parsed value is not a dictionary")
+        return result
+    except Exception as e:
+        raise ValueError(f"Failed to parse dictionary: {e}")
 
 
 def chunking(companyNoExclusive:int):
@@ -212,7 +232,9 @@ def graph_plot_llm(query):
         SystemMessage(content=system),
         HumanMessage(content=query)
     ]
-    response = ast.literal_eval(str(llm.invoke(messages).content))
+    print(llm.invoke(messages).content)
+    print(" parse string :  ",parse_dict_string(llm.invoke(messages).content))
+    response = parse_dict_string(llm.invoke(messages).content)
     catagory = response["result"]
 
     collection = vector_store._collection

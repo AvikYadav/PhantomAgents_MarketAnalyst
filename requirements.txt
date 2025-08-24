@@ -54,6 +54,7 @@ google-cloud-core==2.4.3
 google-cloud-resource-manager==1.14.2
 google-cloud-storage==2.19.0
 google-crc32c==1.7.1
+gunicorn==23.0.0
 google-genai==1.31.0
 google-resumable-media==2.7.2
 googleapis-common-protos==1.70.0
@@ -233,3 +234,4 @@ win-inet-pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/wi
 yarl @ file:///C:/b/abs_281qby2vim/croot/yarl_1732546854547/work
 zipp==3.23.0
 zstandard==0.24.0
+

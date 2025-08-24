@@ -21,7 +21,6 @@ from langchain_core.messages import HumanMessage, SystemMessage
 from sklearn.manifold import TSNE
 
 load_dotenv(override=True)
-os.environ['OPENAI_API_KEY'] = os.getenv('OPENAI_API_KEY', 'your-key-if-not-using-env')
 db_name = "vector_db"
 creds = service_account.Credentials.from_service_account_file(
     os.getenv('GOOGLE_APPLICATION_CREDENTIALS', 'your-key-if-not-using-env')
